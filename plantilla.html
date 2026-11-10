@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Radar · Pesos y Bits</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<style>
+:root{
+  --fondo:#f5f3ec; --papel:#ffffff; --tinta:#14213d; --suave:#5b6478; --linea:#d9d6cb;
+  --oro:#a87a12; --oro-fondo:#fbf1d6; --ok:#1f7a4d; --sello:#b3261e;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --fondo:#0a1630; --papel:#11203f; --tinta:#eef1f8; --suave:#9aa6c2; --linea:#22355e;
+    --oro:#e8b93a; --oro-fondo:#2a2a1c; --ok:#5fd39a; --sello:#ff8a7a;
+    color-scheme: dark;
+  }
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+body{margin:0;background:var(--fondo);color:var(--tinta);
+  font:16px/1.5 Archivo, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;font-variant-numeric:tabular-nums}
+main{max-width:760px;margin:0 auto;padding:20px 16px 120px}
+header h1{font-size:clamp(28px,7vw,44px);line-height:1.05;margin:8px 0 4px;font-weight:800;letter-spacing:-.02em}
+header p{margin:0;color:var(--suave)}
+.aviso{margin:16px 0;padding:12px 14px;border-left:4px solid var(--oro);background:var(--oro-fondo);border-radius:4px;font-size:14px}
+.filtros{display:flex;gap:8px;overflow-x:auto;padding:8px 0;margin:8px 0 0}
+.filtros button{flex:none;border:1px solid var(--linea);background:var(--papel);color:var(--tinta);
+  padding:7px 12px;border-radius:999px;font:inherit;font-size:14px;cursor:pointer}
+.filtros button[aria-pressed="true"]{background:var(--tinta);color:var(--fondo);border-color:var(--tinta)}
+ol{list-style:none;margin:16px 0 0;padding:0}
+li.historia{background:var(--papel);border:1px solid var(--linea);border-radius:10px;padding:14px 14px 12px 54px;
+  margin:0 0 12px;position:relative}
+li.historia::before{content:attr(data-n);position:absolute;left:14px;top:12px;font-weight:800;font-size:22px;color:var(--oro)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:13px;color:var(--suave);margin-bottom:4px}
+.meta .nueva{color:var(--ok);font-weight:600}
+.meta .oficial{color:var(--oro);font-weight:600}
+h2{font-size:18px;line-height:1.3;margin:0 0 6px}
+h2 a{color:inherit;text-decoration:none}
+h2 a:hover,h2 a:focus-visible{text-decoration:underline}
+.angulo{margin:0 0 8px;font-size:14px;color:var(--suave)}
+.sellos{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:8px}
+.sello{border:2px solid var(--sello);color:var(--sello);font-weight:800;font-size:12px;padding:1px 7px;border-radius:3px;transform:rotate(-2deg)}
+details{font-size:14px}
+details summary{cursor:pointer;color:var(--suave)}
+details ul{margin:6px 0 0;padding-left:18px}
+details a{color:var(--tinta)}
+label.elegir{display:flex;align-items:center;gap:6px;font-size:14px;margin-top:8px;cursor:pointer}
+.barra{position:fixed;left:0;right:0;bottom:0;background:var(--papel);border-top:1px solid var(--linea);
+  padding:10px 16px calc(10px + env(safe-area-inset-bottom,0px));display:flex;gap:10px;align-items:center;justify-content:center}
+.barra button{white-space:nowrap;border:0;background:var(--oro);color:#14213d;font:inherit;font-weight:800;padding:12px 18px;border-radius:8px;cursor:pointer}
+.barra span{font-size:13px;color:var(--suave)}
+.fallas{margin-top:24px;font-size:13px;color:var(--suave)}
+:focus-visible{outline:3px solid var(--oro);outline-offset:2px}
+@media (prefers-reduced-motion:no-preference){.sello{transition:transform .15s}}
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Radar de Pesos y Bits</h1>
+    <p id="resumen"></p>
+  </header>
+  <p class="aviso">El radar encuentra y ordena noticias; no las verifica. Antes de que un dato entre a un guion, ábrelo en la fuente oficial.</p>
+  <div class="filtros" id="filtrosTema" aria-label="Filtrar por tema"></div>
+  <div class="filtros" id="filtrosFormato" aria-label="Filtrar por formato"></div>
+  <ol id="lista"></ol>
+  <section class="fallas" id="fallas"></section>
+</main>
+<div class="barra">
+  <button id="copiar" type="button">Copiar para Claude</button>
+  <span id="cuenta">Sin selección: van las 8 primeras</span>
+</div>
+<script>
+const DATOS = /*__DATOS__*/null;
+const $ = s => document.querySelector(s);
+const elegidas = new Set();
+let filtroTema = null, filtroFormato = null;
+
+function boton(texto, activo, alHacerClic){
+  const b = document.createElement("button");
+  b.type = "button"; b.textContent = texto; b.setAttribute("aria-pressed", activo ? "true" : "false");
+  b.addEventListener("click", alHacerClic); return b;
+}
+
+function pintarFiltros(){
+  const temas = [...new Set(DATOS.historias.map(h => h.tema))];
+  const ft = $("#filtrosTema"); ft.replaceChildren(boton("Todos los temas", !filtroTema, () => {filtroTema = null; pintar();}));
+  temas.forEach(t => ft.append(boton(DATOS.temas[t], filtroTema === t, () => {filtroTema = t; pintar();})));
+  const ff = $("#filtrosFormato"); ff.replaceChildren(boton("Todos los formatos", !filtroFormato, () => {filtroFormato = null; pintar();}));
+  ["Largo","Short","TikTok"].forEach(f => ff.append(boton(f, filtroFormato === f, () => {filtroFormato = f; pintar();})));
+}
+
+function pintar(){
+  pintarFiltros();
+  const lista = $("#lista"); lista.replaceChildren();
+  DATOS.historias.forEach((h, i) => {
+    if (filtroTema && h.tema !== filtroTema) return;
+    if (filtroFormato && !h.formatos.includes(filtroFormato)) return;
+    const li = document.createElement("li"); li.className = "historia";
+    li.dataset.n = i + 1;
+    const meta = document.createElement("div"); meta.className = "meta";
+    const est = document.createElement("span");
+    est.textContent = h.estado === "Nueva" ? "Nueva" : "Sigue desde " + h.desde;
+    if (h.estado === "Nueva") est.className = "nueva";
+    meta.append(est);
+    const tema = document.createElement("span"); tema.textContent = h.tema_nombre; meta.append(tema);
+    const cob = document.createElement("span");
+    cob.textContent = h.fuentes.length + (h.fuentes.length === 1 ? " medio" : " medios"); meta.append(cob);
+    if (h.oficial){ const o = document.createElement("span"); o.className = "oficial"; o.textContent = "Fuente oficial"; meta.append(o); }
+    const h2 = document.createElement("h2"); const a = document.createElement("a");
+    a.href = h.notas[0].link; a.target = "_blank"; a.rel = "noopener"; a.textContent = h.titulo; h2.append(a);
+    const ang = document.createElement("p"); ang.className = "angulo"; ang.textContent = "Ángulo: " + h.angulo;
+    const sellos = document.createElement("div"); sellos.className = "sellos";
+    h.formatos.forEach(f => { const s = document.createElement("span"); s.className = "sello"; s.textContent = f; sellos.append(s); });
+    const det = document.createElement("details"); const sum = document.createElement("summary");
+    sum.textContent = "Ver notas (" + h.notas.length + ")"; det.append(sum);
+    const ul = document.createElement("ul");
+    h.notas.forEach(n => { const li2 = document.createElement("li"); const a2 = document.createElement("a");
+      a2.href = n.link; a2.target = "_blank"; a2.rel = "noopener"; a2.textContent = n.titulo;
+      li2.append(a2, " · " + n.fuente + " · " + n.fecha); ul.append(li2); });
+    det.append(ul);
+    const lab = document.createElement("label"); lab.className = "elegir";
+    const cb = document.createElement("input"); cb.type = "checkbox"; cb.checked = elegidas.has(i);
+    cb.addEventListener("change", () => { cb.checked ? elegidas.add(i) : elegidas.delete(i); contar(); });
+    lab.append(cb, "Llevar al prompt");
+    li.append(meta, h2, ang, sellos, det, lab); lista.append(li);
+  });
+  if (!lista.children.length){ const p = document.createElement("p"); p.textContent = "No hay historias con ese filtro. Prueba con otro tema o formato."; lista.append(p); }
+}
+
+function contar(){
+  $("#cuenta").textContent = elegidas.size ? elegidas.size + " elegidas" : "Sin selección: van las 8 primeras";
+}
+
+function armarPrompt(){
+  const idx = elegidas.size ? [...elegidas].sort((a,b) => a-b) : DATOS.historias.slice(0, 8).map((_, i) => i);
+  const lineas = idx.map((i, k) => { const h = DATOS.historias[i];
+    return `${k+1}. ${h.titulo} | ${h.tema_nombre} | ${h.fuentes.length} medios: ${h.fuentes.slice(0,4).join(", ")} | ${h.notas[0].link}`; });
+  return `Usa la skill guiones-pesos-y-bits. Radar del ${DATOS.generado} (últimas ${DATOS.ventana_horas} h):\n\n${lineas.join("\n")}\n\n` +
+  `1) Dime en una línea por noticia si sirve para el canal y por qué.\n` +
+  `2) Elige las 3 mejores y verifica sus datos clave en fuente oficial.\n` +
+  `3) Para cada una propón: 1 video largo solo si da para explainer, 1 Short y 1 TikTok estilo expediente, con gancho de los primeros 3 segundos, título y la fuente oficial donde se confirma.\n` +
+  `4) Revisa que no se encime con los videos que ya tengo.`;
+}
+
+$("#copiar").addEventListener("click", async () => {
+  const texto = armarPrompt(), b = $("#copiar");
+  try { await navigator.clipboard.writeText(texto); }
+  catch { const t = document.createElement("textarea"); t.value = texto; document.body.append(t); t.select(); document.execCommand("copy"); t.remove(); }
+  b.textContent = "Prompt copiado"; setTimeout(() => b.textContent = "Copiar para Claude", 2000);
+});
+
+if (!DATOS){
+  $("#resumen").textContent = "Todavía no hay datos. Corre el radar una vez desde la pestaña Actions de GitHub.";
+} else {
+  $("#resumen").textContent = `Actualizado ${DATOS.generado} (hora del centro de México) · ${DATOS.historias.length} historias de ${DATOS.notas_leidas} notas leídas`;
+  pintar();
+  if (DATOS.fallas.length){
+    const f = $("#fallas"); f.textContent = DATOS.fallas.length + " búsquedas fallaron en esta corrida: " + DATOS.fallas.map(x => x.feed).join("; ") + ". Si se repite varios días, revisa la búsqueda en config.py.";
+  }
+}
+</script>
+</body>
+</html>
