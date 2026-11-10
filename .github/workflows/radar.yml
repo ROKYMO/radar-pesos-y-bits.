@@ -1,0 +1,32 @@
+name: Radar Pesos y Bits
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # todos los días a las 7:00 a. m. hora del centro de México
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: true
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python radar.py
+      - name: Guardar el radar
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add docs data
+          git diff --cached --quiet || git commit -m "Radar $(date -u +%F)"
+          git push
