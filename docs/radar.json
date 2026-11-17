@@ -1,556 +1,944 @@
 {
- "generado": "2026-11-16 09:49",
+ "generado": "2026-11-17 08:14",
  "ventana_horas": 48,
- "notas_leidas": 652,
+ "notas_leidas": 831,
  "historias": [
   {
-   "titulo": "Colombia inicia negociación del salario mínimo de 2027 con propuestas que van del 8% al 38,5%",
-   "tema": "crecimiento",
-   "tema_nombre": "Economía y empleo",
-   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
-   "puntos": 14.78,
-   "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-10",
-   "fuentes": [
-    "Agencia de Periodismo Investigativo",
-    "Almanaque Puebla",
-    "Cadena Politica",
-    "Caracol Radio",
-    "Diario AS",
-    "El Colombiano",
-    "El Diario - Noticias Pereira, Colombia y el Mundo",
-    "El Economista",
-    "Eluniversal.com.co",
-    "Emisora Nueva Época",
-    "Flipr.news",
-    "Hoy Aragón",
-    "IDNFinancials",
-    "IFM Noticias",
-    "Infobae",
-    "La FM",
-    "La Razón de México",
-    "La Verdad Noticias",
-    "MARCA",
-    "Mi bolsillo",
-    "Noticias RCN",
-    "Opanoticias",
-    "Pulzo",
-    "RED+ Noticias",
-    "Revista Economía",
-    "Revista Semana",
-    "Tropicana Colombia",
-    "ineaf",
-    "www.adn40.mx"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Salario mínimo 2027: sector patronal y sindicatos presentan sus propuestas",
-     "fuente": "El Economista",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONkNUZjJWRGFiYURXenJ1UE1YRjJZWDhFcmdWRTY5WVA3b3liRHoyMTVmb1JfVTdlY3pYdWNiYlU3cm1RS1JtcFNPU3ZILXBJbUl2cE1JM012ckNJa2xkTlNTdlZ0NFVHazE0WE40ZjBkX25UamVQVmpidTRoSFhTRnBQVWxxcGR3TzJ1MUotVWR1SDZtTV9Nak9YT0FhWWI1N01tVE9pNGtERDlTQWNyYjJjV1FQMS1GVEFITGNudjdsZld1cUpnNnpsb1F5WkRp0gHWAUFVX3lxTE5zZC1ncjBhVGtrMUF2MWtFTnZQRkw3eGRwYUhRUVRQMTFvUzhpUXFoYnNJaHROM1dpdWltaEI1ZURORkdwS2VFT0JzV29VM3NPZTZVeXlDSGZWZFFVUm90aTdjLUVFLXppWkdibkZJS3JTQWI5elg5U2FEOUJ3b3VhVUxieGtVbjBjbUI5cmFnY1l1TGZDbHRQSkFOOGU1N2d3NnViWTR6akl2WWlmS1dtOGYtSVpucEJSUmNFY21EYlhZSnl5a0pGUWlCOXB5eW5EaEEtMFE?oc=5",
-     "fecha": "14/11 14:44"
-    },
-    {
-     "titulo": "Inflación prolongada y presión fiscal: las grandes alarmas que enciende el salario mínimo de cara a 2027",
-     "fuente": "Infobae",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbmlpOTRkVXl6Qkp3UDgyVmVCTm9fZHZQZlJ0SGV6WXFqMXBYclYxTVlMQktDUFNsa2VQN2pnaExNNUllWFZhT00xeUVOSTB6YUxMazNaaTl0Z19LTW5JOFlkUmdBSUVWV3ZhQUQxX2k1VFNoc2t2NDNyMldyRGxRQUJnVjdnZG5xY0JYN1VvVzNqZWVOS1ZIRlJ3UmY3M1AxdkR0RUVVa25FMDMzeTkzal9UV3RFM2RXWG1NNnlNMENEaERaM0hoZFl4MGpPYldKUEp2WThabDhwaDE5WlpoX2JB0gH8AUFVX3lxTFB4MkppZEtKNFZpcUdwbUU0N0s2VkdvUW5OOWVLakpCVVNlZWhiZmpiUEVSNWxzLU9PNWlvajRCZkhLc0RzSVBrdWNmNktqenQtUGVTT0VCWnhPWWtUNDFXc0E5SG1xamRYbnVDUllVYW4zc0dnWnF4a3VMQUpzYVRWbElPVVpjZWx3OHNzVjRBdkh0eUl1d2s1SnpPQ1lVQThNd1lUV25UcFVMQUY0X0JadzVqRmp0a0c2bmxmR1VudUhCMXpnV3ZiMUtxMVhyNXhGTmY4eTM0QmNoS2p1WS02Q29yRE9qdUhoVkVEalBlamJhZnRvVXl2QVI4dQ?oc=5",
-     "fecha": "14/11 10:10"
-    },
-    {
-     "titulo": "Conasami entrega informe al Consejo de Representantes para definir el Salario Mínimo 2027",
-     "fuente": "Mi bolsillo",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGJiSkJ3blBDQnFiMTk2TE9SUTR5b09qMkxaeWJlZkZPMVdMRDI5d2V5cE9YdmV5cVlaajRkaGt1aFkzNG5DSUh3clQtbkMxakVGLU5wRWNfRjh6YTBHSDRrQ0d1SFg3YllrVnpwVGRaSzVVNWMwVUFHcGxGT3RKVE52NzJibDMxdDQ0WUpJUWY2aElnNEh2ZkFzWUc1VlRZeGRUeUd1Vzl3akc5WkMwRE0tZHlPWnM0SVJDQm9Fa255MnVWLWtzcVkzajEtMEJBN0dDXzFTSWJ5Zw?oc=5",
-     "fecha": "14/11 10:12"
-    },
-    {
-     "titulo": "Salario mínimo 2027 en México: prevén aumento de 13% mientras inicia la revisión oficial",
-     "fuente": "Cadena Politica",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDBZYVpVQnUteWxnZUxNNERhLVpHcHp3UUZ0NE1MbXp5alktZ3ZxRWtVekRPd2dQVkRfdDRBeEVnYUkxd1JFQmN0UjRuNEV1OUlGbHFYMEFadWFfYnhuT1I3bmFtOXg4RFQwUUR3a0NMNEtkcUlDQ25OZjBrak4zTFFrUjFHZjN2cklSZGl6Y28xc2lhU3EyZ0dwc1FwbWhvYzNLeEJjQUZqWms2M0UzbDVSd1Ewb2pMMmIxWEIyd3NZSjg?oc=5",
-     "fecha": "14/11 10:48"
-    },
-    {
-     "titulo": "'Insostenible': Prestigiosa universidad fija postura para aumento del salario mínimo 2027 en el Gobierno De La Espriella",
-     "fuente": "RED+ Noticias",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSFZsaElvS2FBRGVSSm16YWwtcWpDcko5TzMtak5lZ0sxbWhjemJHdE9rNTMxRXJ6bmtYRFczMENzTXpRNTg2NXZRNmt0V1p6UWVMbEVnaDdaT1Q3TmJzelRqMnhLOUJjc19HMlcyc0w0VkxLSk8xZ0pwS2xDU25fSzl3b2pqbkp2SnBUZlc4c0pWWGxORkNzd3VBZkhRTzdIVUFqVmllRnFrdUpZWWItOHB5MmhudEZ3RDhBTWxXMXA5T2QxYV91dVlpYjNTem5nNG5MZXZIY0ZSbWx3WFQxYVBrZzJoaUdFNWZtSzZFMUJBU09qSnVteW1sNA?oc=5",
-     "fecha": "14/11 12:46"
-    },
-    {
-     "titulo": "Salario mínimo 2027: expertos proponen aumento entre 8 % y 8,5 %",
-     "fuente": "Emisora Nueva Época",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd0tjcEZxTWQtOUpoaElwYTB6UTJjeXVjTl9TTjZxTTVjck9uUFJqTFMtN2xaZV9kUTRjSmc2Wll5SnpLMENKSFprdmtXM2d1OTV3c1pDaVZhbU8tczBxLUREQ05FRTdsc3MtY3hscnB6a0JkZ3dhbUlrc0ZiOUM0U25QZ0ItbklfOVl0QXln?oc=5",
-     "fecha": "14/11 13:20"
-    },
-    {
-     "titulo": "Salario mínimo 2027 en México: qué se sabe del próximo aumento",
-     "fuente": "La Verdad Noticias",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZTRIMnNzZHA0QlRyOHg3LVJoWmNHM1ZQNFc5NWx1X0VPQVQ3T0gyR0pya2JaczFJRDA2cTNqa04zbmNoWjZuaWRDaERmMEtiaXhJd3E5aG5fU2VMd212LVF5YzFHZ2E0QTZ1ZGNJTEdnSnpsa0tGeFFjREtvaS15VTFGQVJEMU52QXlkbUFJTlg3aUdGRmtMQzd0bWk0ZEXSAacBQVVfeXFMUFZTZFdfbjdwLXhWb1lZZjE0WEJScHN0SjBoOTVpbU1CSl85dHdNUVNvemtIZ2RubndoaUF0OG1JSENDd1VJWkdCWS1NR3lFWkl5X1k0bnRzVXI1cG5wMlMxTERvbUtOVkxTXzZDV3Q1NXB1MTZ5MmZIcE9meWh5UUVvODVTV2k2eUNGZmFKWml0NEtEYThoV2kxSnhBdTFCWkxEX2J3Y1U?oc=5",
-     "fecha": "14/11 13:40"
-    },
-    {
-     "titulo": "Aumento salario mínimo de 2027: Gobierno De La Espriella anuncia fecha clave",
-     "fuente": "La FM",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVpsc1gyNllhOVBLMVNoSlhIYWR2UWlOZ29jQ2tGamdMU1ZmQks5akxHLUNDTFdjR1dDTmdWWWw1OTM0QmczZlV2Vkg5Q2dwaUNlOE1NRXRnOHhzU0VjMThuVk5aWDJaUmZYVHBKMnppLUZYQjlIbThWRDZPX1dzMjcwZnNYYl9saXJobFNHcElveDhjNkxaRTR2eDRCUS1wS1VBYjRqZjlMbm15UDR4eTNPSWJZQWfSAbcBQVVfeXFMUEM0UEt5Rnd0Q0psOGFrV3NpQy1oazQ0ZzN3OF83VWdYcnkxQ2VuOFFjeENta0dDVk5lMDVCYzNqTlhLVk5oQlBNUXNfc0lWVmtvTjNKR1lTcHprVGdhWHU4eE95bEQ3TXplcjkwUTNCVUY1NGh3YzhKOHJnY0Vzc2gtRTFrZFVqMDVMYjBnNXJPZDR1dk5FM1hmRUc0cFpLUkJYQUEtY2l1QkNEdklLWlZuajd4VTJv?oc=5",
-     "fecha": "14/11 14:38"
-    }
-   ]
-  },
-  {
-   "titulo": "Más del 80% del presupuesto 2027 de México irá a deuda y pensiones",
-   "tema": "finanzas_publicas",
-   "tema_nombre": "Gobierno, impuestos y deuda",
-   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
-   "puntos": 13.96,
-   "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-15",
-   "fuentes": [
-    "860 Líder Informativo",
-    "Columna Digital",
-    "ContraRéplica",
-    "Crónica de Xalapa",
-    "Cuarta Plana",
-    "Diario de Morelos",
-    "El Heraldo de México",
-    "El Mañana de Reynosa",
-    "El Periódico de Tlaxcala",
-    "El Sol de México",
-    "Excélsior",
-    "Galu Comunicación",
-    "InfoCajeme.com",
-    "La Onda Oaxaca",
-    "MAGMA Noticias",
-    "Mi bolsillo",
-    "Netnoticias",
-    "Peninsular Digital",
-    "Periódico Síntesis",
-    "Prensa Libre",
-    "Segundo a Segundo",
-    "Sistema Mexiquense",
-    "Tiempo La Noticia Digital"
-   ],
-   "formatos": [
-    "Largo",
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Presupuesto 2027",
-     "fuente": "El Sol de México",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSi1pbkRqRWtnQzRNM0N1NEVyTkdLa2hLRktZdXN6RW9jbnZ3cF9fcmxKbWhVZFpsSnM5akRiaGJMLW84eEpRVlljSU1hYWRXVl9wU2pJdmVoc3pHRlZCWENqWDZULS1PSko0aTNUNExBRDI4Z25DR2Y4OTBiX3d6aHlYWG5vR3RzdVY2bw?oc=5",
-     "fecha": "14/11 10:04"
-    },
-    {
-     "titulo": "Diputada Ariadna Barrera destaca aprobación del Presupuesto 2027 y blindaje de programas sociales",
-     "fuente": "Diario de Morelos",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkdCVnJvdkwyNklYc2pPMC1XQW9udHY4T2haWE9RbE1zdE5GLWRZblFIcGx2M3I1eTRicEotbGpWa1A4UVhPLWRSUE5nbFJsQjREdTI1WVhjRkpxNTlTQVdVRUZzMWxDeTB1cEs0cm5OTzFuYTk4MXFCRnhkSUUyU0YzU0dxVndYNzdiUUk2OGJaY0p1bVNkOUNPMTJtS25TcVJ2QldwMFlqaEVSOW96YUo2cXVzUUxTVndOb21zZ0UwNzFkaE5vd9IBzgFBVV95cUxOMnB2WDZFM2JhVzlwQlcyYXFFYnBlQUhTaTBmNURfeTRxRWpuellmTTFtOHBNSU9tbE1XQjBTV3BUaWlGRWVRS3FzSG5ScjFQOGRoUlBWZDZNckZsMTl3TmY3UTVxdElUUjhWSTE5NG0ycXIxUm43eERxcUNmZldZdVJuNTJ0enpQNDdQRlljblFwM1RwQTBwQ0Y2RTZhUV9kZWJYazJNaGU1T3NHR2JCQ1dJU2FhTTRWUTlTVmdGVm9TWlhNQWxnSHhFNGRUUQ?oc=5",
-     "fecha": "14/11 10:20"
-    },
-    {
-     "titulo": "Baja California Sur tendrá 2 mil millones de pesos más de presupuesto federal en 2027",
-     "fuente": "El Sol de México",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNem4xeGR0X3Q5LXhRXzZ3ZXYzX1hMYk1Ycm1zaG1mamdpWGpuMU9uR05KWE5FaXRjMndfajF0ell3X2tWdGYtczBJaFZ3dWhNV0x6cVE1RjhKbmsyc0RUMjY0aGhCQjRKRUJ2TjVPdlNDVnVXaHYwbzY1RVFzbS1QZ0k5WHp4eldjOGNaS3dRR3NQcWMxMUVBMUZOQVRwandES252ZXhQdG1wYm5xOXdtOWt2VFRNcV80Y3ZjMDRleU93YmtIY3Zla1c3VVFrM3lSNGFv?oc=5",
-     "fecha": "14/11 13:39"
-    },
-    {
-     "titulo": "Se aprobó el presupuesto 2027. Más deuda, más déficit y rezago a BCS",
-     "fuente": "Peninsular Digital",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXhyd0R6aWw5WnFTa2pSV3ZPSWcxaVFCaEJUcWJLS1N4a2dCVlZUMmZ0WmZOaVgxTEJTMG5oLWZhUDUzakNLR2RHckRPX2RIeEI5a0tXSUhmU1V5YUdfbWhwVWJvek1aR3VmN0lrMV8yOURvV0tUckhGV2hIbVp3UWpLRUZMTFJ3TXNSbmhTTnhSRDRDeUhFU09scDRSMV9ZZ2ZiZmt6U3VNS1BP?oc=5",
-     "fecha": "14/11 13:49"
-    },
-    {
-     "titulo": "Presupuesto de Egresos dl Estado: 98 mil 635.8 millones de pesos.",
-     "fuente": "InfoCajeme.com",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0VCUU1MYXBhVDE4UzlQMm9VbkJaR1NGSlV4Qk1wMHg2SFVyTHByUkVvbDl3TDlqX2xpemdhN2w0MDk1N25sTlZJX1F0QkVTUnVPYkRqTFRHelhOT25rd0MxZnF6WTc5RlNZVU1TdndPSGo3bjJkbEJIcUt5MXdSemxFTGE0RmpZMlQtdlVTNXQwZUVFcl9CZVdlS3FvWDlDSVR6VnhNcHY3T1k?oc=5",
-     "fecha": "14/11 18:13"
-    },
-    {
-     "titulo": "Presupuesto 2027: Déficit alcanza 1.35 billones de pesos mientras Hacienda alista 1.05 billones para Pemex y CFE",
-     "fuente": "Mi bolsillo",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbjl6bERNXzRkVWJxMzNSdHF2R3BHTmtncHd3eG4tWU9KR0dSSWxrNlBFQ0JMUThhU0JmWGllczV4V3RMRHpXVktiM2hkWFRpQ0k0cTFlOFliZGNwU2doSy1JWjFVX2xmc2NLc2o0UVZhSlFNWE9EcktEejl6c1B1Nk9naXp6cC00QU1jTEFpcTFGM1Z0WktSN0FUVno2RzlfcU1oX1NteDdGdmpHUVVGMUVTLVVzdGxCbXhGUG42RkZSd2FzbWdHcnk3aXV4emozcmxIM2pERzEzU0pPRHRsTkR5emI4RDFjR3YwcTRsNXUzOXEyZTBjWGtn?oc=5",
-     "fecha": "14/11 19:21"
-    },
-    {
-     "titulo": "Oaxaca-tendria-presupuesto-de-120-mil-437-millones-de-pesos-en-2027",
-     "fuente": "Cuarta Plana",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVkJVU3hmR2Rhbkk3dnYtaUpNejZYaHVGUFhQQ25mRFBIMnByU1R5T3ZlVkgyUFRETmJmdFNNUG5KdVB0Wk1xdjFxLWFEcUhla2lxSG5yamx0dXJoMVhVMHJXLVVWV0MwTE56cTdxWUhOMmdoWnNZejlCTi1qMk11X3ROSjlmNnhxU0ZNUlU2ci1EWTZLZVVyNmhKSzRFSlp5R0E?oc=5",
-     "fecha": "14/11 19:46"
-    },
-    {
-     "titulo": "Presupuesto 2027, lejos de corregir los rezagos",
-     "fuente": "El Mañana de Reynosa",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGVMQTYtaTFybnN6OTYyMnZrYmZ3eFNCVnBRQlpSbGtGV3F2amhVTW9udWdkM3dzd3otNnZwRHZEcHBlbEJHc01MTTZyX01yeXlReXpPX2RYR2I1X1pBNXJodFBFSllpYUdTdHU2UWFSZVJpMVNaa0JkSE82T3djNS1JM1czV1dpNzRnQU5jSkR1enF1NmlZQmgwWnRUYlZacnppSGcwQ0NfVS1BdDVF0gG0AUFVX3lxTE9PcGUzaWtSaGZYa1FhNXRXT3Z4SUh4QXVNTUtVNmlzYUhpZEJhdXkzR0s5UG9rZTVGaTJnTF90UVFpSUhXaWd2VklPT2d2UWNOdmtpN09vblJ2MGtyZmJGTkd2eGEwU2J2RHFKbjAxbG9qVEd0bjJUZlRNTHNtX3pDQndGSHBZaTdyVHVMblVsZzhEQ3A1cnI3NUtlSFBOM3ZDd1RfWFFLaDU2RU9BTW1GUTd5MQ?oc=5",
-     "fecha": "14/11 23:03"
-    }
-   ]
-  },
-  {
-   "titulo": "Precio del dólar hoy 16 de noviembre de 2026 en México",
-   "tema": "peso",
-   "tema_nombre": "Peso y dólar",
-   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
-   "puntos": 13.13,
-   "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-10",
-   "fuentes": [
-    "ABC Noticias",
-    "Ambito",
-    "Azteca Aguascalientes",
-    "Clarin.com",
-    "Clarín",
-    "CoinDesk",
-    "Consulta Monterrey",
-    "Cripto247",
-    "CryptoTicker.io",
-    "Debate",
-    "Diario del Yaqui",
-    "DiarioBitcoin",
-    "El Heraldo de México",
-    "El Imparcial",
-    "El Mañana de Nuevo Laredo",
-    "Heraldo Binario",
-    "Imagen de Veracruz",
-    "Infobae",
-    "La Razón de México",
-    "Mi bolsillo",
-    "N+",
-    "Periódico Zócalo",
-    "Plano Informativo",
-    "Publimetro México",
-    "TV Azteca",
-    "TV Azteca Guerrero",
-    "TV Azteca Jalisco",
-    "TV Azteca Puebla",
-    "TV Azteca Sinaloa",
-    "Telediario",
-    "The Coin Republic",
-    "Traders Union",
-    "Vietnam.vn"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "¡Corre a llenar el tanque hoy! Así quedó el precio de la gasolina para este sábado 14 de noviembre 2026",
-     "fuente": "TV Azteca",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWXduUGtBRjRlRHdGRkpGVXgwdU1McTNxNlhXd0Q4NTJPdDYtRzJaVjVPdl9aRGJhR1YzaFd4dXdibmZBTEVyZVNmX1R5WW1ZcUFBV0xOUWNlN3NnNVJtTmVZb1Z3YmN6Zm9xQnNPRWZCN3RrQ1pyZ2c1bVltSnBXLXZmQVNhZHBpeGw0U1hOX084VVR3S0t6X2R0TDhta1lHbVI4VEx1UTNUN3JCNG40UUg0RFVxeVJGWHJzdGtMRE9kUVRRYU5SWGVLeFpUckEyeWs0dkQtWkdMQQ?oc=5",
-     "fecha": "14/11 10:14"
-    },
-    {
-     "titulo": "Análisis del precio de Bitcoin: BTC continúa su declive el sábado, entrando en la 'zona de valor profundo'",
-     "fuente": "CoinDesk",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVF95Q251WHhOVUVYS3dEV3BEc2R5SEVNVzdJajJtcS03VUVBelY4Q0VVZVZVcWo2WGNaZjdWdWFhQVNXTWwyQk5IdEZzZkZzWHRPX0UwWDlNV1l2dzNSTnhkZ09PeWNrSThBYXJqdWtONXRGYnRDeEFJQURXbjA4U2VYYUNmSUhVY0cxdE81QzdoeWVvTjYyM25fNGtZNWpwb19WV2FqRUJTYkhk?oc=5",
-     "fecha": "14/11 10:33"
-    },
-    {
-     "titulo": "Dólar HOY 14 de noviembre: ¿Cómo cerró el peso mexicano esta semana y qué esperar de la moneda nacional?",
-     "fuente": "La Razón de México",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUTNVZUpxTjdYR3VJX2dDVHN3UlVtajdJYWtzRm52WVEzV1BNdnpSdWdRRmpIcFpiZVV3RTlIYUxGei1LMEhsUnJqZFVDOFlEa1NtNFZ4R0hZb2ZKZWdKejNJR1ZVOFdmOTk5dmJtMmk0OGl2YWczMVZCWm9sV2R4QUJSU2w2bHNXcUZ3WlRKRTl3dnpCSnlfY2IweEpFQndDMnYtRWpiM0RMbDhIdWljLWZxTXh6aDI0V3lKdnhmcUR2LXU5WXhCcF9WT3lvVTdxd3BlYTdLajR3ODNlclkxRQ?oc=5",
-     "fecha": "14/11 11:19"
-    },
-    {
-     "titulo": "Precio de bitcoin bajo la media de 200 semanas: ¿hasta dónde puede caer BTC?",
-     "fuente": "CryptoTicker.io",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iUjZ6ZWY1VUZ1LUdxdjc3WjVSeWMwanRJWnBaak9MNFZXMGQ1U0UwVEptS2VJYk5pa25RQndheXphWGRHUmVuVXVsLXZSb1FzVllJZnJNZUJvMTBGb2x2SW16UV9vNFFZa1BFU1hmT3lXcUhKRVpVRVJEUQ?oc=5",
-     "fecha": "14/11 11:23"
-    },
-    {
-     "titulo": "Peso mexicano gana terreno y hace retroceder al dólar",
-     "fuente": "Plano Informativo",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZnVsVEcweXJEeHlPbVFrTlNhT0RtVVNTM05EU0lQVU1JMF95V2dhWVlRYnFKTWlwYWxDaWI1cHQ3bzMwMmRWMTRpTFVaQmJYM2gyQ3REeFNldjFCV044eC16WTd5MjZGeDQ0MUR2NFNoaGtxQ0prdngzckE0dERlYlhqY3NSMzBaaUN6ZzNRQUhqQXNi?oc=5",
-     "fecha": "14/11 14:11"
-    },
-    {
-     "titulo": "Peso mexicano cierra una semana de ganancias frente al dólar",
-     "fuente": "TV Azteca Guerrero",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2t3UERBb3lFeWd5Vk1fcEt2aHdlOVEyMVV3V1k0c0lEUzJ3M05id0VPY3ZnUG45dDJxVUFEa0kwcHFJRWhhMnJmWHQ5eExxOTRaNHQzTlh4T3Etd1lSVHhUdjVPeXhJWUFTX3JGaWpJVkcwRDZhYVBTWWllNWlrRk9XSWt4Y0xoUEhNQ2dZQUMwb1hhQVJQT2Q1OTNWaDcwMWFZbHVxdnkwQV80?oc=5",
-     "fecha": "14/11 14:29"
-    },
-    {
-     "titulo": "¿El precio del bitcoin llegará a los 80 000 dólares? Estos son los niveles clave a tener en cuenta ante las salidas de fondos de los ETF por valor de 2.3B dólares",
-     "fuente": "The Coin Republic",
-     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaWp1S0NkSWNEd3FJYUJKTE9VSkY2NkdhcURxc1ZPdENiSFVPOGJCdDVBZVAzbG9QLWFQUHd3TWJrbFZKUTFYdWtlNDJCXy1JUGxsNDByclR2b2s0TU9BMmxBUXZ4N2JYU0tVNEw4aHhzYnpfWXB0anhHMGFZN1NtTURQUE1VX21uSHhtNFF4amJrc2xTTXpvZHJyLTZjY0txQWw2MnFudjBVMEJ3WGoyaWlyVjFOd3JBZkloZVFfYTROZGhSZGtHN28xRUg1YXF5VkEyWTlxczRPQnl5NFA2blVrTmxiQ3Uwbk5wYTJzc3dyZlU3MTFwb0FYd0Q4SkNGb1VNUXBBSWY1UXlzNDRITzJhdm9aMEpzV0g4dGdyVzJuVUpCZ1F6Ym5RY3ppc3Vk0gG2AkFVX3lxTE9nMzhrMXhpXzJFQzd6enBGZkM5ZktMeEYwODlOTk9BTTlQNlg1MWlQU0VBQ3dIVkg4Y3prTFJCU0VtR2hraHFWNUtSV2JYTVNxLXFQRFpfcjR3RFFseU1IUkp1QVVjS1p2dWphZExFNm5mTFRNNzBOSHV3dFRVT1Vzek9PVW9hVlNqY2U3VHRUc283TGhBUjlVTThGQVhzc2R4YmpoNF81S0w5UF9kNFVOdTZTTVpmWVF6bXhLbDRjLWk4ajBhdmNxNnlTZ1pBcmZNZFczZ1dnODJvVlJ5Sng4Um4ycnljeWxMZzkzTnp0aHJRYk80LWVjcmdHQXNEWm13dVI2MHBHclYyNDM5c2R2WUQ5clpYZ2ZqUGpGTWVvNllFaDl5OVhQakJzckQtNEJRRGNjN2c?oc=5",
-     "fecha": "14/11 14:35"
-    },
-    {
-     "titulo": "Perspectivas del precio de Bitcoin SV: aumenta el riesgo bajista mientras los vendedores mantienen el control",
-     "fuente": "Traders Union",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1lMemtoQzgzeXVRWHhlTDJHaU1GeEJINktJRl9ZcTZBLW9tSTdRYk5YUklReXU3S0tDMG10TmYxZlU0SEZ1OC1vanlfSlpIZTVENF9PYmtMYUhPWEMteUpZUTUxbk9wcmJ3VFJEU1VTWW1FZzhudEZ2RVVUV2JGd3B2RFpIWnlHZUl1QmxRVTZKRFhhWmRNR2RieV94am9I?oc=5",
-     "fecha": "14/11 15:19"
-    }
-   ]
-  },
-  {
-   "titulo": "El Gobierno prevé aprobar este martes el alza del 5,3% sobre el salario mínimo para 2027",
-   "tema": "crecimiento",
-   "tema_nombre": "Economía y empleo",
-   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
-   "puntos": 12.97,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Artículo 14",
-    "AxarquiaPlus",
-    "Business People España",
-    "Crónica Balear",
-    "Diario de Sevilla",
-    "EFE - Agencia de noticias",
-    "EL PAÍS",
-    "El Economista",
-    "El Periódico de Ceuta",
-    "GranadaDigital",
-    "La Gaceta de Canarias",
-    "RTVE.es",
-    "Sevilla Actualidad",
-    "Telecinco",
-    "Tododisca",
-    "Ultima Hora",
-    "Valencia Plaza",
-    "enTomelloso.com"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "El Gobierno aprueba este martes la subida del SMI a 1.286 euros en 2027, que seguirá sin pagar IRPF",
-     "fuente": "El Economista",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcWJUR0pibXpyMWh2QkRJTnp4T0d4REpHczgybU5WWnFjT3l0ZVFHTU5sSHVtZWpCbFFNQW9VdmhUT2tmNFM0SjhyMXdzeUxjRDNMM2l2RVM3dUhQSTBDajJYYkYzXy11UWI5QjB6Qlp6clhQNDZWcWlDRnBSRHEzbFJXd1ZHenhVRTNUeWZPVDBaS0Q5b1Itd3VyOTAwUzBPYWNRN0NhRmZkajFIODBPdDkyNVJjLVFLaHF6OU1xMXZEU1hfWklhcVJydlRWNllOaWVDcER3MzY2ZUY0RnVRb2pTcS1zNjMxSGthM29ZdnRsOUllQ0E?oc=5",
-     "fecha": "16/11 06:50"
-    },
-    {
-     "titulo": "El Gobierno aprobará mañana la subida del salario mínimo del 5,3 % para 2027",
-     "fuente": "EFE - Agencia de noticias",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE9FdjNHdzY4QUZfRDNIWktEOEFORzBoUHlqREFJb0NFb1BtWlB6VTBoQXFteEt4ZEpTSE44S0k2X1ByWHJyel9UQkNVWTNveElzeHc4NTRyT256MUU2aDRLR0JzV01YTUU3RTloR2FiM1Y2dks0cW16dnVraW9BTW5CVmIyUFFVSkNQcGFB?oc=5",
-     "fecha": "16/11 06:50"
-    },
-    {
-     "titulo": "El Gobierno aprobará este martes la subida del salario mínimo de 2027 a 1.286 euros",
-     "fuente": "EL PAÍS",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMFVwMzhoRFJ4bDdlV0gwSWpTN1FNcWdCd25qWDQ4b2poTjFxTjVUeFRvaFpqY2YtVFpPczZzQmFyWjVKM2VHT0xQSzkyb3VGYUt3SXFHSVhnRVVVdlh4SEpvQjIwZ05HeDFEbWl5QlI1VXlSckR1UzFZTm9NWE9RR0Zoc0JPdm9FUnRmYmNON241SnZhOS1CU1lGbS1XUi1qaUxtOHZmbWU3LVVzcklkdlQwZDFKeFN1RWVUWXI2elZMTTFZ0gHYAUFVX3lxTE1Ga1M1S0FCMW5kYkEzQk5UNDI0a19JNm0xQ1ZGOU9INzlSTTZkNUQ3Z3ZSZHlucnloZ2VRc1VhQmE4R2x4VTVGTUU1YVBIR3hEVGlJd2ZXLUMwMndYdHZQUjVzdFFRSXFhcEh4bnkzWWJJbDR6NEFEWDNLRlAwYzNFbm5JYk03aVRsTU52ekhpLTFsZVhNRktNVXBDVmdmVWRoTGZQVWU0QmljeVk4R1ZEOFBEX1lJUmxERS1uZVJ5T0RiemkteTVESUpNNi1id1Y0bGZkcUxvMQ?oc=5",
-     "fecha": "16/11 07:00"
-    },
-    {
-     "titulo": "El Gobierno aprobará este martes una subida del 5,3% del salario mínimo hasta 1.286 euros",
-     "fuente": "Diario de Sevilla",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM3JSTVBaeTZlU1VVOENyVmloT0NQbGFWTGJBWE55S1ZFdFFJSzFPa2pucHJiaXFEUW5FQVl0R3l2MnBKQzd6YVBNeG5EaXdoblZNOWZTcGdOYjdNV194ZWhWdUhZREZ6ZjhHZ2FneGxkZzFoY3N5MW5HcjAyWWRfMEdaQTQzaEstbXVRMkEybzZOcmZSclHSAZsBQVVfeXFMUEJPU1BHWU1ZS2x2VmRvX0tuaGhaLW52bldITjFiOGJwRkZJQ3FVM3l0TzBGajVQem5zN2xhbzE3VFUtc2ZwS0xIZ0YydlJQWU10dVNyS2F3OUFXQk9aWUJvZktSa1RfOURHTDAtaFVoNXJNYzJfek1QTTNBbXAtSU5aYmpxUUF3T3V4Z2ZxZEhlSzJMaW1yVzdjNEk?oc=5",
-     "fecha": "16/11 07:03"
-    },
-    {
-     "titulo": "El Gobierno aprobará este martes la subida del salario mínimo a 1286 euros en 2027",
-     "fuente": "Sevilla Actualidad",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3ZkbUxOSXMxcGU5bVhrc3dfY2Y3T05Ecm0tM3ZwYWtaRnRPWnktY2NMc0RHN3NYdmNjWFBVc2x3cFZMUW1QTXdsQ0trTHd0Wk56akpRdW44TmtaQzQ4eUtsSVZQb3k5OG1UTUxsYW5ZNnVCRm5xdlVYaWtvM3hmOGRLSWJsMzJCMFVJRVVyOUVZbTZiZzZ0WHdsLThQRDBmSnVaV2dQamRjTzZHTGlaM3JjNVFQUFVPU0J6d2JwZEZCeExfSE5sUFdqQWtIOFJublE?oc=5",
-     "fecha": "16/11 07:17"
-    },
-    {
-     "titulo": "El Gobierno aprobará mañana la subida del SMI de 2027 hasta los 1.286 euros",
-     "fuente": "Artículo 14",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkJQLTNHOXl3NGlCN2lkTWtoRXNHSEw0QlpQdFd4X3BLRzQyQVR3YkRxZWQ0ZEJ2RGM3NFZxSmdNM0R1V0k5MkNUWlRoUHdZU2gwekFLWVNMOHpnYWVGTVp6UmNtZ1Joa3E5eTdZY3lSODl5QnlVNVdieXdYdlpxSjlMbTlSeXZtTGxjMTFGUkxaNHU1azRibEtvY2JVcnBuVmZ2dU5lenAwWmFKTWxzOWNmd0l4YXRwRWhmZC1ULXBlZExa?oc=5",
-     "fecha": "16/11 07:20"
-    },
-    {
-     "titulo": "El Gobierno aprobará este martes la subida del salario mínimo interprofesional (SMI) del 5,3% para 2027",
-     "fuente": "Telecinco",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWlc3U3oyd2xVYkZvOUpQMUVBbkFZeENDcERxSHEwZkZ2bDdFZEo3V3NWbEZ2R1l3aE5CZ0o4SWpybG1ZQkcyWjhDeTQwX3JIOFlkdWJfWEhEWTJYUDZVTWFPZ2ZEU011TDVaTTZxWEpsQmpTWXlZTk5OWElKVGltVXRKYXdtbnZ4d1ZTdWtLQVNHLTh1Q1BiT1RNYVk3eFRwS0Uyb2pjWXN0VVRoOUFpbEdkd210eS0wUW1aMVA4dzU2bEtYMDZGb1FXVE0wYl96TVBmOF9tZk82Ylh4cXVtSTV3?oc=5",
-     "fecha": "16/11 07:21"
-    },
-    {
-     "titulo": "El Gobierno aprueba este martes la subida del SMI hasta los 1.286 euros al mes en 2027",
-     "fuente": "Ultima Hora",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOGJTaFMwV2M4aGlRYmJHWjRya1lyTDd2enpPemhlNURCY1c4TWtsMGVYdUpXTHo1OFJsdVlnYW1oLTNxQUxMZmRNZWVfcFBRNlBhWExVS25wQU5wc01XUUNmRmF6c1pRSi04R0kzZGpLNXlrQWhuRjIzVkZKZU5yXy1ORll4RXdIa1pETC1kaWZLVjdCU1ZNS0FMV2JITWttdFRXbnd4M0d3aV9ZVURUelVGNkxPWEdOWkRObFpxZUJLaWZuWk1LMlA1OVIzeWhYLTNJ?oc=5",
-     "fecha": "16/11 07:22"
-    }
-   ]
-  },
-  {
-   "titulo": "Insiste Trump elevar aranceles a México si no frena caravana",
+   "titulo": "Trump vuelve a presionar a México con aranceles si no frena caravana migrante",
    "tema": "comercio",
    "tema_nombre": "T-MEC y aranceles",
    "angulo": "¿Qué productos y empleos se juegan aquí?",
-   "puntos": 11.47,
+   "puntos": 16.36,
    "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
+   "estado": "Sigue",
+   "desde": "2026-11-12",
    "fuentes": [
-    "Diario del Sur",
+    "8 Columnas",
+    "ABC Noticias",
+    "Ahora Tabasco Noticias",
+    "Aristegui Noticias",
+    "Cadena Politica",
+    "Cinco Radio",
+    "Consulta Monterrey",
+    "Contramuro",
+    "Código San Luis",
+    "CódigoQro",
+    "Diario Presente",
+    "Diario de México",
+    "Diario de Yucatán",
+    "Diario del Yaqui",
+    "El Buen Tono",
+    "El Congresista",
+    "El Diario de Ciudad Victoria",
     "El Imparcial",
-    "Guillermo Ortega - Tu sitio de noticias",
-    "Milenio",
+    "El Independiente",
+    "El Mexicano",
+    "El Soberano",
+    "El Universal",
+    "Expansión",
+    "Fortuna y Poder",
+    "Grupo Animal",
+    "Inspector Nocturno",
+    "José Cárdenas",
+    "La Crónica de Hoy",
+    "La Hoguera Mx",
+    "La Política Online",
+    "La Razón de México",
+    "La Unión de Morelos",
     "N+",
+    "Nación321",
+    "NotiGAPE",
+    "Noticaribe",
+    "Notiespacio PV",
+    "Notisistema",
+    "Noventa Grados",
+    "Periodismo digital",
+    "Periódico Síntesis",
+    "Periódico Zócalo",
+    "Plumas Libres",
+    "Por Esto!",
+    "PostaMx",
+    "Proyecto Puente",
+    "Pulso Diario San Luis",
+    "Radio Fórmula",
+    "Radio NET 1490 AM",
     "Reforma",
-    "todotexcoco.com"
+    "Reporte Indigo",
+    "Reto Diario",
+    "Revista GENTE",
+    "Ríodoce",
+    "SonoraPresente",
+    "Sopitas.com",
+    "Tabasco HOY",
+    "UnoTV",
+    "Unomasuno",
+    "Unomásuno",
+    "Vox Populi",
+    "Voz en Red",
+    "XEVT",
+    "Yahoo",
+    "chihuahuanoticias.mx",
+    "diario21.com.mx",
+    "eltiempomx.com",
+    "gamavisión",
+    "sdpnoticias",
+    "tribunanoticias.mx",
+    "www.adn40.mx"
    ],
    "formatos": [
     "Largo"
    ],
    "notas": [
     {
-     "titulo": "Trump amenaza aranceles a México si no detiene caravana migrante",
-     "fuente": "Milenio",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckd0X3RjS2EtRUVBVlAtQlZyellaLWNWbE1zaWloUkRBSDU3NWh3bHNWRUppMC05d19jUy1pQ21NWURQeGo1eS1ubklJSHhnZjdadGNjb1I3OW9VTTBzX0wxSGJmUmU2M3B5amxOdXlCSmc0czdIVXNaUW5yY1dtLVRrb013N1Y5RVh1YlliS3Q0cmV1SURLeHRrQdIBmwFBVV95cUxQVTlFUVU3NE5SODhfMklPR2x2ck1CNXNhTkx3OTA2aXhlMU40T2ltX1l4Ry1MQjIwN0tsMUcyLTFmanZiaXJKRUI1MUJ0R25rTTBtRXJVSVJCZmVyOVdRNGdOLTA1N3daU1JHejZmR3FDcGIxRUF4ekJrcExxOW1rMWp0Y21jb3M2enFzT2NFY185MFZtNVdncnZCNA?oc=5",
-     "fecha": "14/11 14:49"
-    },
-    {
-     "titulo": "Chiapas ofrece empleo temporal a migrantes para frenar el avance de una caravana hacia EEUU tras la amenaza de Trump de duplicar aranceles a México",
-     "fuente": "El Imparcial",
-     "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQMTl0WlJGUEhJSi1LUF82d24yUXJyYU5qWE1seUE5LWxtQUVuRFNyZ2VQaEZCbWpUWi04aGhsdlpINW1rMERoZ1EydS1USVU2QmpXYWE4ek5qRnZmZWxoTXBpNjlCS2pQSE41a0FrZXFjMGMyNEFsUER3OTh2VDhhdGgxNDdBNVVLczVnUnUzV0pucHZxTGFENnpBMDZZZS0tVGdQdVNDQlFBN0ZYOHljRHB4OXdmLXZCRWh5UFBtT2t2NURYaTJlMEtPdFZMUjRqSllGS1FqNHZHWjBfRTRpV0NSREY1dWFvd0lDbzdjUnhrNmZPUzFSZjNrMTVxcjlweUZ6ZHhqWklOc2hSRG9neFN4T1JqT3I1NXdMTXNGUdIBugJBVV95cUxPT0J2ODZxdkFmZ3NhNFFFal9JcFJwSVdCUGFaSjhHYUI5VTN4YjNsdGpuZnhvWmdyQXctbDBITTh4Q0xZNmdtcUNtZmdVQmFOMkR2WWV1THJtQ05zZ0w0QllDazlGX2FQT3labUE0Y0dXangyS1V1LVRIZkZYSGNxSTM2VmNicDA1MEtQVi1VZ0o2TXh3VVV1M2NtRS1HSF9xYk5yQVNkMHQtOEw5UHFSa1N2QlhJMzZtX0dCOE1INDJDNTFGMWRMN1NOa1dWa2tmTjBXRlhzb1FlV0wtNFZEeUJVZnVOWEh2eFNUc2pLMjIxempDS3lDMmdrX2dZaGhOMk1BZ3hnY2NvZV9XQU92NHN5eDIxajdKUHFVYmdDVWpORG1FMVFfME1FYkNkcFBRaDdHdGZLeWRUUQ?oc=5",
-     "fecha": "14/11 13:29"
-    },
-    {
-     "titulo": "Trump amenaza con duplicar aranceles a México por caravanas migrantes",
-     "fuente": "todotexcoco.com",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2djWEdkak85eHZ0bzROVkUza285Tk9KY3hWWHQ3ZkMtbTM4Rm9FMVM3a2NYbVRoZlNXRnlUT2lVc09IbWpzQXkwTXVpSXdPSzdDVEFVNGg3aHJERkZwaUU5M1RXUC15UDFBMW9iVUxfb3hYUE93WDdGTnZFbVktWXdrbllfZnJtUFNBYmZJQzZVYy15WHZRYmJBMjB1d2RUWm5WenU3LVNpWGxEUUdzT1ZR?oc=5",
-     "fecha": "14/11 20:33"
-    },
-    {
-     "titulo": "Trump amenaza con duplicar aranceles a México por una caravana que aún no llega a la frontera",
-     "fuente": "Guillermo Ortega - Tu sitio de noticias",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1Vfcjk0TWl0dm5aSkpLbElVN2ZLXzgxbTg4TU9PSThwSk41OXFEeHVfMnZ1RWtOdVIwd3Nla1FkNDJKZTM1Wk1CeWVFT1kya3dkU0lxcWk2TFFkSnJQVnViYTh5NXVnbzdRSmJsaUIyMXpKOFdNWmM1djl5ZmFYeks2eEthc1JnUkp4a0Rva3JfNXcyeHRrbjVtZWU5ekFJZFlDRTctMFpIcm9qWnZNcTdJWHBFNFRWdFIteHJqaS1vWTVXVkE?oc=5",
-     "fecha": "14/11 21:29"
-    },
-    {
-     "titulo": "Trump amenaza con duplicar aranceles a México por avance de caravana migrante",
-     "fuente": "Diario del Sur",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZUZybEhwOG1kRWVTQVotY0tUdHc5NlNfaTRpMkZlUzhwcDl1eGhfMjFqU1JSTWN2Q3FHSWZkUk1ETldldXl2ZkhyVWxmVUFHOW1nNFBBYjhMRXJHdHlweVZYX3ZvMUktWC1SVmQ4ME9LU0xObC1zVzY1c2Nndm0wb0lnRF90R1l1T0owb25EUXo3NjNySHh4Z0plQURjeHBlVTBDaTBsSHpoUG1DUHI4dVVvVQ?oc=5",
-     "fecha": "15/11 14:31"
+     "titulo": "Trump insiste en imponer aranceles a México si no detiene la caravana de migrantes",
+     "fuente": "Expansión",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUkh5WThQR3hmeGI4aDlyRjg5RUlMLWFNd3BzYzVPZ3MtTjdUUjFXZmx4M2pmOXItdU1PRjVyTXFmZ1pJdTBneExmRUx4YUlQeF9oSEZIUjN0MldicWN1cG5tWnZEc2lTdWFzQXFJNnR2d0NTTUtJUDNraHpqLUROVFpDb2NHN09TQXNrdTZn0gGbAUFVX3lxTE5qWlhlYVN1U1gxMGpiYmU2cDBhMDBXV01LX1lSVlZOeVA4RkJpVHFIZ2o0WjJ4YVFlanVuc1h1Y18xZTNNVk9YTk5pVkRucm14V2NSaF9ZaW9yZXhueC1sWTZsZnpkcXFWSEU4X2R0eHlxeUlVV2Jaa3FCZzRjTWhjZDVyd015VGU3ZDhyR2FFZ2pMRFo0dXlsczgw?oc=5",
+     "fecha": "16/11 11:58"
     },
     {
      "titulo": "Trump Dice que Impondrá Aranceles Muy Elevados sobre México Si No Detiene Caravana Migrante",
      "fuente": "N+",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblRsTXQzeFdRRTd6bHN5NEpkeTYxajZXbkRBeDlYUm1lb2h1a2stRnRhcTRxX1drYlBidnhGMWpOS1Jrc2F6dzhrQ2tyM2VBS28zS01aS0llT19rbzNVZjJ5RllsSWM4XzEtaUtGWjFCck1jQngwZUYwVWJjTzRzN2VQS0Z3c0Y2c1ZBNGpxZTN1X0dwX2ZLNDdIMzF6cGt4aFhyMFdfaEpOOVlYSU9vdzlhRVZUcWtVd2w5cEo4Y2R3dnM?oc=5",
-     "fecha": "16/11 09:32"
+     "fecha": "16/11 09:05"
     },
     {
-     "titulo": "Insiste Trump elevar aranceles a México si no frena caravana",
-     "fuente": "Reforma",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXFmdzViZDFWSzVrUk1kTnRSWGtjUkRyQy1CMDMzX1haTlVodkdXekJPYnFjczJPU1BIRXNwbU9ZMEdjbmpCV28yU3VyMDEtbjF0ckcwSWI3akZiNUlLUlBqRUdsR2V4TG5FUGw4bFZFdUdqWmFmaUNPVF85UUF4VFhNaVJKUjdWZ1VZYkF6RjA5WjFBOGt3RE5B?oc=5",
-     "fecha": "16/11 09:37"
+     "titulo": "Trump presiona a México con aranceles por la situación migratoria en la frontera",
+     "fuente": "Reto Diario",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMlBGX1NjdHJxWTN2RGZka0ttX014ZWtGcmRSTXlZLWhyR1BPY2pKbm55RUk5cTQzN2diU3BhUFd5M3l6YXRvTnI1aGhTVHp3RU5zRGJqbWN4b28ybWN4enUyQjRJZURxcXRJSG01VTE1dnBhTGU1RDM0RTJocnpGX0JGdWgwZ0JxWmktN1pLRS0tcGdhMlNnaWdwT09pb1NmR05yUnVNOUxLbldCdG9DQ3JUVWtDOThZTlF6TmJBLVIzbVlyMnRtQw?oc=5",
+     "fecha": "16/11 09:46"
+    },
+    {
+     "titulo": "Trump @men@za con duplicar aranceles a México si no frena caravanas migrantes",
+     "fuente": "El Buen Tono",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVNkUEZBRDJtNkxnTHU1WElMUVgxeDBlR1lfRThsSlBxUUVnRkh6U0trX3dUajNaMnVjdlpGanhYaE9vaGJRRG05QUV6YXlNWDhCSGVkVzBqTmE1YzNLaTcwdGJzbmRjSk9vV2drM05nVE5oTnBwTzhDRjBPcnVETjg1RlJmdC13UXg5S1p1VkNUMnRadFlxS3lpclVlc3dfdlo4dkt3TzRzZw?oc=5",
+     "fecha": "16/11 09:51"
+    },
+    {
+     "titulo": "Trump amenaza otra vez con aranceles a México si no frena caravanas migrantes",
+     "fuente": "Periódico Zócalo",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnl2M0EwNUxqVm5SUVFLQnZiOGp2YlNkZTNHWDdkUWcwT1c1dW5rVEZPMnRkcG0zYUhIejE4WjhMX2c0cWdkZWx3NEYxbTk0YW41M3lFcFhNR3R6R0R6OWUtMjZtci1xWWdOU1U3bTRUQ3JuMWZtQ3Z4QTNNcU52TGFLR2FVRk5SYk51S3VMMlRjVTM4WnlYQkJ4a0VYSXFqRENBRGJMUQ?oc=5",
+     "fecha": "16/11 09:57"
+    },
+    {
+     "titulo": "Trump amenaza con imponer aranceles “pesados” a México si no detiene la caravana migrante en Chiapas",
+     "fuente": "Cadena Politica",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeWtYN0htbmJmN1BSOTFlVFVtTGlEWG1YVU5QcDVBczdOczZUdGphRlRVSUJSU0dDYUZwcEIzMU1BVHlLREdBaXRQZmFsQkcwYVFkSF9nM2gwNzQ2cTdWcTYtTXNFYVVfY1dHU2dTdmFPV3AxbUl2c29Yel9RdWNpeEdZc0NRNlYwbHM5M1ItNEFZczFXQmhOdkloY2tDTVFMdmd1SkJiTXlKczM5SDJfa0RGTXBpX0x3dFBGQWtrT3I5ektDcERrZnUzMHpXT1NuUUdZ?oc=5",
+     "fecha": "16/11 10:08"
+    },
+    {
+     "titulo": "Trump insiste en aranceles “pesados” a México si no frena caravana",
+     "fuente": "Unomasuno",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTNrQ3NTOVRZSlhCRV85VmpiQVR5MUhtd2lvLUk5VTMtaTBudFV1Zy1jSFJXdzY5bHlaeHRQZmZDZERSSmR6VFhoVG5WNmRiWEhCd2NZUkRtc2tVRkZmN1lmU1lWRV9vRDR2dXZNQWIxU1N3UU9uY3V3M1V0VXJKOGtCMmFvd0VPX19XcUpod3BPVUt4RnlSTzFya0JpZDJL?oc=5",
+     "fecha": "16/11 10:17"
+    },
+    {
+     "titulo": "Trump lanza nueva advertencia a México: amenaza con fuertes aranceles si no frena caravanas migrantes",
+     "fuente": "Por Esto!",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTVYTE82ZDdLSU5NT2pjU0lMSDZoWTJad2QwZWZYVVJraFBmMWxycVhFeTc2V041R21kN2NIZkpZUUV5eXBzOWZCdkZ3cFQyUHZmZUo0WnRBLVJyZ2JYVWctRUVHMWJPWG9hUlZsTkMydk5UZUJMcWlkYUVhbk95M3lrVGFKLVpHYlo3NnlYS3A0dXhJcDF3ekV5aWpPSUhSRTN6R2d2ckdqaHhYNGVROWVzM3JTbVBXcGUxcktLMDhKVU1uMlFzWUpMOWE0UFNKU1AtOFBYWdIB1wFBVV95cUxONTVYTE82ZDdLSU5NT2pjU0lMSDZoWTJad2QwZWZYVVJraFBmMWxycVhFeTc2V041R21kN2NIZkpZUUV5eXBzOWZCdkZ3cFQyUHZmZUo0WnRBLVJyZ2JYVWctRUVHMWJPWG9hUlZsTkMydk5UZUJMcWlkYUVhbk95M3lrVGFKLVpHYlo3NnlYS3A0dXhJcDF3ekV5aWpPSUhSRTN6R2d2ckdqaHhYNGVROWVzM3JTbVBXcGUxcktLMDhKVU1uMlFzWUpMOWE0UFNKU1AtOFBYWQ?oc=5",
+     "fecha": "16/11 10:23"
     }
    ]
   },
   {
-   "titulo": "México deja de recaudar más de 171 mil millones de pesos por mantener los precios de las gasolinas y el diésel ante la guerra en Medio Oriente",
-   "tema": "inflacion",
-   "tema_nombre": "Inflación y precios",
-   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
-   "puntos": 10.88,
+   "titulo": "El salario mínimo interprofesional subirá un 5,3%, hasta los 1.286 euros al mes",
+   "tema": "crecimiento",
+   "tema_nombre": "Economía y empleo",
+   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
+   "puntos": 14.1,
    "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
+   "estado": "Sigue",
+   "desde": "2026-11-16",
    "fuentes": [
+    "Agencia de Periodismo Investigativo",
+    "Antena 3 Noticias",
+    "Atlántico",
+    "Benavente Digital",
+    "Business People España",
+    "Cadena Politica",
+    "CatalunyaPress",
+    "Diari de Tarragona",
+    "Diario AS",
+    "Diario de Avisos",
+    "Diario de Sevilla",
+    "Diario del Cauca",
+    "EFE - Agencia de noticias",
+    "EL CEO",
+    "El Boletín",
+    "El Economista",
+    "El HuffPost",
     "El Imparcial",
-    "Revista Punto de Vista",
-    "vanguardia.com.mx"
+    "El Imparcial - Diario liberal e independiente",
+    "El Mundo",
+    "El Periódico",
+    "Euronews.com",
+    "Expansión",
+    "Hosteltur",
+    "IDNFinancials",
+    "Infobae",
+    "LAUD 90.4 FM",
+    "La FM",
+    "La Región",
+    "Líder Actual",
+    "MARCA",
+    "Mujer y MADRE hoy",
+    "Noticias Obreras",
+    "Noticias Trabajo",
+    "RTVE.es",
+    "Revista Semana",
+    "Segre.com",
+    "Teleceuta",
+    "Valora Analitik",
+    "elDiario.es",
+    "ineaf"
    ],
    "formatos": [
     "Short"
    ],
    "notas": [
     {
-     "titulo": "Alcanza 171 mil mdp subsidio a gasolinas",
-     "fuente": "vanguardia.com.mx",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbTVwUW9XeHRUQnN5U1QyNHA5VEJMNWFqdW9uUVJSZl9rMkRJd21WSHBYNWp4dVlwMkRDYXNMMmVxQWM3VTBpR3JKQmJZeGVmOGx1SFd6bWpISDRfQ3NXZXFfVE4tWG5CMTBZdnUzQ2R6RXdxZEU2QUU3OTBIcGxjaTFmT0o1SENVYk8zR09TbFNBNTEzQi1fUA?oc=5",
-     "fecha": "16/11 05:00"
+     "titulo": "Congreso del Trabajo y UNT plantean incrementos de entre 13 y 18% al salario mínimo para 2027",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeUFOREtuTHVzSnZOWnFyN3BzM2UyakY0b2p3SkF6RjdSYnBkMFhMaFpSRnR4WXV4NFM4M1c3WEdmWkZBU1ZZZXpYYml2MTJnZHVHN3ZxNk13R0k0ZmtaM1o3TjJON2V2MHpxdGFPUjl6Tmh6WXM0SU84TjBJS1NhMExYU3VUc1R0ekZNTnBQdVM0Y1p3MkJQdjc0TzlULVd5WHlHd0FUU3ViVU5mYm1PTTE1elhaUVZ4WjlPbW9rQzd0UdIBxwFBVV95cUxQRGNVdU8xQjVubnNibUF6ME9uTUdCNUlXN2ljeWFKTmtxSHMtdm5OaElDR0RXbkRWX0hhejktVFUydFBzcjNRS2g1bXY3cWJBWTJFRjI3XzBfb0d2ek0ycWt5QnFPSXVQWV9CeDY1OXFidEJuTzdoR3dxNG1lbERBVnlWVlY0ZERSVXE0WjcxdFVjSkJBd2sxRGM3SVZnaFB6Z25MSE53S05HZW5tV294Rl9RTk1Keml3NDhYYWMwWmdqOFNJbFk4?oc=5",
+     "fecha": "16/11 11:17"
     },
     {
-     "titulo": "Subsidios a combustibles cuestan 171 mil mdp a México",
-     "fuente": "Revista Punto de Vista",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFdrSmFTMFR2VTVJTzRwM0h4VHRIMTJobjhyVElXUzdVNUhQMEs1NTdkSXJabW5vVE0tYkJ1Y3VNdnZuellackhyZVBFVWJCbzBRTldGRXM1TkNjejJEeEZ3Z0tNeTV5SVAxS1E0bU9BaF9MVzY2LWtONWE3N2NtSUg2NmlRYUQ5R1RCcF9PRzA2QTRzdklsUmRISExUWmlLbGFJdk0xWk5SYjdIeVcxWg?oc=5",
-     "fecha": "16/11 07:34"
+     "titulo": "El Gobierno aprueba la subida del salario mínimo hasta 1.286 euros para 2027",
+     "fuente": "Expansión",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXg0QWtQMjZFUFMtYjhnSmdpWXNBX29PTEFFdDFSalNlc1NYajBpOGZmNnB0aGV5RzZMYndjbC15QXFmRU5MakJXZjJZWnhSNDQtUEV1azBlajRRZ3JlRWppUzgyWVVzNGlGMHVNYjUwV3RRLXRGNzlsWnE2T2VsSzhyWS1SM2pXU2cyZXlITnlITHNJbXpTRENpcGNGRnBaTDdkTTlKYXl1d9IBqgFBVV95cUxNdkYzQTAtcHNkN2lHYXUycEUtbmxfZkZCbzQ0V0UyanBlNlgyYkw1dmhUdHlVN253UWFXMXdEV21fWWQwMWk0S1FyLXotUUxlUlZESm9lRGZRT1Z4VDlBMGE1OE9fMzBBUDI1dC1XNjRVcVdpQ0tadDBOUzRkYnZFZ2tMTE15eXhmdEFnbUthWWxLYXdjbTVQTHBMV0xXTE1zeEd1cnFtV0J3QQ?oc=5",
+     "fecha": "17/11 05:42"
     },
     {
-     "titulo": "México deja de recaudar más de 171 mil millones de pesos por mantener los precios de las gasolinas y el diésel ante la guerra en Medio Oriente",
+     "titulo": "La reducción de la jornada laboral de 48 a 46 horas y el aumento al salario mínimo son un hecho y entrarán en vigor en 2027, pero especialistas advirtieron que las empresas deberán evaluar estrategias de reestructuración de turnos o absorción de precios",
      "fuente": "El Imparcial",
-     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaC1jZXNLNFc2bnR3b2FyOTJkSkdDWkFZQ29ac0ptNU5tNmh0aXNwc0RsQkctbEVhSXA1VU1CcGZBNjktN1JJekw3ODlQb2x1YXI1RElLNnZhSE41b0R2Sm1fX19yZnlYRW9FWVBzOFdQVng5TkNRd0VPLWhuZmx5V0d0c2gydXV1UzJ2WE5HNE9MRlhBSGVGWlZwWjdFUnRHTWxrYUpac0tDWHFWSDZkSW9hQ2JyeTdQU2JkVHRsUTd2V3dESm83SWJlMmg1SjVEdHFLaHNaQTRqTWlXRnpDNDBKX09NcWtOMlM4UnV4ZU1aVEtnczFhbUV3M1dRSnlMMWJwa3ZFN2MyMElmQzM1dUxuMF9ienNW0gGzAkFVX3lxTE04U0ZGSmVDdUJOVWpmVnoyaWZXbnktb2k2eEx3NG1JUU9kLVpYSlliTDZDRGlMOFBTVGVQUjNsUDBmNkpHSThQQ3Rqd1VpM2hyWTMxbkx5NWFBQ2RDbWxLZUQ1Q0R1Q2xPa3ZmdmtnaHdhdW04RjFDdko0STZYN2V3T2loSnFKb2dNZWpwNzl0MTVwdG1CUFBMX2dHVm0xaWl3SVhBNGM0REJqTUlOSTRvQnFIOUY2QmFFeFJIYldBSHg4c2g3aC1GQ0V3b01VZXc5RnFMTW9FaWFZNUJsekJvZWNSZm9pZ2dkbnRoakpFLWVjV0I0UlhJNndRMnl2YV9XVHo4Ul9oRjdYNjlPcldUQ3RXVXRudVdvd2tWb1hmbkV5VFNvanp4QURRd2J0VU5sV1U?oc=5",
-     "fecha": "16/11 09:02"
+     "link": "https://news.google.com/rss/articles/CBMizARBVV95cUxPRGREcXFPUlJKVUZBQnExNGFqNTZiYmZKRm1zNFM0T1liSjdEUTNmLTAzN1Z0N2UwVlpRcWxQU2NpRnFCdkNma2Q5bENWTXZxWThSYXowMkpsQndIZUlPWDAwVnBDbVBtVExxeEszdlh4bGRmWVFMMjlyeW8xa1ZCVC1pbGtyT29kR1lGcjUyRldEeFdWZEZpLVU1TmtyVFNnRGMwZkQ4STFsZnpMUTcwMmVtR3ZHUm56TjRpeDVYWHRFVFhPOEkzN1lRbkRxYmcxb09lWUxQbzBjYzVncXVYdmMxLV95N1NTb255MWhtazhSZWh5eTEwRTB4bVk0WEF5ZVlHajNDQVRGTmdpRktEcWlzS1BSeFRfZGRlWTU0ZmhEMzhobEtiR1J1R2FDbWNjZEJUdV80VFZod18tRjlnZmZFWHFvb3JJdy0tNmk5VU5nNUF6Ymk2eHVEczZNRzRnRVJuQVdkbm44UEtDSzJ0S2phaFRtVzJqeW5JaG5xYXEtZXdsU2tha0pWeEE4UTZrTGFpbk1LX3cwemJsM21LMHgxelQzME1aT3NYX3ZCM20xT2FDRmw5ckJEaGxsbTNrRVVKQm5zbU1razVNTV9NMnphV2tQMXROS2FNVEhmWFR6UHBWN2NidXZ3R0dLcjNpYzc5dE9wREQ3SHBTQThuOHpVUkNNbW9oNjNyN0Y5NUZ4NndyZGtZMUNPa0llVGttdHJzNk1ROWZ6Q1NJUE4welNGcE1pZ29zNTZSTUVpSWxVQnd3cUV3V25LcHnSAecEQVVfeXFMTzdMYndrOExMUGVXS0JDQ25Ud1dQWkk2eVNEQnNCYWt1RWItMENjSWM2b2EyVTNXcUxsN3l6ZTZzN09sUGVmaHhUbEdWU0Vtclkyck1GNi1fRzdyZFVtWHZLeHdONnVkZnlxUUZKN3VhZmwzSVhmc0JHOFhSSURzRUFQaGk5N1FDbnlBV2JFcnZ3YkNsMi02emhIcDlvTlRSSExLcTFlX2lCT0ZMMVljTzRITjBZMlE2cHlNVU9aMlFjY1JUeTA4WGN0cVRxZllfZkpwQ254S1BScWRyOTYxcDU5MFFPTjBYZXBRdkg1dTk5b0tYSHZpakVfVFdmZnU4NzNOay05V29DSmxzSEJDOFpmclJuMnlFbkVYd2F5ZXNPTTRWMmkyVTRhS2RUTktKR2lGS1hoZ2FCSXNZTUFMMGFVbTIyOTdfYWtSSkFqbnFJUjBmdUZSS3hJdHk4NEYwQWpSSmszTmdrQXRGSFVoT3BjdjYxRkFyemZ0UGJwQVRMaXhYYUxEVERpZC13ZkNQN1RWR0R2NmN4Z2dWbGd4OWtGWFRLVWFMRlRvNk1CU0RtNVA3aDZGeEZQSHFiZ083Z2psTExXbHU0eThmd0gwa1lUQ1N5OTJzNk0wOHRadUtHZ3hLV2s5NVFXWGZCSlA3MFBoRERCNWNBcGFleHNFcVBOSEJLem81b0VJeWZhZHh3d0xxbEt3VktVQ3REdU5XTlo3REZqSjNyenRWekJHQldueEpGS1NMLXkzUTVPQ0s4dDNBRFc5SElVWmg4cGF2Qml0Q0VJczJMQWFURXBocTFaRlI3UDA4?oc=5",
+     "fecha": "15/11 10:14"
+    },
+    {
+     "titulo": "¿De cuánto será el aumento estimado para el salario mínimo 2027 en el país?",
+     "fuente": "Cadena Politica",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVE1xVWgzYVV2aERBZ19hWVRzUS1pVldmWEtKUXVSRVEzV3MzQk9PcDZweDAyT3ZfNC03UWdvUFdHc2YxVFlNNzFyQ3JhUTIxUzJvTkhtX2sxbHJvZmZlWXpyR2JuSlFsZzlUMTVyeWVja3dfQWcycjdWOTBEbVNFTzBjdWlFd0VHZ3ZfSUNDYVdmcER5ZTNPTWJCcjRJbVd3NW5yTGdXM1N0Z0dTS0lkSmh3?oc=5",
+     "fecha": "15/11 10:15"
+    },
+    {
+     "titulo": "Gobierno anuncia fecha clave para definir el aumento del salario mínimo en Colombia para 2027: esto deben saber los trabajadores",
+     "fuente": "Revista Semana",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQM1l2dkd1WldGa2NTZFY1YzNGTFYzdHpMVThvVVVQTFpUSmxYdTVlVE1RMk5rSVBvZDJFaGUxX3hJVGFKU1JRN1FRc1JQRW1GaFRFVTF3NjhuSjBpZVVCMkV1Y0pYQlY5RS10MHNWdklXcUhmOEpxemQzcWNjbHhFUC1aZ0c0YV91aU1mblN3S1Z0WFJQcGFHZWZqbWNWQUVoM192WllvcV91NEEyelp1VmlTY3hNRVFBQlo0cWZ5TXItMjZJaDUwcVpaM2pPMHZ4YldNRFFJN3lMUkI2alVaUTlGTFNPc0x2VVVKS2tIVmVmVU1YV2JQWVRDcWdDSGstYVB0LVI4bF9xLUZvNFA4eUFILXVFeEtNbmfSAZ8CQVVfeXFMTUhMSUY5YWE5R0xock1qcFZiWFd0VExSZnQyeWFvQ2xmWHA1T0lmVTNKdDRCRDdSQUxPUWphQVZ5RmFrblNORHVYZmFhN3RDQjRCaGVJY3R6YWFzeWt1MllDdWZxbUhyUUZlbUZOT1BjT3E4dDNIXzdJVHV3MkxEOGM1NnBSWXV1QlpjOEcwZ3B4djNjbkZGeU5GRlVFdmpyWVJfc1FUdV94Y0NZUkFPdXBoRVdVRzM0Rm1zb0NoYVpITV9OdThjLUxPaHhWV19EcnV3aWdZNlhndUJpUzBlRm81cEVoSFZ4S2Q4LUozZV82dzY1eHdsZmMzWUV0amdZOTZvNGliUXBGV1lZNU1TY3RaTGZ0RzhKUWxINlV6Zmc?oc=5",
+     "fecha": "15/11 15:50"
+    },
+    {
+     "titulo": "Precio del dólar en Colombia: qué pasará con la moneda durante la concertación del aumento del salario mínimo de 2027",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUndoWXRBMnUzWGhrZ3hTRW50dmZPVEdiM1hFSW9OSWpHUmxpLWhjcnJiWDJodWdoeEMwaWZBUHJLUi1MX1RPSlhDWjVPTXYxNjlfQWFCN1A2U3BvdWdBTmc4NTlULU5QRDdFclc5Z1JmcXA1VmI0aElya1JRSFF0c1NTcjAtQ3lQTlhhNzNUTDFfZEFCdDV3cl9mTS1KdHRUemhpT0FiQ1pWUnJESUt1RHlRQnpiZ1lGcGVUNVAxUU5EWDMtRjJJTDB0d3ZQNTVfMXQ0NXY5cldzQ3RZRi1WRTJWNDh1YXZsbjA1TGdjNnJuNXPSAY4CQVVfeXFMUDFrSFptVzk0amFKQnp1UmNRc3hEcjZzNjFFS1ptS2tKMXl1bFZ0WmZIV2RtVjlLZGpuUlRaWmlQTGtrRHh2UnhNU1MyRDhRZGRmWm5ScGxRckQ3YnBXdTdDV2xyOG10ZTZGcTNPYUkyOTh1WDBmT05PUUhfbER4Y3kxVnVqNTk4OHctTjBZclJHeVdSbTNZdi1fT0F4NjlzZlBhcWxXRTYtN1NmRTVvQnh4SlpfOGI1UmYzVlBxbmMzQTlkMS1vNk9OYnl4bVBuT2lJV2lBRExXNG9veFc0VTFlTlc0RzF6RDE3T2xvcnNhUU5ZUVIxMVpDWmRUUlFWWXNPSlpWa1k1S0dDVUdR?oc=5",
+     "fecha": "15/11 15:57"
+    },
+    {
+     "titulo": "Salario mínimo de 2027: esta es la fecha en la que millones de trabajadores conocerían el aumento, según el calendario establecido por el Gobierno",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOMnhTM0M0OFF3Z2JEcWdHemVRSDM3RDBlcTdNTi15MEp4dHZib3JIZ3F1Yml2eUpyMHk2ejZXenY5NFNiazF6V0V3YlZtVXVPQ1lMZFpjR2hqN0lZT3VVQmNrTjFZRzVyRlRVTURENWRVTkZaem5uYWhRVnhiWmlyd1gxdTB2OWZNczVpTVA3a3JhUzIwVVJYOHJ2MWxyQXk0ZTJvUmc4NEdXOW9BSVV0QW50dUctUl9Wb3ZqZ3draHhkWGwzOVdEZ3phRGNDdkswcUZGbGotMzkwMG5uV3p4WTV5MXNIRDNpRkdzdXZ5ZzlXcWgxQnBFR1VBM3N0QzB2Z2h6aWFucEhkdk11NFh0Vm15S3NHTFh10gGzAkFVX3lxTFBFRWNieW5fcHBocXpUc01zc2poZ3NuSFJwbmp2NTV5NzZHc3g1MmhWcjM3dTVLNGYxQl82YkdrZmcyS2Fid1h3ektUR3E1MmJqaWlYYkhMRTRueGFHTVc4andJOUZFVVNFdXh6eVkyZXVlT05QS1dpM3NSdTFLNWxPTDYwdXI3Q080OEtEa1oxWEpDYU41Y0tHR2x6dWhmblU2Y3dfYjlXdWJqWlAxQm5mTGo4aVhCeVM0bXpLdTZvZ3gxaUdOY2s0RVdGd090MkRQRTJkem1LdUx4eTVpTlBFVVNTeF9idERFazYzeXJZVEdKRGpGd2EtdFZuMEdjRkJ6enB5cEtNUjFpdHJTWGZQRW15WFVpdzBvSU9ObHBSTjlyOW5ZblFkNEJMV1U1MGlZeFE?oc=5",
+     "fecha": "15/11 17:32"
+    },
+    {
+     "titulo": "Salario mínimo de 2027 tendrá cambios en la mesa de negociación: estos son los nuevos integrantes",
+     "fuente": "La FM",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVBSNGFPb0RpU2Z6dzF6TThvSVhOcVc3WXYwdHB5MHAxSEtsMlpuRHlycXlRVzNfcV9VTW5xbTlZSmozcE1OOTVUQk01MFRmb3FKelZZMF9Qcm1PdGJjSTdPd0tfR2xlWWl6SW83TEtYbDlLOFVXREhvc3gxSTlFWlJPZTJ5cFY2YmpUSXVSVXNVQTZ6LXdlQ1lOS0lXTTjSAZ8BQVVfeXFMT05hdTdwa0Z3YWZPTG4xTmhPSno5MUF1R2FOV0FWbFdYX3hpMnBoZzRYS1J5Q1RvY3d2c1NJOHRsdW5kOFhCUHhCSWd6VGgyQzl0a3dOcWhWNDFLMnVxWWhJblVYcTRMRUgyYkdhWUxVNjc3QkJFeE1hWUVlZ0wwTXJ3R3hPR01meTE0TzktWU83dG5UM3lyRlE0UTB0VVp3?oc=5",
+     "fecha": "15/11 17:37"
     }
    ]
   },
   {
-   "titulo": "Binance Targets Full Withdrawal Restoration by Week’s End After $6.3 Billion Hack",
-   "tema": "cripto",
-   "tema_nombre": "Cripto",
-   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 9.71,
+   "titulo": "Subida del SMI al 5,3% y del 4,5% a funcionarios: lo que cambia en 2027",
+   "tema": "crecimiento",
+   "tema_nombre": "Economía y empleo",
+   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
+   "puntos": 12.24,
    "oficial": false,
    "estado": "Sigue",
-   "desde": "2026-11-12",
+   "desde": "2026-11-16",
    "fuentes": [
-    "Hokanews",
-    "News18",
-    "PYMNTS.com",
-    "TechJuice",
-    "The Business Times",
-    "The Defiant",
-    "Vietnam.vn"
+    "20Minutos",
+    "65 y más",
+    "Andalucía Información",
+    "Artículo 14",
+    "Business Insider España",
+    "Diario de Sevilla",
+    "EL PAÍS",
+    "El Confidencial",
+    "El Correo",
+    "El Diario de Madrid",
+    "El Español",
+    "El Mundo",
+    "Europa Press",
+    "Expansión",
+    "Idealista",
+    "Salamanca24horas",
+    "Tribuna de Zamora.",
+    "UGT",
+    "Vigo al minuto",
+    "heraldo.es"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Luz verde a la subida de sueldo a los funcionarios del 4,5% para 2027",
+     "fuente": "Expansión",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdjdxNmNtWnhUbWdsZTRqcXlISXhvZTVUS09uYXpHcjloOG4zdEtEOXkyeFEyVWY5Q2FYbHlZSjNBQ285Y2dKWU4ybC1pb1V3c2VkRjBaRTdkQmFqRmhfa05fYnh1ODVoX3V1X1pzaGcwUFkxcFcwdG1qckpXU001Uzcta0FxUE1Bekd4YkI4Wnd6QVdnMW45NTF2STbSAZwBQVVfeXFMTnBGbVZ2VldpRk5PS0RKYUlsdURfUWlnNEZUd0RkLVlJSHZ2dEZleUg2YUVvcExGUTBialhzWEFCMndFNXVtSlBWWWpyMzh5REd3Y1UzYjRIYXRnSHAwbWRuWHhwT0FEZkVrR2ZVX2VVVjJVYkh4Y1d1MHF3QXllQ2lsZWQ1OVRzaXdZYmFUcDZqcmNVUHlvV3o0a2Nl?oc=5",
+     "fecha": "17/11 05:44"
+    },
+    {
+     "titulo": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
+     "fuente": "El Mundo",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVTlXVE5QNjRQZ1JZSjFYYmR5Zl9qMk01US1QUUFwUnI3WU9NR252RGNlbXZNc0xLRmtsYWt3dFc0enMyWXRYM2NPRzV4a09jeUFMRllIZk9waWlsdFBYZUh1TU9ZMjhVOGdnWkNIOXJUSEh6WU9BRTJyclNZaTc2a0ZHeE9KNzBw0gGIAUFVX3lxTE1lQ2V6UHZncHhPZElGd0NVSFRqZkx6RnlHX051UEV5cFJxbWtGUFBPQTRpMXhzQkMtODA2MVpyV2ZIX3BETnNpbk1RNXhBRjJzblprbVctbXZXdGFETkNHeGlZazhCcjV5cGdkR2JHVjl0RTIxTkNYNEJFLTBhMVF0bWduel9LbHY?oc=5",
+     "fecha": "16/11 14:39"
+    },
+    {
+     "titulo": "El Gobierno aprueba la mayor subida del SMI de la legislatura y del salario de los funcionarios en 35 años a 15 días del 29-N",
+     "fuente": "El Español",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMWFaQjg2UGVVQUxGNmprSHRaQ2VTdlBaTWwwaWQ3eTY3S0I5bXMtb1hhR3lBRVVGUUllSzE4MWs3c1FoNVpkUlNDZlFITXdNUWJhaVh1dGNnRFEtc0xvVjNUWV9iSjlpb2Y0UVpVakw4NWpwYzM1RFNRUzNtUm9YaGZpN25zTGZQdWE0LVJsa2s2YWhBR1U3OXREdjA5ajRUa253N2Q5dG1xc01xTEFRUU9RdkJfVlhMdmU2eTI0dlFUb1JTNm9rWG5QdHhmVHU3RjNBb1pmMUYwRmJtWFhpNUpZOHd1d2dYZWtPcUd3?oc=5",
+     "fecha": "16/11 22:00"
+    },
+    {
+     "titulo": "Ya es oficial la subida del SMI en 2027: el Gobierno confirma el aumento a los 1.286 euros",
+     "fuente": "Business Insider España",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOU9UdUY2c09UWXNwbmJpMGpGOXN5NTRjT3FzZ0FwcnFIV3RFQm0wbXA5VUFWbHc4ZTFKdWdZcXNBbjgwcTZtZ2lJN0R4VkEzTW0ySTdSTXBmelAtckR2dDZqTjRjZHZ6OWRzZ0pES3Q5Y1prS21TMmdOS2VpeFlqUDZkYnowSnRKTHh4SUN0OUxDWkgzSWtRS3k0MkNNWjFJZkxsNHpNdWLSAa4BQVVfeXFMTnpQTWFuMUgxN1l4SmRTRlJnRGJacUd3UTVfU1VLV05uT29HZnBKbEExQUtHeEVuaW0ybkZyX0l5WkFNRDVWVWVJLXU1amliNWd2TnhRZWRDNmJwdUdhdDZveGgzZTgxNlhVOHpGUGN0U2RORmdVTUhyaGNRV1JncmlBTzROX1E0WGVPMGY1bE4wWEhjdTg2S2tCLU9aRnBKSm9rRXFlZVZ4T2JBcUl3?oc=5",
+     "fecha": "16/11 23:20"
+    },
+    {
+     "titulo": "El Gobierno aprueba hoy la subida del 5,3% del SMI para 2027 y la deducción para que no tribute",
+     "fuente": "Europa Press",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSlgyNzlNQVlQZExaVllmQ1ZSLWlUNS16Y19GSlJBNlUyWkVzQ3poN2prejJoN1dkM3g4akRyRlBCU2FJZXE0bkQ1azduSnR3UG4zTDNfMldJaEVMM3VJNHBuZFdlSEluWWlvOVhta04xaFpIeWZjbzJ0YThzOWtMQV95T25FSEpFbzhPY0tRRVJMZkt5bERLZGUtX1BWSnY5VWV1QzlURXZ0MDZ0WS14WHFwbTgweWZoSTJhdjBQUURCUEJRQWdDazJrdjBBZ2IxUjRtZg?oc=5",
+     "fecha": "17/11 01:25"
+    },
+    {
+     "titulo": "Subida del SMI y del sueldo de los funcionarios en 2027: cuánto sube y desde cuándo se cobra",
+     "fuente": "El Confidencial",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbkNFVDh0OUhQUWZfSzlyZFlRMkQyQk5JRkl1QnR5bWwzVG9za1ZDX2ViNTQtRDdVRHVvUnp0LVJVU09tUEt1MWhqTzkyTFVldTB4UWNUX2Rkb3l3Tjcxai1nRk5CM1JjSEF6czVCU0szNzJqR3BoYWxQdmZ2OEFzUm1JN1dvbi1FLURnVzVIWDFMXzR6QmlIOVptelVQZw?oc=5",
+     "fecha": "17/11 01:49"
+    },
+    {
+     "titulo": "SMI 2027: el Gobierno prevé aprobar una subida del 5,3% hasta 1.286 euros en 14 pagas",
+     "fuente": "El Diario de Madrid",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeHBjMGhYVy1hSEhDb2NGdS1vLXFoTGRGemxXRld3RndsMHRUTnB0QldlN2I3RHRKbVluSlZKbzJNSlM0aDFUZnAxaUVfT3k0RGYzNndfaG1vTDY2cF83V21MbzQ0aVJKSmprNlRXYTJraHo4Z0F5Uzh0dDJDM2l2c1hJbUROc3RXUTZ1YnN2VENPUWxVc01jODA0SGRZbzJRSEo4Y2Ewek9EWmc5RnAyQzdKNkdWX09rTTV4Z9IBwgFBVV95cUxOb2JwcDEzYmtveVlyOWU1TnZKcDRRY2gxaWphYUMtY1FNLU1jNlRPQU9IZTVXVUY0V3ZtNEdEdmh6Rk4xNTF5eWJmc1pYRnpIcjZXeGh6YXZJMkd3TkxwSnQzcm9HQmlNd3NpdG5IOFhMeFViMk5SV0pJUEl0d1E5NU1fMUhCTnFhZzA1NWgtNlpwYWE2b016d3dGSVl4MXRvd1hVai1UUzlYb1pDTHNiLXBfYW9FVXc4LTdPUW53ckxxZw?oc=5",
+     "fecha": "17/11 02:40"
+    },
+    {
+     "titulo": "El SMI subirá hasta 1.286 euros al mes en 2027: quién cobrará más y cómo tributará",
+     "fuente": "Vigo al minuto",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVhVVERvNFFRUXplV3l6Qm5GaXVsYnoyb1VIdk83OHJwcTF6ZGJpckJKYzk5Ymo3dVdaSlBnZnZoRUhseHZPc0tWV1NOMUJHek1udjN0QzlOanNXdE5kUGJ2UGxZa0sxVU1MSmVEWG8tY1NnY2I5UzJOOEt3MjlJV0JxN2hzWm05NEE?oc=5",
+     "fecha": "17/11 02:54"
+    }
+   ]
+  },
+  {
+   "titulo": "El oro sube desde mínimo de más de un año y las perspectivas de la FED limitan alzas",
+   "tema": "mundo",
+   "tema_nombre": "Economía mundial",
+   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
+   "puntos": 11.2,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "El Economista",
+    "IFM Noticias",
+    "Infobae",
+    "LaRepublica.co",
+    "Misión Política",
+    "Perfil",
+    "Yahoo"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "El oro en su nivel más bajo en más de un año",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2ZHR1FBMDV0VHhGSi1ZMzQ2S1pXYXc1NVVKSjV6cDVMVkxwZjl2SzctMnVrdW15ZWt0MVU5ak9DemdOMkg0ZXJBOEJYVlZTX2lucV9yZElFeVc4bW9tcks0c0lKWmZVTVhSQU9QN25QOWFLWVM4QldNWmd2NWd5bjd0aThwd9IBhgFBVV95cUxOR2ZHR1FBMDV0VHhGSi1ZMzQ2S1pXYXc1NVVKSjV6cDVMVkxwZjl2SzctMnVrdW15ZWt0MVU5ak9DemdOMkg0ZXJBOEJYVlZTX2lucV9yZElFeVc4bW9tcks0c0lKWmZVTVhSQU9QN25QOWFLWVM4QldNWmd2NWd5bjd0aThwdw?oc=5",
+     "fecha": "16/11 21:46"
+    },
+    {
+     "titulo": "El oro se hunde a mínimos de más de un año ante la apuesta por un alza de tasas de la Fed en diciembre",
+     "fuente": "IFM Noticias",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzMyeGtEczJzbHp5Y1A5NDhheEFWVGtFSHlWbnBxSlc2aGpoT2ZPQndxSXcwcWFSNHZabVhiMHpLanRDeWJXclljQzRTbFFhMmF0RUJrTlNzY0xwalpuek9kRnRvek5ITmJFa1RvUnlHb28wQzU5a3NpaU1BTmNZbUtyRTZCcFA0MXJRZjh6cUlPQl85TFBRamVWc09XcmJNc3RWTTFac2JVWlZFMVRVd3EyWm1QaVU?oc=5",
+     "fecha": "15/11 21:14"
+    },
+    {
+     "titulo": "El oro toca mínimo de más de un año por fortaleza del dólar, apuestas a una Fed restrictiva",
+     "fuente": "Yahoo",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1l0NHdTUlM5bi13d2VLMnREQjNlOWZZQUFsOXR0UnhaTzNXZi05YWFmV2ppMkRQYjlydW11ZWNISnR6cnEwRjdhVzRlbVA3c0JPQ2c0Z3FMdTUteFlUSDc1NTFyQm9OQ25VM0liXzR1QTlmZGdoUVdBUlVodnl3Wkt6UVRpREZoTGg0ZXFCQllBd3hPbUpZ?oc=5",
+     "fecha": "16/11 04:25"
+    },
+    {
+     "titulo": "Fortaleza del dólar y expectativas de tasas altas hunden al oro a su menor nivel en más de un año",
+     "fuente": "Misión Política",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGF3RURRUlRPYTV1NjVobGt3REJTU250WE10WjA0bnJHb0JpTU03THBGY1gzbkRaMXdraWRnMDBQelpxbkF3VWtCY0w2YnYyS3I5aUN5NGFoVmx2c3NfMzFra2tNLUxNQ05DeWhfR245YzR4UmZ1X3FnS3Atd0JpTlRzSVRHWWpuaXlnWXJvNGZjZmY2by16WDRPNkVzSFFaZnhrdkRJMVdyNElIUU05R3EwYjZfRVhES2I1UW5XV253YWkwcjlYSGZKNFg5c1RxUEE?oc=5",
+     "fecha": "16/11 08:14"
+    },
+    {
+     "titulo": "Este es el valor de la criptomoneda Bitcoin este 16 de noviembre",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXlXMWJKUU9nZUJHc0J3ZlFXSXBIOUlMR1Q0Sm5Db2NsZEpjTW5hNWJwbnRxZktjZlV2ZkNnVmY0bmVLZTBwYmc3ejl5eWJzalA0RllMWFgzUFRzZUtEd3ZiUkdjWlpEamVLNXFQclBYN1I2eFNhejVLX3NFaHhWd1VhOXBpYnBiQnpxLVVWUGFha2luU3FaWEJiUndUeDh6d1BDTjhwYUhCUdIBxAFBVV95cUxNLXVpNUlaUmRoQ3c5NTBGMF96MEU5TWFkdkxtT1ZvbmVVdHJEaUU1VlNfMFFrV0g2RVdMVkF0b3BubnBLSVpFVklpV2lZYWVJS2JkT0tTVlI2bklWWmZRMEFDdEVNWDQ3clFqSzlyLWNpUUQ3UmdiQTEzd2xzYWQwamdpWVV6QlB3bHhSZ21TZjRzMHdHekdGNkVuOWE5bEw5d214M3JueloxZlNVRVUyUEduUVlvdnkyVjNDbk1KNDlDbmxy?oc=5",
+     "fecha": "16/11 08:16"
+    },
+    {
+     "titulo": "Se desploman el oro y el bitcoin: el metal toca mínimos de un año y la criptomoneda pierde 17% en noviembre",
+     "fuente": "Perfil",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdHlHUTNPbm5BQVBLUTViQ2RaVkNVc2RoTWQ4Wm15TGk1U0QzUWlMZTZ2SmxyQ3RZZmtJbDJyaHhpTDUzbmpydEhPVDhPdWpwekdQZ2xOMlU1cFd3bzJhSzY1R0szRXZyeFVQUHRfSDJFdkQwc0RwMng1cmg4eXUwUWlPUHA0cnRhLVdrcGNlYlJMeVRCMTdxSV85MzlwUi1EcFpCNDJRSDkwUXhQTWlZVFJ2eDVwSUVFb2RtUUxXdDFLdmdXbG40blpjN0dyQk5FUkhfOGdTbEQ?oc=5",
+     "fecha": "16/11 08:20"
+    },
+    {
+     "titulo": "El oro sube desde mínimo de más de un año y las perspectivas de la FED limitan alzas",
+     "fuente": "LaRepublica.co",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0hWMEI1OC0yNlBfc3lXbG9fcUQ1bWNJTk5pRDNWZXhwdklwZ0g2c1lJWnJDNmJSTVVwSWU0SFV1Z2xFeGZJX1Z4M3BSMEJ5SlNxSERNTEFwM2FkbnFUd2VkVTJDcTJGaXlLenlsZHhBWTl6TmJwZlg4YWdoTjFRZm02cEw1cWNnaXV3blVLMFJiRUtETi1hNUJFejFKTXlqQmJKTm5Hb1l1elJuYjRHQ0VNVTN2eTFmSERwYktPeWVPSWl6a3FN0gHHAUFVX3lxTFBnSFYwQjU4LTI2UF9zeVdsb19xRDVtY0lOTmlEM1ZleHB2SXBnSDZzWUlackM2YlJNVXBJZTRIVXVnbEV4ZklfVngzcFIwQnlKU3FIRE1MQXAzYWRucVR3ZWRVMkNxMkZpeUt6eWxkeEFZOXpOYnBmWDhhZ2hOMVFmbTZwTDVxY2dpdXduVUswUmJFS0ROLWE1QkV6MUpNeWpCYkpObkdvWXV6Um5iNEdDRU1VM3Z5MWZIRHBiS095ZU9JaXprcU0?oc=5",
+     "fecha": "17/11 06:21"
+    }
+   ]
+  },
+  {
+   "titulo": "Profeco pone palomita a Chedraui Mina por tener la canasta básica más barata del país",
+   "tema": "inflacion",
+   "tema_nombre": "Inflación y precios",
+   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
+   "puntos": 10.2,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "El Sol de México",
+    "Linea Directa",
+    "Los Noticieristas",
+    "Ríodoce",
+    "XEVT",
+    "www.diariodetabasco.mx"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "Supermercado de Culiacán tiene la canasta básica más cara del país: Profeco; ¿Cómo comparar precios sin salir de casa?",
+     "fuente": "Los Noticieristas",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMmFsQVhFMDZFTk45WjNmTWJORWVBM2FEMUJkd2lQMWk4LTBWWEtjQmdfWkZndmVoYk40LVZvT3hITXpXUnc2WEVkOUhfdWxfaGtjOUNjLW1NUlZROW43NXZZdl84VG1YRTNkVjl6XzVSbUVrMXFfbWxjd3U4VU52SERTQ0ZtMVVaQVJzT3ozSUFUSm5SRmdTUjBScWxpb0wyVVE4ZS1VXzAwQTF0QXRyVWtVSUhPX3RJeDlHcTlLRzZoSS1iNEY3TTZyZ05ERDB5cmxnc0xRMUtseWg3bktOQXZnZGhkMTNab3VYNFJsUnFWOTZLVDdUdlVSVmJyZw?oc=5",
+     "fecha": "16/11 09:58"
+    },
+    {
+     "titulo": "Profeco exhibe diferencias de precios de la canasta básica en supermercados",
+     "fuente": "Linea Directa",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS2x0TEtQSjhxYkZ0TzMxM2h0dExRdEZfUUZrc0ZTVG9FbUFKdUEySUZFU3RCS3dQb1pQMndsYjhZRURIT3loVUFTTzR1ajE2Mi1Nd3hLWGE2VFEtbTQ1cERCU3d2djVZWWYwb3FYNElQUkNEMmJKblN6WUNOaTAxMHVucE0yZGtzanlzeW8xdDZJUTY0dFNYblJMbDloTHE1NlZXTkVNR3pSajBpdWlOQmd6T1l3V1FOX1dnOUxfUlVpOWxOR2tfelIzZkFHdw?oc=5",
+     "fecha": "16/11 10:12"
+    },
+    {
+     "titulo": "¿Pollo, res o cerdo? Profeco revela dónde cuesta menos la carne de la canasta básica",
+     "fuente": "Linea Directa",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRWdvN3N3WVlLcWhxdzZFMkhJbGQxUnhLSUdsX2Z6WjJPMjZuV2IycV81T0hLbUdxZjROR05QQTF2N19leEJhSG43bk5pOUxtcXJROWlyU2VfLWV2d1F5ejI4SllxTkp5N0JTekwyZk5JT1VucXU5MEdKWW5LV3FEdUl2TkVFUGtmb1gyZFhnMnV0bko5MHp2YTJ4Vmc4VUN0MFlKNGtseFNPdDBPV29rUmFnOWdIM2lVTVFyY09INnRRc2F5TFlDNjBhOV9FWGJMRWYtQUJR?oc=5",
+     "fecha": "16/11 14:13"
+    },
+    {
+     "titulo": "Culiacán registra el precio más alto de la canasta básica en monitoreo de Profeco",
+     "fuente": "El Sol de México",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORFh0NURKYVZlTmFzdERzSDJ2SmFiV2h3eHlpUV9rR3BWaUtDQkhDWFhMYVBCemlyeEFTZTlvQ0JDZGVsX3pHd2xEUGFudHVPSk5RRElLMU1JZkp0d0dSb1Q3MWZ0bmVWbGtsb29WTVdrREs2TzIxN1k4YTBPLWdTTXBrM1BCQlRrWUZ1cDFaUkRNakJpc1dBUWZWZDUwSmN5R3BXeFhSanQzYzNFUS1fUkx6T2VoVzJmWnpGZGFZeHNyZTVLVXhHWkxB?oc=5",
+     "fecha": "16/11 15:01"
+    },
+    {
+     "titulo": "Revela Profeco que un supermercado de Culiacán tiene la canasta básica más cara del país",
+     "fuente": "Ríodoce",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWGdDd3Z0eHpYNS1aMEprSEpWb2NDRm81X1BScGJqZUNWZzJaX1lRaThVcEtSVFRqQjd3bEVNOGhyUTJWLTM4Y3Z1aHh5QWlpNXUwSVh1bGZKR3RUWHlQUC1jTXphMVoxOHFEdFFDaU55U2ctbUpObmVfZVliQmw0NnN6OXdmeDZhTHFJd3ZwT3ZjVGZyTThkazFFdVFoQy1ITDVGbW5LUElDejNaZEtQRTlWT0RzOWZOYU5R?oc=5",
+     "fecha": "16/11 16:27"
+    },
+    {
+     "titulo": "Canasta básica más barata en Villahermosa: Profeco",
+     "fuente": "www.diariodetabasco.mx",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWkJqelEya19qc2o1QjJSRzEzTTRxQUtSM25WVmR2djBueDFEbV9TUzl0Ni03RnlIU1RZa3lvUnRRWmJhQlNGazFKZXpzcU5WWlVfamNDSi1PSnBhUkJkT2FJbzhiT0JrUlR1UDlpYXQtTGNacmsyMzg1S2dncVJPbWh6aXNBcjhRTm5tX2lWeGFWWTVmYk5JQg?oc=5",
+     "fecha": "16/11 22:04"
+    },
+    {
+     "titulo": "Profeco pone palomita a Chedraui Mina por tener la canasta básica más barata del país",
+     "fuente": "XEVT",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNmZacVctUlFXbHJFQ05xanBzaVJXcHI2UDdlcjVaQXNGcmw5VnpFejdDaEZRY19LZEZrV2RFTEVmU2UtanF3QWFfa0F5TWx5dGhoVU9QMWR5RjYyblRsdUU5aVBFLVRLdjFaLWlIUDlJbVctbzBsVUR3NlBVQWlIdUY0S19PUFpkbE5Ma1BtaEpHczA5MlkzSU1VQWh0VnM5MElYV01aTl9jRTFuclh5U2xiT2lVSExHMXRFLVpnSExpeVk?oc=5",
+     "fecha": "16/11 23:28"
+    }
+   ]
+  },
+  {
+   "titulo": "Peso mexicano sube frente al dólar mientras crece la incertidumbre por los aranceles de Trump: así cotiza el tipo de cambio hoy martes 17 de noviembre",
+   "tema": "peso",
+   "tema_nombre": "Peso y dólar",
+   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
+   "puntos": 9.73,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-16",
+   "fuentes": [
+    "Ahora Tabasco Noticias",
+    "Daily Forex",
+    "El Heraldo de México",
+    "El Imparcial",
+    "El Mañana de Nuevo Laredo",
+    "FXStreet",
+    "Heraldo Binario",
+    "La Jornada",
+    "La Razón de México",
+    "N+",
+    "Publimetro México",
+    "Punto MX"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Wall Street arranca la semana con caídas; peso mexicano cotiza en 18.63 por dólar",
+     "fuente": "La Jornada",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPT2xlODlkYTJmc1VvX0pVYTNHUHpoWHgyQ1Y5VWxHYkFWSzdhb1BxeGN6VjhiQlJRelpmaWFUMUxXMnZKbTUySUY0R0Izc3hBMkUwRjBISnRVNFFNSEhjR2RoeVNBSVJIRElOMkJLWTdGckwyLW0zSTU3Y3RRaUR1NU9SV3IyUkh3d0c3RXl3S1ZnUjMtSllQWVA2clVTdS1tYWUyWHhQNldUdUlLUGxkdFVueGkwemZqYy1IZzJ0ZmZ5dW9CYXhaR2gtamtRbkk?oc=5",
+     "fecha": "16/11 09:24"
+    },
+    {
+     "titulo": "Dólar acumula tres semanas de ganancias: qué esperar del peso mexicano del 16 al 20 de noviembre",
+     "fuente": "La Razón de México",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOEpSRTJ1M3JfY19kc05qMjJoSGoxRUNPdUpCODlaR201NDZWNFdEM2g1VWNmT1FJQmphVlVhWmVSakprbFk3YVpkU0FyRHRNRFVCVmRHMGREd0ppb1l4cFRLYlMzbkt1R283dmlYWE5oVkg2RXhaUHpWdzJqRlUxQkRVQ1pTa1NISlRNakN3YzlWRHFBX1MyWWJaUmVvOFRkbEk0SDhXZnExcXZabm56NGtxWDc4alk1a1RraVh3T2Z6ZzQ1eWFjREFRWmVpMVAtUnlkTXlhTUvSAfMBQVVfeXFMUHZpSkcweHVLbWxnTmQ2V0IyT0lwbkE1c3I3VnpTTHFiWlliLVVrN2E2aHlvZEdoeDQ3Mnh2QTJPSUVxY25NV3Z2a0g4aHB4ZHZZTTZkcDh2SXp3clFkRFptOUtVNmJtMmlRaXRVTjdwcWdkR3JfamZieVNRYmp3VTUtSWhxZTY3YURpSmstd21wcmN0Y0hYTlFLbXVjdnZKckNoWnVfTUNlV1ZRSVc5WW9JcjRxV2xFS0NkSnRrV2tBekU3c28tLThaNVoyYlZDUDVTOERVRnA4NzgyMG1adjZKc2JIM2RrYzUwRV9uSnp1aWk0?oc=5",
+     "fecha": "15/11 08:25"
+    },
+    {
+     "titulo": "Tipo de cambio dólar hoy 15 de noviembre; peso gana 0.28% en la semana",
+     "fuente": "El Mañana de Nuevo Laredo",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWlCeU44dmhSdG5OZlcwRVFWcGQtUC0wN1JCbGp6V0NXanFma0YzdkRFOW9oZWV5Nk9ONzM3SERFTTR0WFhMSGZVQUhTb2ZHLXlIZjYtcmVjZmVFczU1Mm55ZGwtV2tMZ2ptRmZYTkhTVDJyb0JFdHUzY25lZUtWNlVjbF9CSWpZdVpBbWlBTHViRkZHcFVOdkxwcUZfQjJWYnVRNE0xenVNc19SQkJ2Y09IaXNRNi1odnpELXNLZm8?oc=5",
+     "fecha": "15/11 09:09"
+    },
+    {
+     "titulo": "Peso mexicano pierde terreno frente al dólar este lunes",
+     "fuente": "El Heraldo de México",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2sxNk0xbHhKQ0s0WTJtUzFUZzU4RFNkb1JjVFVmUklBSmpyblR4SWdhQUVWNHNzeFpuMGNUaUhvUlp3eWxOWUR1VFhSaHlHU2daaDdlOVBGMzBqMDJVVklYN1d4c0c2dDRIN1lHelBMWm8zdDlZUVk0Y3hSNTQzYkstTHh6RGpIdDU5ZzZ3VTZOWXlNODR3eHlheW1CV2pmajZoaDFSQjN5WWJ5bFZoWlhBWmNlUFBZZFRJ?oc=5",
+     "fecha": "16/11 05:02"
+    },
+    {
+     "titulo": "Precio del dólar hoy lunes 16 de noviembre: así comienza la semana para el peso mexicano",
+     "fuente": "Publimetro México",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMDdaODhUVGVSRVNjVzY3N293UVpPTkp2THgwVHdtNTRtOERRaVhfUzhFNTVpVE8xTmNMZDFyaGRhbW1xZ3B2cHUtSjh1UG1yUXN2RDBaOWNsd0ozb0RpX1dBeC1aVy1NSDc1a0QxdTJrcXhDS0pQbi1uakRWdm1IX2tDaTlkT092ZVJSZ3MtRXlEVlJFdVZrUXBCN0xUOU5DZEZfanFXUUR5Q2doZlRzV1p5LWFRTWdGS2gwbTFtM3ZlYl9pVXFwdGNJQnpDY05SbFpBdg?oc=5",
+     "fecha": "16/11 07:37"
+    },
+    {
+     "titulo": "USD/MXN Hoy 16/11: La Tensión con el Dólar Llega a 18,62",
+     "fuente": "Daily Forex",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZFJUb29DdkhCZTVCTXJRaHFiOFN4dldiQVJHb21IMm51RXpmazI2VnQ0ZEdzbUxWam5Sb0dMekJxUDBXYUFKUWJqUUpyUnRXMG1MdXVZdU1teTgyLXRCTm1UQzBvOExRSV90bzg0TF82SEY1Wk1laVpsRHo1V1BWQllsdTRwandnZ2QxWmpUdVNmRjdCbERYcWJJR09JcU4tUW1NZDFhZGQ?oc=5",
+     "fecha": "16/11 07:47"
+    },
+    {
+     "titulo": "Precio dólar: Peso inicia la semana con ligera apreciación este lunes 16 de noviembre",
+     "fuente": "Heraldo Binario",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUnY3WHB6Nlo4QjZrUzFRVGF2NUNyS2hOS0ltZjdwNHJGQ2ZodzJxYW1rcDB1UUJ6cmI3eUZqN2x4V2ZuU054UzVoNHNteFZNUFVNUEVqVmRBZ2VhT2h3RnV4NldqYlZPejJUOHRGdFFDbmtTVHNkVDRHM1pGSTkyLWozQ2ZtOEtoUFpsLXpqTmhjMGtoUXl3cXRVQTZZeW91dWNaZE5Rd0ZRdVFKQjJzUGdFcVdWaXM4OHFpUWxFWGRwZUlhb2N0cWk0Z0drRHVlWkdkaW1mSld3YTRRS1kzZDBPVVVndw?oc=5",
+     "fecha": "16/11 08:15"
+    },
+    {
+     "titulo": "USD/MXN: El Peso mexicano abre la semana cayendo a mínimos de dos días frente al Dólar",
+     "fuente": "FXStreet",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHhzZ1dObkVoY28zSExtZ3FfYTRCLWRNeFZia3R2ejFUekxtZkRhbVNCNHVBMWtfZU9wTXVSX0hBUGVBdV90TlJNU3FjMWlwcE9GcGFqLUplYUYtNTFQems5Q1lzT2RFY3FFU3Z0aFd2eWZ4U2VJUTlHQUxYb3o5bnRRZUlZNWVZaUJzZENvd0d6SThnZVBJN2VuTUttRUQxdWZLdjhnTDR1akxuczVWM1hiRUYya2g0Y0FkYncwNzJIejNSelE?oc=5",
+     "fecha": "16/11 09:12"
+    }
+   ]
+  },
+  {
+   "titulo": "Conferencia de presidenta Sheinbaum",
+   "tema": "mundo",
+   "tema_nombre": "Economía mundial",
+   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
+   "puntos": 9.58,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Dinero, Negocios y Finanzas",
+    "Por Esto!",
+    "Prensa Latina",
+    "Tenemos Noticias"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "Presidenta Sheinbaum asegura en APEC 2026 que México garantiza condiciones para invertir",
+     "fuente": "Por Esto!",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVlveVRUOEctT0ZxcUhUaGtTV3FnWG1iVk5kTWVuVXBoSGdXaElsVGdEWTNERnRBSVllV21XX25tZVFpaFowY0dId1VMUGh1VjlaOGhHZ0FhemxpTmFWcXRvbV9rMGo1VXZVOWVXMnJ6dFhXdUQ2M3Q2dnZ2c05lc1lMZlVPYUNNTWVhYlVkYXVyZU5ZNXZLampVRVE1dHVrNGNNdWFfTnZ3SXk1NWhhMW9lck9KWTRMLWfSAb8BQVVfeXFMTVJHX0hPZE0xUElPTkdfUHlCMXJ0X1ZGZ1d0X25NeDRFT0JWdWxyMlZpdm1DQV9XZ3RsdmRuWmlISmpUX1oxckYxaUs3SXFtVzNZZ2h5VzVxaHhxY1JfbGpXZEZBTEpyemNWbEpSR3lBWWpUWmJmYzZES2xyUzlpTGVXcGNwc21JcGd6SlY4NFZvUnFUR19xMG9VWXRuYVJDN2ZrZVBESDNpci02cGMxTE81S2V4TmVla09UMTFTeUU?oc=5",
+     "fecha": "16/11 22:40"
+    },
+    {
+     "titulo": "Presidenta Sheinbaum presenta Plan México en Cumbre en China",
+     "fuente": "Prensa Latina",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNktaZzJiWXF4OTdFbDRnZVRjcUtNdm5FWFFhSTBFa1pTNUI5enc3OEo1cFhnN05vaV92emdXS0hKSTh2amxsZndETVZIQm92ck5WdThaZXdWdEFicUwxWFlzbUVWaVdQTVpFRVFtaGhrOTJDWEF3NGNsMlFDeGppU2ZhaDFwZDhrZXVpempoQktkY0VweUNadGNPTWRrajJraHRv?oc=5",
+     "fecha": "17/11 00:09"
+    },
+    {
+     "titulo": "Discurso de la presidenta Claudia Sheinbaum en APEC CEO Summit. Shenzhen, China",
+     "fuente": "Tenemos Noticias",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRGxBUUhQa3BBZkh2T2VRV0dQUFRvekF0eEZOZi0zMDNWemNPUVdEUkpBeENYWmpmQ2pYOGNQWHk3SGVmSllLNUtRaGNNQTkyb1lHVXVTLXBMQlB1Y1dhdEJMTXM5c3BXWG5USmZGS214VGFLcmZYRmVOdEZFVTdzcVdFNmY2U3dyQlVMQkd1LWJ1Y0hPTndQREFQNTNUZWg3M1ByRkFiWFladlp1M3ItUHRsSm5UTTg4TW9Ec0pvNVlsZG9pcEVzc3NzcFRzN0g2VTlSWWtMb3BraFlDcHl3b3N0dGhKN0REU0ZhZTRfM0Y?oc=5",
+     "fecha": "17/11 00:40"
+    },
+    {
+     "titulo": "Conferencia de presidenta Sheinbaum",
+     "fuente": "Dinero, Negocios y Finanzas",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tbmdYS0xlMm5xMHlBZXJtRU5YYmxLZjhYSmUwUDhNUzZYWFhyOG1hSGRSYzVpQjh1OEcwNDhUMU1abDV1cEQzcjRaZ2F0LTNjTE5NTUVtU1BoNjYzZ0VKUnZPMHhwVC1LZDQ1eE85OEw?oc=5",
+     "fecha": "17/11 07:44"
+    }
+   ]
+  },
+  {
+   "titulo": "SLP proyecta aumento de 4% en presupuesto para 2027",
+   "tema": "finanzas_publicas",
+   "tema_nombre": "Gobierno, impuestos y deuda",
+   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
+   "puntos": 9.57,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-15",
+   "fuentes": [
+    "ContraRéplica",
+    "Crónica de Xalapa",
+    "El Periódico de Tlaxcala",
+    "El Sol de México",
+    "Periódico Síntesis",
+    "Revista Punto de Vista"
    ],
    "formatos": [
     "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Educación concentraría mayor gasto en el presupuesto 2027 de Tlaxcala",
+     "fuente": "Periódico Síntesis",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZkU1ZElHUWlvUnJhUGdQZW42R3lyWWM4LTlEdFl0Z3VHZkNReFVDdEVnWTRSd0hmUDgwRGVQeVlnbFRWQjZkN1ZkVG5IRFd2M00zaFZfRE52OUtCM3VIMmh5WHU2WnJaLVhrTjc2YkVlYkdseVU3NkhnSGdJaVE?oc=5",
+     "fecha": "15/11 09:35"
+    },
+    {
+     "titulo": "Ocho de cada 10 pesos del presupuesto 2027 ya tienen un destino asignado",
+     "fuente": "ContraRéplica",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXd5cVVvc0djVml6YlY0M2poRmRURVBBR3NRRkhraHplTVU1OWVKMnR5TDllZDV4MGN3YXNnQ3Vxbm0tbmlabzFMcFZXMDVWUmRIMklmWmJud2d1d3E4R2RqZmtxdVFIY3R0Q3AwYXdIandmSDA4Q0RNVHdvaWhaX3otbU9zb1FYTktzcGVTY0g4bEF6QVg4b21HanBqNElXc3dBOW5YTWRheGp0X0VCZV8tWVk3VjNmbUpOd3NaUQ?oc=5",
+     "fecha": "15/11 10:16"
+    },
+    {
+     "titulo": "Presupuesto de Egresos 2027 no cumple con expectativas del sector empresarial",
+     "fuente": "El Periódico de Tlaxcala",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXBkc1FRWEJfbkF4MFBrc1gxbzF2U0Q4dWx6Y2wzV0ZiNVRPUTY0cUMzUGZhTnpuSnNPQUZPX2Rqd1FXdVZIdDUzRVg4bjN3djRqZWNFMWgzWmJ6MnVWUWxpRU1DREhRREpLX09zal8zNkZiLURQNHA4dFNRRGFnVmhrRV85SWp3SXdGT2UxMVYxdWpPOWZjSTE1Y25DX2p2ZmhiLWJyY2NNb3RtbmFpZi1B?oc=5",
+     "fecha": "15/11 12:12"
+    },
+    {
+     "titulo": "Presupuesto de Egresos de la Federación (PEF) 2027: Claves de cómo quedó el paquete económico",
+     "fuente": "Crónica de Xalapa",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNam82SXQzRldyZXNTX3ZrNUw2QWdhbGF4LTVpdEZBN3JUNzR0M0p0U2NIcjdENTVYbmEzVmpKc004eTB6TkUxbEV6X3otcjVvOHZEYlRUd2RWeGhoZ09mWkY2em9YWGlKaVlDNW5zdUxpdHhWVW9jY1Rmakt0SjFkSTJnendzY3Yyek5hNGJGT1VlZUt3Z3ZoUS1FM254MGxOLVhJcXB0VEhHNmQ5SWstTlpoX3RYQmlBMWpSckE1QQ?oc=5",
+     "fecha": "15/11 19:35"
+    },
+    {
+     "titulo": "Presupuesto de Egresos de la Federación 2027",
+     "fuente": "El Sol de México",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMlZpYzVKakFPYld1Ym41OTJkd1lWaGUtc1F1cGNCcjJjUXFYRkVhUm1xc3FDdkxjWlJETmFGZGNPWGFWNEJUSHlYWkxSY2tfakRQaVZfbDg0OWQteUk5aVJ2ZzdvUm1rdVY0bWttNXN3R3hwQmVtQ21LaUl4Wk5rMUR6Q0l4SVhadEV2dkg3N01JbW11d1NTc2laRHJCWmJSUF93NTJYaEV3NWhiZWc?oc=5",
+     "fecha": "16/11 07:56"
+    },
+    {
+     "titulo": "SLP proyecta aumento de 4% en presupuesto para 2027",
+     "fuente": "Revista Punto de Vista",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQmpuYUxOTVFTT1kzblk1RV9DQWg5SFJkOXFtajh2Y0t5NzRXb3lxLTFTSURRdlBMZ1MtRHNPT0JaaUZUcTd6bEI3ZlJfYUZSWk1SR2Q5WEZQQ200MWJlMEowa1p4T3N5aHZvYmo1cWl0Y2FjUU52SEZNcFYyT3pGVnh3ZGhRUTVIb2tycEJXcmVDVHFPbkFlZ2lFMVVEX1MwaFhiNVVhVDNSNWJtU2c?oc=5",
+     "fecha": "17/11 07:57"
+    }
+   ]
+  },
+  {
+   "titulo": "El sueldo de los funcionarios subirá un 5% en el 2027",
+   "tema": "crecimiento",
+   "tema_nombre": "Economía y empleo",
+   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
+   "puntos": 9.53,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "EL PAÍS",
+    "El Debate",
+    "El Independiente",
+    "Europa Press",
+    "La Vanguardia",
+    "PressDigital"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Sánchez anuncia que el Gobierno aprobará este martes la subida salarial del 4,5% para funcionarios en 2027",
+     "fuente": "Europa Press",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVmNQdWdPcWtFMjY3ZEdKOGtYNFNSZjVJWWNtMlhPWUNUcHF1YTNPcnZDUUNqam5ONUkwaWh1bGh5YW5kdGNiQ3JuNHJrM3p2RVJuZkpBLVJwbjI5S29iRHRsZE1XT2xheFhyWEMweDJIdEI1UHliOW5MdHpzU1BjT2M0aTBrT3BMZUZFY1kwNjRxSHVYRTZISFFoRzJBUHczRzRqVW1LNVlEVkNQbTFiVTAyRWRTZ3A1bTlBZmVIM0F0ZnRsZU1SLXF5OXZRdGFfbkdjLU96MURyWWdhdDRsb25BR3BTYmRtRW9Lb1FXMWhwdTBL?oc=5",
+     "fecha": "16/11 14:29"
+    },
+    {
+     "titulo": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+     "fuente": "EL PAÍS",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTjFndkNpb0lqX3RZZ0s5SGszbFVzWEJIRUI0dTQyU1MzcENuQ1ZKZzNPZ1ZELVoyaWdTeDAxYTByTDJNLUlFTlBwTk9HcUZ1c0xFUl9ibllzUDZqa2dmbFhsWXZhZjhpa0tUYU1fcFFObFRibFdjbndSYTZQR2VOSjM3Vlc2RkwxQXNJOEpoc1d3MDhsd2RwMUh6cFFSZFQ5RWlYNFlkcEh5N043R3FaMDB3Z2xtbjFIamtHY014WTJITnJ6cEhXMFdwVmQ3cFVTVjJfOG1n0gHqAUFVX3lxTE9kb1F1MEs0ckpXYXF3N1pCOGlFMTBocU9xOEdVN0hENmtDWWQ2VDh2SnhONTRRMVRLd3pDVHRXcUdMeU9KS2ZRNm5KZWoybmlLSGY3eHhCNGpydFRzYy1pYjEyVUsxTl9vUzhTZ3RFN3N4MlE1ajl2Slo1Z1dySzVKOXlZRDg1WFRrM2RfRnFueFlFYlFpRzVlM2Z6VjV1enBydTZIYTYyN0pwNkRxekFUc0tXMHpNYTgzbm0tN2NDZmUwNzA3LXA1cWNTNmxDOG5SY2RJWi1FQ2NEbGgxVTVEbzI1YmZYTGpFUQ?oc=5",
+     "fecha": "16/11 14:42"
+    },
+    {
+     "titulo": "Sánchez anuncia una subida del 4,5 % del sueldo de los funcionarios para 2027",
+     "fuente": "El Debate",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3V3WjZYTGJZbnRoZ2xIa0QzelVpdEh2UEhJZV93NFZrYVlnaTJoR2VUMmZsRzRaSVo5bXNxQkNVRUk1dkxRVmc4YlV4b1Rfb2ZHZWVRSWU5dFpDSEtQRS1GT19INlZSY2dwYzdhVmV3NnZZa0ZlWFlKaG8yOFoya2dHNWhfcmdZRlBXa0N0OUcxVHRRa3RWckpseHl6RnY0aFNHX1dValTSAa4BQVVfeXFMTy1aRnY1X0MxNU9iRldBT24tUFBHZ3diUWdSVGN3SW90bGhoS3Z1bF9LTU56WVRPTTQzemprZHhEeThNaDdnRm9Tall4MVV3R2ptaHRfOTFHaWl5emhSQzNoTnNJbS1qMEYzNmN6MnZxU0haZGdmSWRDYVBGdENZMVZEYWdxZnhvQzFmTVFtZ1I2V2lMYm52SHhQQXEtTkpfSUthWEJKMjcwSkJaaE1B?oc=5",
+     "fecha": "16/11 16:28"
+    },
+    {
+     "titulo": "El Gobierno aprueba este martes la subida salarial del 4,5% para 2027 para los funcionarios",
+     "fuente": "PressDigital",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLWdTVU4tendNYm45NVlGNHpFa2JfN05UMXJpQUx3cnhSY1dKdE9ZTVp3d2xzYmVuZ3JLSlNmR1MxN0R3SkhjNk1RMUptOVYxdERoOUw3N0htSEY3UkhTc0FYYkJRb3Qwczg4WERwWXVfclN1S1NiRDlzMzluWXl1NTItYmJsbmhhalFvNFJSdkpBVmdqd2NzMWNRSThrY05maHRvdWQ2c0Q0ZnplT3RpajNkWUp1Z2trYS1zNF9BQUk5QTg?oc=5",
+     "fecha": "17/11 01:33"
+    },
+    {
+     "titulo": "El Gobierno aprueba en plena campaña la subida de sueldo de los funcionarios para 2027 pactada en 2025",
+     "fuente": "El Debate",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmNBVjBNN1VSbzIzbnRRVS0zVzZEN0swbVJOVEZpX1ZabmhKMDY2VWRyMU1qQ0ZsMU1iZUVDZ0E1UXh0RkZwdEIxcmFERHUyTVM0MjFyWWRTSjlBVkhBYlpwUFB0UTBCVkZPTWNnMTFNNTV0RWdkQmJOLVZuc19MWVB2QjQ2Zl9QdWtVbmM5NEN6QWhSMEhrelZFY3EzMTg2ZnQ0N3Rjc05IbTJVaDBZTUpKSTPSAboBQVVfeXFMTUVXazcwenpXNDJLUTBlaElIOVlOMnNsZnh2SXBwRkQyeGFXdUhHSVBoUzZrRGE3ZFlMYmEwdl85b2JRbWFHYmtINVZVa3RZM0d4aC1mQWFNX2NLQkxMNno3aVhDeE5iZFRDTlNLelplZmhzakJxbU52b2pLb2tOMWJVYVJtODIzbDloVGw4WHl1NkF2cmJ4Z1M3Nmg4RzA4aU1rdG9IVXNHdllCSUxlYm9jU0lxc1lGM3lR?oc=5",
+     "fecha": "17/11 02:34"
+    },
+    {
+     "titulo": "¿A cuánto sube el sueldo de los funcionarios en 2027? El Gobierno aprueba hoy el nuevo incremento salarial",
+     "fuente": "El Independiente",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF9JZXpvOHRUY3hsTXhWSEh4bEI0WGk5eHhpTDhadjAyenNtX3BtOTlod0RIaVY3bi04ZksyUGlZUWRvY1pSMHhDMDZQN0FpeWJWSFJYRE9sejBXNURNVzVnclIxdXBqeURZNDRRak0wNlNzUG1ZeXNlVE8zQklsbG1hVHVaNm5sV0g1N0dlUHRpblFQVUdsdGNibDFoTzRyWVFZbFNUNnFuTjBUY0ZpZUlvM09hNlJUUnBweHF3ODhwUkZiQVHSAcsBQVVfeXFMTWRGeGxZOVZpX0NXc3R4aDlSdnV1a0RjYnNMVTdfTnQyVS1vd245cjNZWERiS3A4b1podTRRMFRrUFRaekZ0TG1YZjZTQXJCbVAyZnkyclNlYkpORjVHbEVySmVnbXYtM3FVMzA4cDJwSjhPLWVNVmZucTlmWWhzcnRkUW9RLXllWUpBcnhVVENMWE9yMXhWNnlQU1gtcThibXpUcnM3NWpzQnRBcmlzcDFTbUxLOW1kUXZ5cThWc0ZXR0VhMXhxRlRpa3M?oc=5",
+     "fecha": "17/11 05:56"
+    },
+    {
+     "titulo": "El sueldo de los funcionarios subirá un 5% en el 2027",
+     "fuente": "La Vanguardia",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGdoYTFwVWVfd1JxSW8xbXNZTDhzcUNnd0o1dms3RDFCR1J0a1I5QVBmV1FHYmtNYnhWWnZKVnhtdWJxOF9wNldLN2FuaVBWRWwtSHJpUGQ4Qy1ZXzViaXhDYU02b1VhUnhGdkx0LTQwZlM3OTZkN3ZBV011RW1EWThWTExFcmw4Y3JObGt5RmFBODd6V3otQ0pB0gGfAUFVX3lxTE1uclF0dU16cWtwdVpnWWtlcU9hc1pTb1ZWTWwwRmEwQVRGOGNDV00wbFZOZjlGU2p5TVp4MndjVzJBUk40ZllYWThwaklGUFZ4MGpBVk5POEx3cXprNUhjT1dkQXpqRWhtVkdkYkctZDh3SXFOWHRWUWFNTGdoRUtHZmNKOTYxQllLbnlHcEpkaDN3Z05EN0lOQzVlNEhBcw?oc=5",
+     "fecha": "17/11 07:35"
+    }
+   ]
+  },
+  {
+   "titulo": "Moody’s advierte riesgos para México por revisión del T-MEC y presiones comerciales rumbo a 2027",
+   "tema": "comercio",
+   "tema_nombre": "T-MEC y aranceles",
+   "angulo": "¿Qué productos y empleos se juegan aquí?",
+   "puntos": 9.44,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "CMX Noticias",
+    "MVS Noticias",
+    "XEVA",
+    "el pionero"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Moody’s advierte riesgos comerciales y financieros para México ante revisión del T-MEC en 2027",
+     "fuente": "XEVA",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDNwNlNpR3E5akZOeS0xYjh4MXFxVnFuOTJnbmlsS25IdG96SnFkMVNjS256anlEb3VPaWx3RWg0TXpoQk1wZ2c2cUhhT0U4S0pBX2pTUVlOaHJ5eTdIU2c4bFVzWjM3ZGtiT3Z3dnI5QXRDRG5WTUc5VEI2M0RmRmY3N1BrbGhoZUNDTm0zTGo0a3hWMVNUcnlLaFJ2blBZcGJhXzZEY2xKbk9JZldsY2c5M2R5MjcwWHQ1c1dPdGYxQ3JZYmRJ?oc=5",
+     "fecha": "16/11 20:04"
+    },
+    {
+     "titulo": "Según Moody’s; México, Estados Unidos y Canadá enfrentan riesgos comerciales y financieros rumbo a la revisión del T-MEC",
+     "fuente": "CMX Noticias",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVZ5YWpmS0ZVYmlFelhOQndJOHJhN2NDZlVwQzJmSzQ5Q3FJaVc1UHFPZTBDMHlrOHJ1YzcwQWZxb21ndlEyNWVLS0d2eXY4TEx1ZmxKdUdnZ2F1eHFRalNWOWRSVEFtQTRyVVJvXzQ4LVBWMFpvejdyUVF1NmZ5QVg2RGZNRWpGR2RZSnFtV0VyNnl3U3BIdHdDVmR3R0lHMkpFYVZzVFREUGxlWGc2MTFvbGNGS0FteTZ3dFNFNk44RGtsYW5Yd2g0djhwMENLWW1tTTRHdkQ?oc=5",
+     "fecha": "16/11 20:13"
+    },
+    {
+     "titulo": "Advierte Moody’s riesgos políticos para México, EU y Canadá por T-MEC",
+     "fuente": "MVS Noticias",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTFBsNGVXNWg4dm1hb0d0bFlCbTJ4QV9yYUJjS3ItTUFpMVhnTVpIR2RZcnZsNDB6ZVJuZ2ViTm9WVEZadl9vNmx5TXAzMXpOcnlZTE9UeElDNnVGZzkzOHJmUVFHakdSN0FQUXlLY01DU1A2bEVoTTZDVlpPeG84VU44WXVabURrVUU1anJ1YXhKMXNNY0F5OWZjbWJaMDJXSnBlQlh6X2hiekpuREt1NFc0dEs4UHdPLWp1ajJ2SFo?oc=5",
+     "fecha": "16/11 21:54"
+    },
+    {
+     "titulo": "Moody’s advierte riesgos para México por revisión del T-MEC y presiones comerciales rumbo a 2027",
+     "fuente": "el pionero",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSk1sSjdVZlRfTUdZc0JTelVjbmYyMjliaS1BQzdaaE1wU2lNUExQWER1dlAtQ1EtSnhWdnNPNXJUcFNNMVFEUVpRdGhPLS1DUWE2c3l2RHAxcEk0M2xxU05welVKQ3JZeVgzZXROaDVvNFRnZVozQnpRS3JlYldiRFMya1NuNWZhdllMNWs2ZXROUm9ySkJWR3JIMHFwVjZMUGVHNVhZZmZKdWJxaDNpaDJiMGctQ2RRbVp2MUJSMFdWQQ?oc=5",
+     "fecha": "17/11 06:42"
+    }
+   ]
+  },
+  {
+   "titulo": "Binance Hack Could Push Institutions Toward Outside Crypto Custody In 2027",
+   "tema": "cripto",
+   "tema_nombre": "Cripto",
+   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
+   "puntos": 9.41,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Cryptonews.net",
+    "Traders Union",
+    "TronWeekly"
+   ],
+   "formatos": [
     "Short",
     "TikTok"
    ],
    "notas": [
     {
-     "titulo": "Binance to Fully Reopen Withdrawals Soon Following the $6.3 Billion Crypto Hack",
-     "fuente": "TechJuice",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR085c1FGRWZ6RUI5bHgwUU5GWG42QzdaeGFkNkRZWmpkbmJOMkg2aHMzUjFzQldWcVpybGN1VHVMdVhtLUhVRFpFVU5rVmliTnVvQjhDT1NYRHAxQ1Z1N0ZsdWEtMm9xUzN2aEpMUGNSMmUxNy15QjNxWHMwR2daZG5uYlZoOC1YLTFlT0phcnFIS0p1eUVfTUc2QW5RcDJfN0g4QWl4OA?oc=5",
-     "fecha": "14/11 11:02"
+     "titulo": "FalconX says Binance hack may shift institutional crypto custody off exchanges",
+     "fuente": "Traders Union",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSG9yY2NyMHMxWWNvUE1Md2VMSGhxTnVZREd6Q0JNRTRvRWVKUUFLREZWZFJZOC02VmFrQ01IRXVUVXhENHEyN1BMcGlpRVNkbVlwSWFaTXlxc3pzV1Q2RFNGZEFMN2dVMnVLRWFWYVdHWm5fS2RTUEZIdEdFeVozSW5qU0ROZG5EREpjTk5aaUQybGQwVGFTOTlsV0wwYXpFUlRybG9TSGY?oc=5",
+     "fecha": "16/11 16:31"
     },
     {
-     "titulo": "Binance is gradually restoring operations after the $6.3 billion hack.",
-     "fuente": "Vietnam.vn",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQX3JUQ2poNDNSVnhKY1k2NlJuTF8wM0pQa2JfUmNQbW54Q0tmTl9HNzFTM2I2M3d6NmVtU0RadnZndVc4YWZZTVdUUDJvZjdJR1lWNjl4N0c0QTNTdVc4QjFrT3AzLUFCOWdOZTRoNW9NS0dEOEFWSC1IUkJRckhPNjdLMG9TNFVKMjN6dkh0M2RBNHVM?oc=5",
-     "fecha": "14/11 23:23"
+     "titulo": "Binance hack may push institutions to outside custody, FalconX exec says",
+     "fuente": "Cryptonews.net",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oRFBxMGhFZGthd2FhRzJDdHpJeGxSSG5KLW43YkIwdkU5RjNvRVlnQU9uOEsyN052Z0VCTnJoTk9wVkxubVFIb3dVSmNIcXVaMW56NVBCVQ?oc=5",
+     "fecha": "16/11 22:07"
     },
     {
-     "titulo": "Binance targets full reopening of withdrawals by next week following largest-ever crypto hack",
-     "fuente": "The Business Times",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU3NvXzV2RWhMZGRXQlJ1MXNsSnNqcnY4SEszLTZ4MDBjNTF6WkdOOTE0bERrUl9qTTNkYjV1ckpBb2wtcE9UbDg0ZUVLOUdhU0VDVE83bGZBRGVQZUZyUDlQMTRMT1U4dnV3VTRsS3ZxQl9GOVI2TDIydmdmcWt4RGVpRlp1eWZ3UmJMUzg5UHlEbkxkZXZRLWV6MlVfQXR2OUNXNkpLTks5VXE1Z3E3RzM2VnVSUDBjMnZWRHpLWVVOdmFaMEs0TUZ2enFlVUdsMVZqaWhZRmp6SUpIaGxoWXI4UjBhaEEy?oc=5",
-     "fecha": "15/11 01:21"
-    },
-    {
-     "titulo": "Binance Targets Full Withdrawal Reopening Next Week",
-     "fuente": "The Defiant",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMEdNZUNldUQ3QV9JdWI4OXA2b281U1V5TTJGdHRyS3ZMOEliUGRnWnJ5QUhNaFJyMUtiU3VMS2pJWEVxRC1taHJZWmFCNFJ1WUZmSnBKd2VNb2JxTXJudXVQdzM1dU12eGlOajdNWkQyVEg0TTd5VG9vQU1veDlXeDZya2RRUWNHT1pRVw?oc=5",
-     "fecha": "15/11 10:47"
-    },
-    {
-     "titulo": "Binance Aims to Reopen Withdrawals After $6.3 Billion Hack",
-     "fuente": "PYMNTS.com",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWE9hXzlxeldMc1ZxekZ2T0ZiTDV0YUJQLXo4Nm9lRno1b0NBblZRWFJFRUdyZ1R5OTFuSy1pbF9UR2dQa01pQTJpNXBlX2otYXQ4el9iYjd3WFdEaWRvdUtGd2xRS2pPb3I0V1VQQUR2NHJPb1ZhU0hzMldQREhPbmp5NzY2RTJUdUk1dW1sX3lXaFJnR1ZFdnZ5cjJscHo3MEhz?oc=5",
-     "fecha": "15/11 18:47"
-    },
-    {
-     "titulo": "The $6.3 billion heist inside the Binance hack",
-     "fuente": "News18",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT2w2T1huR0dDYTZQNkZRdW1MY2NWMm9RZ2ZPalRxa1hOb0ZjVDFreVNWdm1NQnV4MWFxRUpZSEJuVnNpRFhRbUp5eWRWeU5lSFFKMXFGM21INENSZTNrQXpFR1BaRTJjVV9seDFlMF81ZjN4NktfQzZlLVQ2NDd3TFc5MGhsZUk?oc=5",
-     "fecha": "15/11 21:57"
-    },
-    {
-     "titulo": "Binance Targets Full Withdrawal Restoration by Week’s End After $6.3 Billion Hack",
-     "fuente": "Hokanews",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYVhwU2V4OWw5aWJYdnJrVlJrRGF2ZV9qZC1SY3EtSHdHUmYyejV3eVlFSzNUM2tpZ2NqM3BuV1lPdzZiTTRkamNhdDdzckhucDJYSVBFYk9CakRCaTc0UTBOYmxfdG12YWNiVnAtMm9tTkpMZXQtdi1takZyTTR6eG1hbHFxTUk?oc=5",
-     "fecha": "16/11 02:06"
+     "titulo": "Binance Hack Could Push Institutions Toward Outside Crypto Custody In 2027",
+     "fuente": "TronWeekly",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lSEhwajBQbjRKTDRlbzlSRHBGM1RsMnEzSk1RNll6WHl0bkNaTmxnbUZpOHlNQkRBUV84bG4waml6cnl1QW5DNjEtUTdVbDdBT0VHeC1oYlRZdHdoR0JXUXpCQjNqTUkwajhIem0zTnZORG9aemRZWE9WSQ?oc=5",
+     "fecha": "17/11 04:00"
     }
    ]
   },
   {
-   "titulo": "Bitcoin enfrenta nuevas apuestas bajistas y los US$60.000 se consolidan como nivel clave de soporte",
+   "titulo": "Precio de la gasolina hoy 17 de noviembre: ¿subió o bajó la Magna, Premium y el diésel en México?",
+   "tema": "peso",
+   "tema_nombre": "Peso y dólar",
+   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
+   "puntos": 9.37,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-10",
+   "fuentes": [
+    "ABC Noticias",
+    "Ambito",
+    "Consulta Monterrey",
+    "Debate",
+    "Imagen de Veracruz",
+    "Infobae",
+    "Linea Directa",
+    "Mi bolsillo",
+    "TV Azteca",
+    "TV Azteca Jalisco",
+    "TV Azteca Puebla",
+    "TV Azteca Sinaloa",
+    "Telediario"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Precio del dólar HOY 15 de noviembre: ¿subió o bajó frente al peso mexicano?",
+     "fuente": "TV Azteca Jalisco",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG42U0dtYzVENllQSksxcFJqWE5wdjdLLVFMZ3VGenRLZlNGaTZzTWdnQ2FtMWw5QWZTUWhZWEVOZFBwZEJHeXNSaTU1dDR6LUtBam0tWGthemdMQmlUMHdtSFR4S19EQXZDTTJZU1lLd3M1QVVsZ1JOQXhseF9EZDB4TXF5QXEtcFVxNnpJNGhVdnR5c3NFUkNXTGdxd25HcTE1T1dIU3Q4clBfQV91QndDSGpCYjlPMVdlbw?oc=5",
+     "fecha": "15/11 08:23"
+    },
+    {
+     "titulo": "¿Le favoreció El Buen Fin al peso? Precio del dólar HOY domingo 15 de noviembre en México",
+     "fuente": "ABC Noticias",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPX3NkbFd5akFScGZXMG5YSmEzS0pQaGJaRWYxaEt4MWZnN043S01yUFlROWh2Z1hpaEFOUHVfTU9SQWt0b3pnTWdNYkRSYTR4UTNZbnJRWHZjN1l5ekQzR3FpSUNrMkVWSHo0TWwtOXBaRUliVXluR3VhOHlOWG16enJHemlPa2pNdEllNmF6STZfU1VsbGtMcUxZeXpxa1NFdDRBbnc4ODNaZUNyaUM2V2s4M2xhdzJsU2E0Q3hDd1g2LWRUZS1tbGNqd2gxZ1R3c2dXVng0dnIwdw?oc=5",
+     "fecha": "15/11 08:31"
+    },
+    {
+     "titulo": "Precio del dólar hoy en Sinaloa: Peso mexicano gana terreno este domingo 15 de noviembre",
+     "fuente": "TV Azteca Sinaloa",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObWJHMHFHN0FDd3A2U0s1MUYyV1JQaENzaXJ3a3VPQWNzcTJVWjNKMWVid05nUXR3RU8yb1hwSjgzajNiUmdTd19hdXBtWUdoeDdocFZUSTYxaTZUVHNDeFdWQUYtcGt1YWEzdUd6LTFhd3lEZXhLbjFtSUs4eFJHa21EVU0wVWZOR192bUtCaFJUR0YtU1owZFJsdmN3UGtWRlpPTlVQRWdIUGwyWkZhZl8wYXgtNVBTUkZwZDZlZFlkN2xYQ3c?oc=5",
+     "fecha": "15/11 09:19"
+    },
+    {
+     "titulo": "¿Cuál es el precio de la gasolina en Puebla y Ciudad de México hoy 16 de noviembre de 2026?",
+     "fuente": "TV Azteca Puebla",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2RjLXVRMXJ4eF9penppZl95T1BNZWZXc0RDQmQyZmVSU1BtOC1rUWhsMmdPTkdwUFpXdkdhUmhpYUdENnozbkJsMEZ4ajVrV2tqYll6MmJRdnY0WEFRdHVCUXk5bzdvdXRPUUhGR01laTkzNGVNVnMwRU1NVlBpa2ZwcmlKYm03OU9qSEIzNlhfM2ViLUhoeW05Sy1hTndNRG01U1J2dXZMNWV2YkJQTElZbWZVbl9jT0xuOHJOZllXNVU3bUVJ?oc=5",
+     "fecha": "16/11 03:00"
+    },
+    {
+     "titulo": "Precio de gasolina hoy 16 de noviembre 2026: ¿A cuánto está el litro de Premium, Regular y Diésel?",
+     "fuente": "TV Azteca",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUFgwMVpqUVBNV1JSQjNzN3JMbkVWTU1UNVNrWWVLVjBWbUxXaWp1cmp2QlZRekRZM1Fjd2pwRXlqZlpjZFFONEJXY21RaFJqZzhua1QtVGxSSVUzVnVpM0hEM1NJTjJOZHREMzdWWGdPb0NsR0daajFRdU9HMEFfZnpUSDBHNHJiTFJSUVlPa09mcElQandpV0ltc2s2cTFBLVJCd0VEZTl2dV9jQXMzN2pYNlFOaUFoYWVYLU1XbHJQWTRLOVBoY04wdVhocG5HOTMw?oc=5",
+     "fecha": "16/11 06:56"
+    },
+    {
+     "titulo": "Cuánto cuesta el dólar HOY lunes 16 de noviembre 2026 | Tipo de cambio en México",
+     "fuente": "Telediario",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGpDNzVLTGxUUThtMTBZS0RhaTcyZmYyVDUyQ0NpU0hNTkxxVEFMX1lHbm9JbDZEZG1xbUxybjFCY2JHR2c2WXRKZkN2ZlJxZ0dJT21BWlhicWlYRmc4THhWcHVmc1g1c3lRNGFYY0ZxSDlWR1Q4ZW5HVE5ZX0VLbm01UWlDTlUyNkM5OS10Z0RNRmpZRHNZY2l30gGaAUFVX3lxTE5QZE9PdGwwQWFvRG15TldkQ0piay03cXNVTy01MFlTZ3N1cE5OZVhlSWhrMlkxa21fNWpOMko4S3J4YjlCRXpHbG83b1ctMG00Q0xoVFZocFVZYWE0Rm1uekFTV2VPSXotTmNWOFBnSmRXQzZHd2JiMFl1R2YxU0VjX1liX0pEYTk2TE9kcHR5X0xVb0czeG5SS2c?oc=5",
+     "fecha": "16/11 07:03"
+    },
+    {
+     "titulo": "Precio del dólar hoy 16 de noviembre: Tipo de cambio en México",
+     "fuente": "TV Azteca",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZm03RHV6dzc4aThRcTVyS0pJZmh0SE5LQlUtc3VIQzFpcnNCSVdrN25XbGkzZTJoVWRPTnl4RElvZS1zTERiNkhBRTgzQnpzLXMyVGd0dXduQUxjYWliekFBYnFHWXhTbDAtX0NVeTZrYmJaMmY2Rm5sOWlZNEtFRlp1VlhSNGlubXhLZmRpMEctOTNRVVlhaks1aVJCcHczekRQLVhIbUJneWVuS1k2R3dESThoTnRHalM2S0x3?oc=5",
+     "fecha": "16/11 07:21"
+    },
+    {
+     "titulo": "Cambia el precio de la gasolina Magna, Premium y Diésel hoy, 16 de noviembre 2026: checa todos los valores actualizados",
+     "fuente": "Ambito",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWm9kSzdBLVhzaGcxc2tjRXIwR1dLdUlzWldBU3d3MnZEN0VYYXMzNWJWNFlnMG1pZmxpV2lvWHBMZl9CWmdjZTFKWGQ4WGQ2bkszc3lITGY1VmNoN2k5SWxsWktVRmdWNTJlLWdsbG9oZkJDbnYtQldYdVJ3aHRUTUQwRDhaRVNJYmVMenlzUEVFaXA0VDE3SzAxV2gzM0JRemtwaDNJTWZZZDRHbjYwVEktT1VmeGJZVDNRT0NyOFE4WlZ1SnBHS0h6NVhNRXBlaUk1eXUyMWVtbU1RV21BVjl0LUZJODZFVElrVFlaUdIB9AFBVV95cUxNX0hUSXNGOEV6YU8tV0RBanhTOFd1Z3U4UkN5T3lxbTAzZDNnRlA2Y3VjV3FGWVVYWVhVMTlQRHVWY1BSSUFPdHVzYmlWXzIyMnF5eTF1a1pvWmxTSVBVb2ZJcVc2cGVXUUdVNHNTT0hzckQweXd0bW9FdEJmUlBWVjVpQkV2TGtGMXFaeWRreEdpeGdab1ByYm9Yb25zRE5vbU1yUUpOeDFOeXlJeEJIbXB5RUowNFhnS2NPcXhseF93cGExOC1xYk1TUTlqQ1VJeTBySGZPLXFzMm9CZlNaaVhoa2I3NkNWbVJlM1hhTUNEZTB4?oc=5",
+     "fecha": "16/11 08:04"
+    }
+   ]
+  },
+  {
+   "titulo": "Fintech de pago, en 4 de 13 incidentes cibernéticos de 2026",
+   "tema": "proteccion",
+   "tema_nombre": "Tu dinero protegido",
+   "angulo": "¿Tu dinero está protegido y qué puedes revisar hoy?",
+   "puntos": 8.95,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "CódigoQro",
+    "FintechExpert"
+   ],
+   "formatos": [
+    "Short",
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Incidentes cibernéticos en el sistema financiero nacional se triplican; van 13 en el 2026",
+     "fuente": "CódigoQro",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdF90amJpOV9OMGJpQ0RFOVFCR2RLNS1qRzFoM3BPUnlyZXFmWjN1bnBMbUoxSEJHY1VodUYyTllMbXpsam9SXzlpLVJjc3kyY3JIYXdfVjdzMVM0UUlndzBGdGtEMTk0NkFxcENadElFbmtfRVpPOWZzTVRlRVBrbmU3QTdzbDExOERQR1NocHN1MnNxVFdaR043MWV1cmExaUxyQnNyN2xINDFXQ3NENVpKMEhuNWcwYnljSy1kTnRDdWZyc1p3NXB5Vlo1QUQ3R1Z0OA?oc=5",
+     "fecha": "16/11 19:05"
+    },
+    {
+     "titulo": "Fintech de pago, en 4 de 13 incidentes cibernéticos de 2026",
+     "fuente": "FintechExpert",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLTAyMlllZHRiZHk0S0NpTk1hdlhDVnB0OXpVYUZfT08wOUw2REZEMjRRNXdsX1pyQVVseDZDZHY3Xzd4SjRpNjBfZE5vTUgwYjVpOUZYRmk1U25WWnlpdTlzM3BMdnBNaURVNk9LRHZpU3BBaEIwTWw0RkloWGVLYWl3QkU?oc=5",
+     "fecha": "17/11 06:31"
+    }
+   ]
+  },
+  {
+   "titulo": "Mercado Bitcoin habilita hoy retiros de dinero tras el millonario hackeo",
    "tema": "cripto",
    "tema_nombre": "Cripto",
    "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 9.11,
+   "puntos": 8.95,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "CriptoNoticias"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Mercado Bitcoin habilita hoy retiros de dinero tras el millonario hackeo",
+     "fuente": "CriptoNoticias",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWRWRG95U3ZTYmdZVzZHZ3hOMW5uWGktcksyZVRWMFBqWGY1aDdtTkpCWXJZeDFtSW9GSkpidFVuX0FXREpxYnJBYnhhVW8tT292UE9HVDZxckZ6N2p5Rk5QeG5SM3hMMnRDZjRHTURYczk2N3RWRVg2bU11RWZwT3F0bTgxZnQ3cldQQjA0LXRQNWxxdi1Ld0Y4OWNaOHcxNmdZS0NLUk8zYm8?oc=5",
+     "fecha": "17/11 04:02"
+    }
+   ]
+  },
+  {
+   "titulo": "Los operadores de Bitcoin apuntan a los $60.000 mientras aumenta el temor a nuevas caídas",
+   "tema": "cripto",
+   "tema_nombre": "Cripto",
+   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
+   "puntos": 8.85,
    "oficial": false,
    "estado": "Sigue",
    "desde": "2026-11-15",
    "fuentes": [
     "Bloomberg Línea",
-    "Cointribune",
+    "CryptoPotato",
     "TradingKey"
    ],
    "formatos": [
@@ -565,174 +953,118 @@
      "fecha": "16/11 07:07"
     },
     {
-     "titulo": "Bitcoin cae por debajo de 65.000 dólares y aumenta el riesgo de llegar a 60.000",
-     "fuente": "Cointribune",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMEZXbUZZWDVZRUpxeFJkMW9vU0ExRHNUTC0tTlJONnFnMlhsVTNtX3E1X3VfN0J0X2VVZXhQcnZFYUFlcjJIeFpYeG1NdHp5ZVBmVlZUQ1NyS2JTT3lES2xnaUNNTFYtSXhwWTZnT2R6bEVhVkg2X3U2YjVndk4wYnVnalVfb09yTXhWdUlmU2hJekk5X1dSaEpNb21OZzh6TXpfY0t5SU0xaDIwZEhaNg?oc=5",
-     "fecha": "15/11 01:40"
-    },
-    {
      "titulo": "El bitcoin se desploma un 13 % en una semana mientras el mercado retrocede al nivel de los 60.000 dólares",
      "fuente": "TradingKey",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZmUzS0hfdFF3dW9fZU9MekxRZzZRQWxCd0NCcHN0bTNDaW4wMlJrRi0yNmF4dVJ3cHBLOU9aeEJ4bDJsQm9iNzdacGRTVzRwMDRteXZTRnB0M1J1WWs4YjhtZFRvRC12Wm9keXRsNVh3N01BMVdMS1ZfLWNmRktEMms5NGE5VnowdktBTWpjV0dyM2tXeFlLcV9wZ0Fvd3FNcHlCYzJGbkZlT1hlWjhVdkdHWUYzbmZMYkh5OU54c2FsX2Qy?oc=5",
      "fecha": "15/11 20:00"
-    }
-   ]
-  },
-  {
-   "titulo": "Saca 4T de pobreza a 17.3 millones de mexicanos en 2026, informa el Banco Mundial",
-   "tema": "inflacion",
-   "tema_nombre": "Inflación y precios",
-   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
-   "puntos": 8.87,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "El Mañana de Nuevo Laredo"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
+    },
     {
-     "titulo": "Saca 4T de pobreza a 17.3 millones de mexicanos en 2026, informa el Banco Mundial",
-     "fuente": "El Mañana de Nuevo Laredo",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNakR3YWhZZFVtcUFuanY3TmVCSGNuU082OHduVXdLSnhrbUFDN3BhaUt6SmdQclFBRy1JcklmeE43VXdORW9Obml1UXpoSlk2NmpsVjFfeC1LYThjaGdwaXZJVE5xSkVROExhNG4wRVhrOFhmQW1iNGswRFRZOUFqZzNuby1QaDBhWU4tbFVqdXJLU3RQbFE1U0haQkpBVlZUdWtEZzJraDBLamxDZm9R?oc=5",
-     "fecha": "16/11 08:48"
+     "titulo": "Los operadores de Bitcoin apuntan a los $60.000 mientras aumenta el temor a nuevas caídas",
+     "fuente": "CryptoPotato",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWxhMS1RU0EzaVhVbjlNMU5wR19OYWRyUzZDWlJIcjJlWkV2SnNSbjYycElvbnR5YlJscXV1aFVWOFplLW1BM0pKMzZXMThHWHJZdG1vRUxQT0lWN3QyYUxiWEFMQkRsRDFLNnotVUV1WWFURU14NjZrbVVZSXJ5SFB4WVp3V2lYQ21nMUVWOE1zendtTVZiYTNPdms1OUpldWo2eExsQ1NGS2p0M3BDVUdiUjJEOUJm?oc=5",
+     "fecha": "17/11 03:45"
     }
    ]
   },
   {
-   "titulo": "Si vas a la gasolinera, antes consulta los precios promedio de la Magna, Premium y Diésel en México y Sinaloa",
-   "tema": "inflacion",
-   "tema_nombre": "Inflación y precios",
-   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
-   "puntos": 8.75,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Los Noticieristas"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Si vas a la gasolinera, antes consulta los precios promedio de la Magna, Premium y Diésel en México y Sinaloa",
-     "fuente": "Los Noticieristas",
-     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTXBqSzY1MlVpUTh1LUtEdUdPbk9qLUpuckJhcDJlWlhMV2VLOGZnMmFXbWVpZFJtUmtvNlVvc0NYYS1JdkhOTmk2dU9sREx0MmM0RTVEWkhCQkQzRkJyTURUTnZYUFFpNjRiVHhhckI4Ukw5RklxMnNzbnJreGZKN2ExVktUMWpfZEktaTEyYTZJNkU4RzEyZDVMWGZxRXpzLTFILWFnVXlnOWk3ZXRvbXA4NmUwNWNrclV3VWNudFUzYWNxNzcxOGFfSnhMT29MRklGWDR6c2xFMmZ1QXVJN0kyNGVtamZzX2pYQTNOM2pRS2Ja?oc=5",
-     "fecha": "16/11 07:47"
-    }
-   ]
-  },
-  {
-   "titulo": "APEC 2026, El Buen Fin, Banxico e INEGI marcan la agenda económica de la semana",
-   "tema": "tasas",
-   "tema_nombre": "Tasas y Banxico",
-   "angulo": "¿Qué cambia para tus Cetes, tu tarjeta y tu crédito?",
-   "puntos": 8.63,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Amexi"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "APEC 2026, El Buen Fin, Banxico e INEGI marcan la agenda económica de la semana",
-     "fuente": "Amexi",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLVNBX3pLc0NKSmtYOUZ2ODBYZ210MktmckRDRDJ4SWtvaFlrRmRvaHNhMGdBQzQzWG16NXIzUlFMVTFBREFBeVJFWHBIalhCSkhnX09HSWNMMnVNcEdNX0pZZjgwZ0hUMHlyV3p5QTBPNHNnOExVaERveXBCQUV3ZHFPM0MtbjBmTWc2SHRfMA?oc=5",
-     "fecha": "16/11 06:52"
-    }
-   ]
-  },
-  {
-   "titulo": "Strategy reduce a la mitad la compra de Bitcoin a $69,000: ¿Por qué Michael Saylor se contiene durante la caída?",
+   "titulo": "Injective rises 13% after partnership with Univ...",
    "tema": "cripto",
    "tema_nombre": "Cripto",
    "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 8.44,
+   "puntos": 8.82,
    "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-15",
+   "estado": "Nueva",
+   "desde": null,
    "fuentes": [
-    "BeInCrypto",
-    "Cripto247",
-    "Cryptonews.net",
-    "Invezz"
+    "Altcoin Buzz",
+    "GBM",
+    "Pluang"
    ],
    "formatos": [
-    "Largo",
     "Short",
     "TikTok"
    ],
    "notas": [
     {
-     "titulo": "Michael Saylor insinúa otra compra de bitcoin mientras cae el BTC",
-     "fuente": "Cryptonews.net",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EdmNiMU5Lb2J3MF9UWmRDeU1uYldtNWp5UGQ3V185SUtzRG1XTE9YZXF3QzlrbGo1Vnc2TGVfb0xSMVZVUzM2MGRmbGJyc1Y1a09keXJabWdhWFJN?oc=5",
-     "fecha": "15/11 16:23"
+     "titulo": "The News",
+     "fuente": "GBM",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVNHcHd0eFFNa0RhMXN3SHQ4ODJhdEtENHJpVFhxSVJfUGlMLUVhT0FYWmwtcWpVcG1OWUs3STJYa19JN0ZfRjM3R2hrcjZnQ20waWlwTjNidTBvTnQ4dXpUNjhpbUZFcmdrWHBfeEJkbGNneGZjYTNLNDdGWlFLdk9HdWtsYmpJc3c3SzBIR3BiRUxvZnVSNmE2a3AyVFJVamtjOWhUZWZUaFZaRWdxZA?oc=5",
+     "fecha": "16/11 10:49"
     },
     {
-     "titulo": "Precio de Bitcoin ante la prueba de $60,000: ¿viene una caída mayor?",
-     "fuente": "Invezz",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjRCemtNUzhORWhLX0lvX0o3bTI4dTNlWHhHdm9OenJhLUNkZlNxdG1DSG43Vzg1SHRSWjM3TzJ5YWFjOTRuT2FFY2kyWlEwUlFBWW1rREVTREFKeEpjUUZpMXRKQndYV0pmdHlEUGpHbURGTVRBWEdWWFREemxId3ZwUnhQMlFwSDJFVlhvVFpaZkxGSzlfYy1VYkx4T0M1bm5UY3JXZDJza21UblJVbVF3?oc=5",
-     "fecha": "16/11 00:28"
+     "titulo": "Injective Jumps 13% on University of Tokyo Partnership and SEC News",
+     "fuente": "Altcoin Buzz",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc2FMaWprSjJraU5nbDZZNk5PVE5xTFd2LWtEZGRKQWRudjVZc1pVTWNuQUg5QW9rcmJ4aFFGZW1Rc1NxeWtEVm9DWG5nVW9obExpTHpsT3d3cWQ0SklvbU0xVEVuVGNvVkpxSEVQRklqUXBKQVFtWVVnWV82WTN4bWI4ZjNNd1VNUnZmbw?oc=5",
+     "fecha": "17/11 06:24"
     },
     {
-     "titulo": "Michael Saylor identificó cuatro indicadores extremos tras la caída de Bitcoin e insinuó otra compra de Strategy",
-     "fuente": "Cripto247",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQS3BsR0VUbUlvbUxURURic0dyRVhKR1Q3OFpGbkVGY05SMkV3Q211UkFTYVNMSmRxNThQNHM5N0hPTzBzcUk1cHV6TE5hTnQ4YnlYLVZkNUZGanZRXy1NeHJNb1lpUWNEY2RMaFd5QkFtbmk3Y3BBaTRha0VtNEM5Uy1FVFdXUFVob3dOejdabl84cDRmcEtRX2ZsM3AycWF1UTBDM3VYWFp2M1FGNENaREk2aVdnX3AtekJxNEFuVmh1WGNVNVFLbGhOYWE3dVNqeC1takluR2xWTjBhUllRYUNYNFpoRWpvWWZoTXZLaUI3N2lFTGVHQXNWeGJZZ2c?oc=5",
-     "fecha": "16/11 01:17"
-    },
-    {
-     "titulo": "Strategy reduce a la mitad la compra de Bitcoin a $69,000: ¿Por qué Michael Saylor se contiene durante la caída?",
-     "fuente": "BeInCrypto",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4M3JPZ2VwM1pBRWgzZG1iQjVCVU90alZkaTRzdWZneGRZU1FScnhrWk1GUHNuc1lDNnZoVUlfLTVvR0NTM2lScXphLTF6Tk5USVdad1Y4dHo0MDBWSThFZ3ZxbjFLREJXRVllVTY1aGtTT1NDUUhKQnVR?oc=5",
-     "fecha": "16/11 08:19"
+     "titulo": "Injective rises 13% after partnership with Univ...",
+     "fuente": "Pluang",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQVp5S2NQc0VORW5RcHptdDMtWnl3MDFEME1zeWdUb21ib2hqd3Mxc0I4S0FTbmNZaTJ5SmZGcVJBVFNGSU12U04zcENTNU5DalZXWnhzVTdudTFuMUNzblZBVG1pSFVGeS13THIyWFN1Q1FsZkFCZVp5YkVxR05OeElDNnloTFFLNjI3RGx1THBjX3dQTk9LRXJNZw?oc=5",
+     "fecha": "17/11 06:47"
     }
    ]
   },
   {
-   "titulo": "Contener el precio de la gasolina costó a México más de US$ 9.200 millones",
-   "tema": "inflacion",
-   "tema_nombre": "Inflación y precios",
-   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
-   "puntos": 8.44,
+   "titulo": "Binance sufre el mayor hackeo de la historia: ¿qué hago si tengo dinero ahí?",
+   "tema": "cripto",
+   "tema_nombre": "Cripto",
+   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
+   "puntos": 8.75,
    "oficial": false,
    "estado": "Nueva",
    "desde": null,
    "fuentes": [
-    "Surtidores LATAM"
+    "Rankia"
    ],
    "formatos": [
-    "Short"
+    "TikTok"
    ],
    "notas": [
     {
-     "titulo": "Contener el precio de la gasolina costó a México más de US$ 9.200 millones",
-     "fuente": "Surtidores LATAM",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFh3Sy1PZUhvekpMaGl0V2dnMjZqUzVOOU9qUDN3YVloVElueWRQNHBhbTRsUE11YjlTYXR0YVF4SDUxVmRlb0cyZV9jRTd0emZBY3NxVi1zb0twSFJjN05zdXVoaVh0WnpWbzZ5S2NHMjBRU2JxUC1DZUQtalZCWG5qSlVmcG81SUhySQ?oc=5",
-     "fecha": "16/11 05:18"
+     "titulo": "Binance sufre el mayor hackeo de la historia: ¿qué hago si tengo dinero ahí?",
+     "fuente": "Rankia",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2dFaXRpNC1jWVdHb3JZRm1tM3JxRy1BdVVGbVhZY29XUGxOcU5uakpnZE9yZVNTN0FLMXVEU3JMb3VlRkFzRXdGd1RXSlBqWVU0TVB5MTVhdlJIamVtbW13THI3ZHVTTGx3YzNfZmlkVUF1MUlTeFdFM1RhbUlRbDhGanY0SDBFb3dZSnQyeV9WYm1xM19INjAwTFBGUF8wUGVpTFgyNVRoOUtxTXlxRVlfZw?oc=5",
+     "fecha": "17/11 02:32"
     }
    ]
   },
   {
-   "titulo": "Con reuniones con Xi Jinping y Mark Carney: Esta es la agenda de Sheinbaum en la cumbre de la APEC 2026",
-   "tema": "comercio",
-   "tema_nombre": "T-MEC y aranceles",
-   "angulo": "¿Qué productos y empleos se juegan aquí?",
-   "puntos": 8.41,
+   "titulo": "Retiros por desempleo en Afores rompen récord",
+   "tema": "proteccion",
+   "tema_nombre": "Tu dinero protegido",
+   "angulo": "¿Tu dinero está protegido y qué puedes revisar hoy?",
+   "puntos": 8.61,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "MILENIO"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Retiros por desempleo en Afores rompen récord",
+     "fuente": "MILENIO",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY295Tkludzc0ZjBmUnNmTGF4dnZualJUTjJQWVlNaVZjWkUtR3QxVUpUZFVaYTFleFQ1RFE1cmtNRDFXNFF3alRmQVZiaFZfaHBybF9EcExWSW9kLXZ0UVdvNFJHeHVqXzhzdEQ0TGhXd2hreVE0a3VtVXZGLXJmSDFIS1nSAYQBQVVfeXFMTmNveU5Jbnc3NGYwZlJzZkxheHZ2bmpSVE4yUFlZTWlWY1pFLUd0MVVKVGRVWmExZXhUNURRNXJrTUQxVzRRd2pUZkFWYmhWX2hwcmxfRHBMVklvZC12dFFXbzRSR3h1al84c3RENExoV3doa3lRNGt1bVV2Ri1yZkgxSEtZ?oc=5",
+     "fecha": "17/11 01:28"
+    }
+   ]
+  },
+  {
+   "titulo": "Claudia Sheinbaum y Xi Jinping se reúnen en Shenzhen: México y China pactan \"nueva era\" bilateral",
+   "tema": "finanzas_publicas",
+   "tema_nombre": "Gobierno, impuestos y deuda",
+   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
+   "puntos": 8.6,
    "oficial": false,
    "estado": "Nueva",
    "desde": null,
    "fuentes": [
     "El Financiero",
-    "Oscar Glenn Comunicación"
+    "Mi bolsillo"
    ],
    "formatos": [
     "Short"
@@ -745,282 +1077,157 @@
      "fecha": "16/11 01:30"
     },
     {
-     "titulo": "Con reuniones con Xi Jinping y Mark Carney: Esta es la agenda de Sheinbaum en la cumbre de la APEC 2026",
-     "fuente": "El Financiero",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGpMWjV2aEZWQzI5THJEVnhoUmRzeHRVYXRxTnk4bXo4WDdOcjVIUk9uakVkWE53ZkRUamo0WXNpZHo1V3k1ZmVQeW1vbjBTbURYSU4yemNCRTdEUzh0bVJpUmg1cVBhazF5WVVkbnFlOTRlNXY3Wnc5WUJQSE1NMktlZVF6Z0p2d1JkeFJtSHIwSldXbXdteDJISHp2cVNjM1ppREg1cGZXVWZNWFpLazVBTmRiTkV0enJ0YXN3?oc=5",
-     "fecha": "16/11 07:40"
-    },
-    {
-     "titulo": "Viaja Sheinbaum a China para reunirse con Xi Jinping en medio de tensiones comerciales",
-     "fuente": "Oscar Glenn Comunicación",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWxpUV9WVjZxMkZPVEpwUXp1a2dsSWQ3TnVUY2p4NHJmb1dIa3d5eHJGTkt2WjF1YTVkRkFPQkllclZSeUt2RWtOeWVzRVY3ZlJXYTA2bjN2eWpUZ3A1MGJNY3pZMGd4TjJfcHJIckFkc09vRmU2WWc3bS1LMW0yU2tPaEtFUndtVFRSRkxOdEVTVXh2WjVpQWRILWo3ajdoNmhRQVEydFdlQWdpdWQ5MmVwUGNDUQ?oc=5",
-     "fecha": "15/11 17:55"
+     "titulo": "Claudia Sheinbaum y Xi Jinping se reúnen en Shenzhen: México y China pactan \"nueva era\" bilateral",
+     "fuente": "Mi bolsillo",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdC1FWHdHQnczNnpJYURiUlBwcTNHQ1hQUjZ6a1NTN1pjVWNKd3p1VDFXTTdaVEhrVmNfZHk0eWVrb054dUVDY2M4YmNYNFVyNVhUWlJxb2N6RWhNMVVLeXNVLUF0UGhEaHQ2LWVsN0FGajQzRVBWZ084TXV4S2pUZlhEVF9pWmJNWlpQWXFTOE1qRkplbU04MHdjRlc5OWRWdjR5SXEtN3dCTGxjVzMwOGhLT1lZZGs5eXhUQnJiTHFmT244NnJreXRmajQ4VGZjNE9ZTXRvSEN1eDNuZFlVbFhXQQ?oc=5",
+     "fecha": "17/11 07:40"
     }
    ]
   },
   {
-   "titulo": "Banxico y Neto: un análisis económico y financiero",
-   "tema": "tasas",
-   "tema_nombre": "Tasas y Banxico",
-   "angulo": "¿Qué cambia para tus Cetes, tu tarjeta y tu crédito?",
-   "puntos": 8.38,
-   "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-14",
-   "fuentes": [
-    "ContraRéplica",
-    "El Sol de México"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Banxico mantendría tasa de interés en 6.25% durante varios meses, prevé análisis económico",
-     "fuente": "ContraRéplica",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUFpXSURjVkhRYzFjOXd0Y3dpSHhzY0E3bDhOeTRKa010R2dIWUVtaTJwR3lZLTJRQjgtVEk0Z2l5UkY1NjRhT3Z5N192Y1FFM1lwMUgtclgwVm9HSzJQVEx6NEd5cUFYYUJtWWVsLTBxd21id3JmRkI4U3ZBVmZTTmE4TUNmLXlmZjd2THVJblFkalB5RWs1R0h4aDJXajRRSmlHZW1EVEZXNjh3X1RsUDhZV0RXcS1CYkpkbzhCaEJrNVZnVXlYajI5OWU5RFhadTJR?oc=5",
-     "fecha": "14/11 16:08"
-    },
-    {
-     "titulo": "Banxico y Neto: un análisis económico y financiero",
-     "fuente": "El Sol de México",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1RDVS1HMnFnandkcVVpVklROHNVeGU0VXp3dy00VXlSSnlvM3kzMjEtUDhuamtYMUVqUF9HQmotTklybmp1djRNdk1paENlZ3YxVkhjM01zVUpVYkdmT3pSSXlrazd1bExDZnNuWmtSdlp2Ny1aQVhtYzJxQzRwVC1tbWJxQjV1Y2JyWmVTdTMxUDRQcjZJNS13dFJBc0sybExoQQ?oc=5",
-     "fecha": "16/11 04:13"
-    }
-   ]
-  },
-  {
-   "titulo": "Cuestionan alineación de Banxico con SHCP",
-   "tema": "tasas",
-   "tema_nombre": "Tasas y Banxico",
-   "angulo": "¿Qué cambia para tus Cetes, tu tarjeta y tu crédito?",
-   "puntos": 8.37,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Reforma"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Cuestionan alineación de Banxico con SHCP",
-     "fuente": "Reforma",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORHdJVDJJLXlTdmNNV3V6dWEzcVpXVkExTTNmTkUycjZtWURIdTZZYjFhdTNzb094cktRRWY4ZTMzekFFbHJVRlZEXzhVNHVJRlJSQzZIcFVuWWxneTlKSVFiQ3BSYzI5N3VUVXZVcXE2ZTNpNXhncVBja2pYZ0ZaXw?oc=5",
-     "fecha": "16/11 04:48"
-    }
-   ]
-  },
-  {
-   "titulo": "¿Por qué Bitcoin, Ethereum y XRP siguen cayendo?",
-   "tema": "cripto",
-   "tema_nombre": "Cripto",
-   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 8.34,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "DiarioBitcoin",
-    "FXStreet",
-    "www.tmgm.com"
-   ],
-   "formatos": [
-    "TikTok"
-   ],
-   "notas": [
-    {
-     "titulo": "Pronóstico de Bitcoin, Ethereum y Ripple: BTC, ETH y XRP siguen atrapados en una tendencia bajista pese a las señales de sobreventa",
-     "fuente": "FXStreet",
-     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPZkM3ZWNKeTluVXVHcVoxc2NkX3Q5T0hJZV9TU3lOSVF6cy14LU9XY1d4MTY3dzhpMUJJNHpseDNDNFZlQVZYX1k4OHZERFlVUWdsdS1PMVJ4aWhtNk4ta3F6SmdzaTRBemRfbDJqdW1IQ05JeXhUV015WkJLV1JKT1EwNTR0X1l3b2lHeXhtaC1OT05ZcnlRXzQ1RGdiRDdLY09NdHZFbGFqQy1Ta3ZzNExqV1NWbFRmeDNiM0hmc2EzZnd2Vk56RUFMQW9iNnBYbWJuSTlMaFdTeklSZGlfbV9yU0VkTURhTVNOeXgxckN3M2dnakJXSHdWZHBkOE1qaFpfajJ3QW0xWDdMOURpQ1VpOTdfVVNwSUlKbndwbXdFa0twcllIWHNURGRpWEdaLTl5MXBNcw?oc=5",
-     "fecha": "15/11 21:03"
-    },
-    {
-     "titulo": "Bitcoin (BTC) el 16 de noviembre de 2026: señales de sobreventa chocan con una tendencia bajista",
-     "fuente": "DiarioBitcoin",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUlILVd3SjdvUWlGVy1BY1NmY3NfZEtQbVpEaEg5UFluMkJLOTNSYTREdjNWbDBrY1ZwSnppYlFOSHI1eXpBYk1WX1FuaFd4WmpTNklKaEdLUDIycXktTlY1U0ZzS2l3dE1yVXVOLU1iNU5QMnNQVDBIcWRWbWMxQ0JXYjVVcnQzbVA5d2NuNDBwZ2laMXptUHp4NEl5SEw5NzlIT0lfbkdnZHJiczcwMU1zWDhDR2EwMzByT2d3dXQ1bDByOTkxZDdMa3AwUQ?oc=5",
-     "fecha": "15/11 23:06"
-    },
-    {
-     "titulo": "Las 3 principales previsiones de precios: Bitcoin, Ethereum y Ripple – BTC, ETH y XRP siguen inmersos en una tendencia bajista pese a las señales de sobreventa",
-     "fuente": "www.tmgm.com",
-     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQdzhuVkozM1pHR3FqTWswTE51dDM5cHYzN3l2YkNxUUhZWFo4a2lFY18xcVdoaXJYRl9hcTBaZjR6aWFMbnBfaEU2NzhvMzlVNld3T0VzRUlXQWpabEpvdDE1MGt1dUcxUUlaSE5iMDNwdVRJUEVrWTA3cGZuaFJvaDk4a05qUS1Rb1NxbWxDTTFqb2lOZXlFN01vOGxzTV9JQkFUazFkQ0ZLdXJyQlhmRk40c3p4N0p1YnN3cTQyYTVZaExvYVNDUGxGY3RWVlVqSkw2VGpWVDd2S1BLbkJweGRIc3hTVnlKRjhWM2tXc1R6eU1uNm0tckYtUEFFQUx1b1Iyb1IxOF9MTm9ESEh1Zw?oc=5",
-     "fecha": "16/11 00:43"
-    },
-    {
-     "titulo": "¿Por qué Bitcoin, Ethereum y XRP siguen cayendo?",
-     "fuente": "FXStreet",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaFFOdDU0SEV3RjdmN3J2S3hQcWZaV2FwTnVSbkVnMEsxQXY1N3FXNkRyeF9ZT3ZReWNKdl9yZTFoek5SVklNRkpPV0hTQ1VuSVUzcmtObUhxTzZZcWlqQm9WOHpQcE9qb2lxdlZGNFZPRDVxNENQTi1LbU8zQzE2eDdaZzVXNFFtU0hiVkZyWE55NUphUjdOdXdhMGFoOXJNQjdEeDRCdGZaNkpnYmpzWWdKV3YwSTlqYWZfUlNYLW1rVGZSdmJGcmwtcnZYMDhkY0duTi1lbjhJVy1QMlRZWG02NTl6Tkwt?oc=5",
-     "fecha": "16/11 04:31"
-    }
-   ]
-  },
-  {
-   "titulo": "Indicadores del 16 al 20 de noviembre: Consumo privado, ventas minoristas y minutas",
+   "titulo": "¿Adiós a las rentas ‘carísimas’ en CDMX? Los 3 grandes cambios que propone la nueva ley, según experta",
    "tema": "inflacion",
    "tema_nombre": "Inflación y precios",
    "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
+   "puntos": 8.56,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Radio Fórmula"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "¿Adiós a las rentas ‘carísimas’ en CDMX? Los 3 grandes cambios que propone la nueva ley, según experta",
+     "fuente": "Radio Fórmula",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0Y0TVJrQWNYeVNLUzlrTTJNTFpCTlJreDhCUTNDdnlJMnNJMUlLRTFvZ2NEUHpmWEE1XzdCd2NzOFdEcGwtckd6VE84UWU0VnR1TldqMlJiN0NfY0c4RFlZYS1DQlUtWm1wWGl5LTR4eHBoaXRiTzNseHJONTVKMUJQaFNac1dHMkNNV3pOajdWdHpmU0xRUnhJUFlOM0Z4MnYtMEF4SVFYWGt1SFRkRDNHa3FWdU5jck5fbzZIRUZpdjNQZlMzb1I1eXpqemR1NFlqMy1LUDhIcXJZdlAzQUlSUDA1NWR40gHuAUFVX3lxTE5rTVRIZGk4VGFLaE5jZ3I3TVFOWjh4dlcyeV9lZm52MDZSWThrVF82b1EtSFpydUNBaGExWUFDTVIwZG01VUE1N2FQdGNpM29EZVFkbG9sdzdjenhxRWZuT1JtUHo0TW41SEpWcndtYm9HRDhsVHJfUGdwXzljOEF5alA1bi02MzA2RVRPRXpaNWF1YjJjUFdENVpBZ3g5ZEFIcGQ5X2p4a0plRlRvQzdxOUlGUGF2eTVOWkY0T05SUGh4UGpTb1lXVVoyQ0s0bDJtbW5WbklpTmpqanl1cTZnSXlxY3p4Mmp5RHdUS3c?oc=5",
+     "fecha": "17/11 04:45"
+    }
+   ]
+  },
+  {
+   "titulo": "China tacha de coerción económica las nuevas trabas de EEUU y avisa de que responderá",
+   "tema": "mundo",
+   "tema_nombre": "Economía mundial",
+   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
+   "puntos": 8.36,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Ambito",
+    "Demócrata",
+    "Europa Press",
+    "Rosario Finanzas"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "EEUU impone nuevas restricciones a China sobre chips de IA; Beijing amenaza con \"medidas necesarias\"",
+     "fuente": "Rosario Finanzas",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORFhXOHFQY05oaEtQY3NDWWFrX1BkMnBJVlBKaVZSUnFlYWFVcDM3SHotZXlGVVoxOVZid2lvWVU0d1lQWWhXMW5xeEx6VkZ6SlMyVUtuWDB4bzBLMWhQRXRMVnU5TlFfZ0ZhYWtzUVUxQ1htUGEza2czMXBBUXJHZGM5VzVncUJULU9UbUZmOXpvUEhrNW9RRmNnQnlsRjZjYUJ3VEpEVGxKY2dnRnR2cW5SekhrTm5wRzZkSi1OSVJ0MDVUcUpMVnBLM2luZw?oc=5",
+     "fecha": "17/11 05:03"
+    },
+    {
+     "titulo": "EEUU lanza nuevas restricciones a China para el acceso a chips y Beijing advierte que tomará las \"medidas necesarias\"",
+     "fuente": "Ambito",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSFZaZ1NhMVdqZXhETnIyZ2tBM2ZMRGlmS09iZkxOQ3kxSVN3czh3dDdHVHFxazZhZTVPVFIybW94MDlTSDVQYzRzdDBlVjVSZTNNeGlvUHlfU25yeXNHNjZ0SGdsYmlJOG56M2Fiemd3M040YkN1X3Z2R2VETHp5WGs4b1ZoVlRPNUxKYkEwd3VqTk45VkE1enFDQ01hOWJ6cFdsWHlQM0N1RmdQYTVST2xHTUthSjI2OGxuY241N3BJSDRRNlNqcDRrVTBhM0g4MjVERjZRekxPTzRhLVlHR9IB5gFBVV95cUxQRFFiS0pBeGo2Sjd3akJKN3k2dXJaN3BTR0VCR09oLTMyMjV1YUthXzZVLW9YdUh4SG0zaGVxMl9CX2R4eWdwNnVYY29nQlVDbFpnXzJtTndMRnNSTklQYWxPeG81cUdHQjlsYVdZX29PdDJwcm4tV0JoX185NTNwcXV0ZHE4dkN2Qkk1NFFnZHZVT2JSVm96dUM3T3pwSWtER2RMd0lHakFoU1hfcFh3c2JUOTYtT05Uby03UUxsS1FZUjJ2QTQ5MEk4UE1HZE81SF9QN1Uxc2ZjYUJvVUZDMWhCSHJiQQ?oc=5",
+     "fecha": "17/11 05:28"
+    },
+    {
+     "titulo": "China califica de \"coerción económica\" las nuevas restricciones de EEUU y avisa de que tomará medidas",
+     "fuente": "Europa Press",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGxiZWR3Z19aVFdCRmxjWHJzNVMta0JaeFItdG9UX2VwMUJJOWNZRHUtWG5ieVFmbGVxVno2VUpTUmJJMFctT3ZaS3JZSl93eHZsTHhINEZoMzRQQUdGMHRWcXlqS2tMazV5RnVueXB0bzJLQVJIRjNzNjdZd21NNDRMcWwta2pMVUEtMWhuNVM3REk2VDFubmthakl1OUNqWHFYQXRBeUl6Q3VjMldZWG55akw5ZFBnNXpPSkhXS3l6VmZxREFfUjRjUTdxN29QUUQ2WG4yV09uMGxW?oc=5",
+     "fecha": "17/11 05:54"
+    },
+    {
+     "titulo": "China tacha de coerción económica las nuevas trabas de EEUU y avisa de que responderá",
+     "fuente": "Demócrata",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVlNaXzVnRGxvVE93N0RwRWNMd3JmUTV0eUl0ZnowQUp6dmFGdTE4NkRfMmNlTEVna2ltWmNLWE1lQkduVUtHbTV1NUloaklvUlRVd0h2UnZ4QWduWGM0b0FFeXJmVG8zVUJaQXNudW01TWRTXzlrZWNVMlo2Skt5cWhZczhGTzc2Y3FNelpOSktKdTB4djJ6ZGdYLVZMX1VfelU4WG9UWkRVdm5ZVFhfaVh2emRnRHY3U0JqTNIBwgFBVV95cUxNbTJPakhNSjlza21pUWVGSG1mQWNYdVNiNjFaZ1JMcU1zSS0yWXp5NEZtSjNXR1c4N0xkNl9kczktYmtOa3pEdEZSUU9ZSjJobmVGS28tbS1ySm55VVI4cHBKTFY1OUprYVZLMEJ2cnU0bUFHT1dpR0lHb1ZqWVlfcUhUSkh5c0tXSW1fM3AyVjY4X09RREdJdkZEcGVBdkdZOGJpUmVZcDdnNWVaeTVDSkNuN3FCcjhMZGpTN29ibkdNZw?oc=5",
+     "fecha": "17/11 05:54"
+    }
+   ]
+  },
+  {
+   "titulo": "Ven impacto inflacionario por deducciones fiscales en 2027; aumentará la canasta básica",
+   "tema": "inflacion",
+   "tema_nombre": "Inflación y precios",
+   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
+   "puntos": 8.28,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Milenio"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Ven impacto inflacionario por deducciones fiscales en 2027; aumentará la canasta básica",
+     "fuente": "Milenio",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQnRzS002eUpnYl9FVzl0SFd5ZXB5RlZXNm1abmhLZHRtM1RDeTAtTTgycl9uVmtsNDhreHZVRkszTlIzVzc1NlFLcWRGeWo0M1NhRU1BMXlZeTdGWGRDX3Q2REF2VXpjc2dBZkwydWh6V3BZa3NCeWNVM3V6THVYZElqc0IwVlVNTDdrZnU5MHdOcXNEbm85M2JIbkx2Z0nSAZ8BQVVfeXFMUDhRcGRQdFF1dEZRS2FkX1dfZ0NreFZGYzJDdXBnSTZHTlFfXzV4S2EwV2NNa0ZHNmZKNVdPWkpWb29nWTFMQ1BnN0ZHOWxhVkdKUXlBVVNCN1l0dnVXclppREhLbXRsT0dGTWNLVVc0STY3UU9DXzlqWlFJWkJfOW84bnljbkh1M1BISHMwUFlSOUVvMWtmZWJ3bm0zMTNR?oc=5",
+     "fecha": "17/11 06:21"
+    }
+   ]
+  },
+  {
+   "titulo": "Moody's ubica a México, Estados Unidos y Canadá en riesgo político ante revisión del T-MEC",
+   "tema": "comercio",
+   "tema_nombre": "T-MEC y aranceles",
+   "angulo": "¿Qué productos y empleos se juegan aquí?",
    "puntos": 8.17,
    "oficial": false,
    "estado": "Nueva",
    "desde": null,
    "fuentes": [
-    "El Economista"
+    "El Buen Tono",
+    "Informe Queretano",
+    "López-Dóriga Digital"
    ],
    "formatos": [
     "Short"
    ],
    "notas": [
     {
-     "titulo": "Indicadores del 16 al 20 de noviembre: Consumo privado, ventas minoristas y minutas",
-     "fuente": "El Economista",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTlgtZjI3N094UGRRVmJ3NjVCVExUdUdWX0JVaGJ0YVg4OU9BMUoxQ0U1ZEdYbDlFdTIxSGVkZnpMblhCeXNCWHZVc29VSnBJdExuNXQ5TTZLNHdtNE9BUWNvWWFpNEtHcHBycGxFa19MVXluSGRlWGVrMmlFZ25FR3VmSU5QeHVqQnY1eDNZc1VrX0VBUDQxMFdpRzJLQW9SV0piSkRHSjBiTG1JNFM5VXdIektJSDVJUzFwTlh4bE9ZcjFwQXFpMUxENDJYeVR30gHQAUFVX3lxTE9OWC1mMjc3T3hQZFFWYnc2NUJUTFR1R1ZfQlVoYnRhWDg5T0ExSjFDRTVkR1hsOUV1MjFIZWRmekxuWEJ5c0JYdlVzb1VKcEl0TG41dDlNNks0d200T0FRY29ZYWk0S0dwcHJwbEVrX0xVeW5IZGVYZWsyaUVnbkVHdWZJTlB4dWpCdjV4M1lzVWtfRUFQNDEwV2lHMktBb1JXSmJKREdKMGJMbUk0UzlVd0h6S0lINUlTMXBOWHhsT1lyMXBBcWkxTEQ0Mlh5VHc?oc=5",
-     "fecha": "16/11 07:00"
+     "titulo": "Moody’s sitúa a México, EE.UU. y Canadá en riesgo político frente a revisiones del T-MEC",
+     "fuente": "López-Dóriga Digital",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMjhRRHg4eWpra3pGejZWdDJQU1VQMmN5WUcxeFVIODNIUnN0TllUNEMtTkpVcDNjcFhHTF9JLTdTWjcxSXUwMEl0LU5jXzdleVM1VmxYZDEyZ20taG1QT2RXcHlhajhCOFBUUU1oZkZ6Y2w5VDlrNzJuZVJSaUY1c3F1T0UxUFFScE9LZ2FFdjFMb1NEZm13TFVEWEJMUWdjeEliUUVLU1h3U05ESXU0ZjdfcFRFWWxaQTZvS3Zib05QYkt1VHZvZDNB?oc=5",
+     "fecha": "16/11 19:56"
+    },
+    {
+     "titulo": "Moody’s coloca a México, Estados Unidos y Canadá bajo riesgo político ante revisión del T-MEC",
+     "fuente": "El Buen Tono",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUjdGLVVCdjU1QUh3ZEU2TFNDTnhoaGV3OXJGT2xPT243WDdBRTNZZXgwU2w2d1NGTXJxSWNGbjZya1FwQ2ZxLVo3M2tObk1yWTcza3pEeTlDNTdWYW1WNnZlUnN2V0EySjY0UXZMNjJfQTNEWDdmaWFJV003TGY2Q3hkOTA1SVp3akRRTHRMdnEtS0JETnBLOG80eVpvUld1OHZSS1EyalBkZ093bS05dG4wVG5XMWpyamw1eUtUTQ?oc=5",
+     "fecha": "16/11 20:55"
+    },
+    {
+     "titulo": "Moody's ubica a México, Estados Unidos y Canadá en riesgo político ante revisión del T-MEC",
+     "fuente": "Informe Queretano",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUkR0TWdyQlMwLXFaVkVWVU9ZUmxiZGxnVUF6VjVMMEVqeGpGQ3JQcEYwQ2pRbHl3ckRUSnlNTEp2aUg4dUNXSi1adDFTa1BpSUMzckxSLWJjQlNfa0lKY2FHS0VHOUxHSTN6N0ozS2RJLXNPN19Fd0RwNjZlU3NpcG9qLW5LYThRbXFhYkFNUFdnYTNMRlVta2RkT2VhVXBEdXZLRjdwQ2NfTDlPNzZWbmlRMVVnMDVKcEppdUwtTVJCMDJtdGM5Yw?oc=5",
+     "fecha": "17/11 01:37"
     }
    ]
   },
   {
-   "titulo": "Sheinbaum visita China para participar en la APEC y fortalecer vínculos comerciales",
-   "tema": "mundo",
-   "tema_nombre": "Economía mundial",
-   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
-   "puntos": 7.94,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Aristegui Noticias",
-    "El Informador"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "El viaje de Sheinbaum a China para participar en la APEC; esta es su agenda diplomática",
-     "fuente": "Aristegui Noticias",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUldCVmlHQ3BTM0JfYWJLVHFDdFRBNzRXRmpPWkg0WHFyenc4NFN5OGx5MDhYWkh1VWpkQXBfOGZXMi1NUzcwR2ZJTlV6Y09RbXdqT0JzSDd3MFFJQkl2dWo3ek1Ca0U4LUNiOWhBQzBzS21qYVFUTE5wNjVBaXVTTEJCNE04UEg5cnVYV2FhV3o1aHV1bG9CZEhoNk04MVB0d0xDRmtFVVhsalp1TW5DNm1tUXVxd1VEeEhJNFd0X2tmanQyMmllWmEwY3FoM01fZS0ySTgtYw?oc=5",
-     "fecha": "15/11 15:21"
-    },
-    {
-     "titulo": "Sheinbaum visita China para participar en la APEC y fortalecer vínculos comerciales",
-     "fuente": "El Informador",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOVVtLTVrWndCUElTOGhQOExGaVhOU3lnTGY2VWI2b3lSVlBWWGNFeXQ5eUJPMjJkNHpiQXJCNVBEdXd2MDQ1N1pjbWVrS2pVQng4TXNGbllTMlRLTlBSMG1UWGh2MkdOY3hydDdBc3NySGctcl9oS1o5azN1dzJEWDRSUVdLVzNwX0lBeG9RZWVrV0FOV2hteFZUSzJVQ2xkUFhZYmJ5QUdBZmlDRENKZDl2SVQzMVlMVjFQVEFHdV9nOVFOOWhadzB1dTZBSm9h0gHWAUFVX3lxTE9aQVM5UzBVMWdlaWFfMlFUdFVpMUdudF83bFEwa29POXdyamlmVGRjRFpZVXJwZWUxcmktZE5zNm5PckJLajloY1M5OWlLMlNrdzlVZEZ4dXFCdUtjdDk4bEI0cV9Banl2WnpqWFRuZVVNZ09WUGpZb1pGR3ZGWVFDOXJCTlRsQUlyNVdlUHY1WnFWV2laTlJrSEFZa3FXdWVRaDFUdHRCSE15QmIwV2tnMklEMDNHc1FqRXNIS3p2amFFdjhwcC1UQXVxbFBJMFZGWF82SUE?oc=5",
-     "fecha": "16/11 07:46"
-    }
-   ]
-  },
-  {
-   "titulo": "USD/MXN: El Peso mexicano abre la semana cayendo a mínimos de dos días frente al Dólar",
-   "tema": "peso",
-   "tema_nombre": "Peso y dólar",
-   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
-   "puntos": 7.93,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "FXStreet"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "USD/MXN: El Peso mexicano abre la semana cayendo a mínimos de dos días frente al Dólar",
-     "fuente": "FXStreet",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWHhzZ1dObkVoY28zSExtZ3FfYTRCLWRNeFZia3R2ejFUekxtZkRhbVNCNHVBMWtfZU9wTXVSX0hBUGVBdV90TlJNU3FjMWlwcE9GcGFqLUplYUYtNTFQems5Q1lzT2RFY3FFU3Z0aFd2eWZ4U2VJUTlHQUxYb3o5bnRRZUlZNWVZaUJzZENvd0d6SThnZVBJN2VuTUttRUQxdWZLdjhnTDR1akxuczVWM1hiRUYya2g0Y0FkYncwNzJIejNSelE?oc=5",
-     "fecha": "16/11 09:12"
-    }
-   ]
-  },
-  {
-   "titulo": "Deuda pública de México superaría los 21 billones de pesos en 2027",
-   "tema": "finanzas_publicas",
-   "tema_nombre": "Gobierno, impuestos y deuda",
-   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
-   "puntos": 7.87,
-   "oficial": false,
-   "estado": "Sigue",
-   "desde": "2026-11-10",
-   "fuentes": [
-    "24-horas",
-    "ContraRéplica",
-    "El Congresista"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Publican Ley de Ingresos 2027; Gobierno federal proyecta captar más de 10.6 billones de pesos",
-     "fuente": "ContraRéplica",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdjlsbjRkSFg3WmJzY2lhVEp0M015OEpZQUJCRnFKaXprS2FSSnBkb053ay0xQkNNOXVyMXZ1TEpkdlhneDBTZ2NWc1NJQ3pnaG5rSVhVOUxKaVNrTkhQYTZTSkNFNGo1SEFmWlF4VGJManNzUHZFRzNGczQ3UXh3WlNaNjZad3o5d3VBc3BGWEFzcWZKLVNZaVhoc0RfV3hjdGc0QmVHaHFDdVp2cXRCM3pZekg1bVVYUlZCSThmT1hKdmF2d2llRmgwQXkxWkRadkhMWm9kaXE?oc=5",
-     "fecha": "14/11 16:08"
-    },
-    {
-     "titulo": "El presupuesto de Egresos 2024 es de 10.6 billones de pesos, pero la inversión pública sigue baja en México.",
-     "fuente": "El Congresista",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40bXdPdTdsQmpoSjJ5MW1OVWdDOTBiM0F3eTJfN3FJZ0lRUXA4RG9WRkd3SDZWcVBuUkFzYWItWGxyQ2Ixb2lETmRlbHp2TXVQenhuYTJzeC1wTHlNSjBIZjVqSjd1VGU0dVkxb3dSME1VRFd6cmc?oc=5",
-     "fecha": "15/11 08:30"
-    },
-    {
-     "titulo": "Aumenta la deuda pública de México a 21.7 billones de pesos para 2027",
-     "fuente": "El Congresista",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzZORkN1ekdQZTZoVzVUekoxeS1MSUd3eXVxQ0d0Q2FaZjQ2TG44Vk5ieHFTM1RfcDgydG5kLVdPS2gwV0xKa0tQYmN1cmlaM2NuUWtfT1RpYXMzUU53MWpkeGJPcWhhUE5BLTRrMzBZWjVrM0hkVHZkcTNMY3VQYmNn?oc=5",
-     "fecha": "16/11 02:50"
-    },
-    {
-     "titulo": "Deuda pública de México superaría los 21 billones de pesos en 2027",
-     "fuente": "24-horas",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlJjYWtpNHVxVGRoV09ONzRBWGNncm93QVpJM2lpS3FWeE1BTmliWllGdE9TZHhIakw1X21DMFhsbllmQzkwajFNWUc3WGJpbzJ0VWFuRGtGXzhpWDJweEF0TzhHeWN0aTNnNktDdE1Wc3Zzai1hRm5tM1JyMV9UQnFOdVM0bkJ3cEdrZDJIa2w2aHFmcmJSZE42elM?oc=5",
-     "fecha": "16/11 08:48"
-    }
-   ]
-  },
-  {
-   "titulo": "Peso cae hoy ante el dólar en puente de la Revolución Mexicana",
-   "tema": "peso",
-   "tema_nombre": "Peso y dólar",
-   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
-   "puntos": 7.87,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "El Mañana de Nuevo Laredo"
-   ],
-   "formatos": [
-    "Short"
-   ],
-   "notas": [
-    {
-     "titulo": "Peso cae hoy ante el dólar en puente de la Revolución Mexicana",
-     "fuente": "El Mañana de Nuevo Laredo",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLTZsX29qS0stRUFDMWtaaUlINmFDaTFJa3NFMHBwTGRmOXBKQjFfcC15MFpnRFVicU5HMjdpTWFzZWhBSnFnMERRWUZ3U1pWMGMwbUFSTXpZaUN0dVBqNkEtNjE5djFIUU5vdTUweGFER0l1UFFPLTVUR19BLXBUakZ6NjBYU0U5cTZ6NzVQY3pHTkRfTDF2RWxLb2JlWHdXbmNfZ3dINEduZ1Q4aGI5NVpyYUw3SjFuWmtxZjVCV3E?oc=5",
-     "fecha": "16/11 08:41"
-    },
-    {
-     "titulo": "Peso cae hoy ante el dólar en Aniversario de la Revolución Mexicana",
-     "fuente": "El Mañana de Nuevo Laredo",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVJTOWZjX0ZOOHJfc2ozd2N0OE1yTTNWWm14dExZRVg0VW83OGZQSmxMMmNRSFhGZ3VoaHozcjJLTnh5a0hMX0VzNVdROHNQalY1NmtZWFIwRXlTaFFpRDUxSzdfSkZCMlVxb1dxbkx3SzdySU1aODExZl9sZXRJQWdUX29OdlJUV3I5ZnVNUWdocnNPUng4cDBTYXpqZHRwR2cySzFqYUtmU3c5bXpzSGtLdC1HVW1BNG5CT3k0Q0FKdDJ2THc?oc=5",
-     "fecha": "16/11 08:41"
-    }
-   ]
-  },
-  {
-   "titulo": "MicroStrategy compra 485 Bitcoin por 33 millones mientras sus acciones se desploman",
+   "titulo": "Bitcoin se detiene por debajo de $65,000 tras la venta del fin de semana mientras se avecinan los resultados de Nvidia",
    "tema": "cripto",
    "tema_nombre": "Cripto",
    "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 7.84,
+   "puntos": 8.15,
    "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
+   "estado": "Sigue",
+   "desde": "2026-11-15",
    "fuentes": [
-    "Negocios.com"
+    "CoinDesk",
+    "El Economista",
+    "The Coin Republic"
    ],
    "formatos": [
     "Short",
@@ -1028,58 +1235,74 @@
    ],
    "notas": [
     {
-     "titulo": "MicroStrategy compra 485 Bitcoin por 33 millones mientras sus acciones se desploman",
-     "fuente": "Negocios.com",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWkpDdndPLVhSY3dvQVZmbWZMb1drR0w4TVdaNV81aUdEQWFzV0ZJd2ZlRE84WTgyUGlSb0wyN3YzOE1xR0lDSWNCYkROS3NBRTVFMDZrbWlKSlFSTTdGdVVNMkdPNHFqTTZuSmVSbFZaeG54Sno2TEEwYllBc0dSX0thci1Ob3ZSWF93UTkyQk1rbFktVWMyMVdxdHpqTkdxRnBVWXVDR2RXQkVRM3VRMlJnaF9wdU5ObHY2Y1Z3dUkxdE5qdFp5Z2R2TEs1RFMwSUtRbm1wa9IB3AFBVV95cUxPNW9ONW5zbElyOWdhZGZ2NnVhNWhCNUQxVDd6N2JCY3h2LU9wd09XMUpaUjJmbENhdnVFdTgzakNCX2N3NDJtejBlaEl4SFc1VUVwRFdrY2xaS1AtTFl5MkllOFJsdlNXM2hoNEhWNUdudzZNcDhBa29KejRMV1VjR3JZOTllRWU3MWtWdkhSbEdTZ003OXFhakdVTXRzanRGUUJLN0g3eWUxMUJrZThsNm0wV3BlaTMzWklwRFRXOGF3ejFaakRVSDNkdnh5NjF2QjM0YjZDT3ZnRnBF?oc=5",
-     "fecha": "16/11 08:24"
+     "titulo": "Bitcoin cae por debajo de los 65,000 dólares",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb3BPNlFTS1Rrb2ZIR0U5LVNTbkhEcmdEbjZxMHloRFE4dWMwWXplM0NsQVpVV0ZuV3pRV2FHRWU4UmJoUjZFZGRVNXVpcm5LNTZrRlpDUDM3aW92a1hiUFRMak5WN0lPTTBlUU5aQ0xvSTJFX0V1WHJReExjSVJEYmVLSU12UkZOVnllNmt4eUFOZ3hlMkM4R1ZmVdIBoAFBVV95cUxOMGMtbjAwZVZPU09oRFZycFdwQkpLTDhUOGwtTmVfY1Nad2RvOGliUDdfSE0zY0I1WVJnc19aMjBjbFc0VWFGa29GU29mLU9ZMERtRGt2ZDZ5Y3BGUEF5eWNjRUdJSjAwcUQ3MktYekg1eGRHdXJ4THB3U1BCVnJNRndUMzY4SjJlZHlPYmtIbWNwUjZXS2lmNDI5YjJ5bWJm?oc=5",
+     "fecha": "16/11 21:05"
+    },
+    {
+     "titulo": "Previsión del precio del bitcoin: la criptomoneda BTC se recupera desde los 62 000 dólares, con el mínimo de 58 000 dólares en el punto de mira",
+     "fuente": "The Coin Republic",
+     "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNOWN6UVYwS0QtWDlvZ2NuaHJiSFZRbTc0V01LS05yTGdZT3Z4Rks3VmxZa2JPdU50VTZZSE1YSlZqSGFQUkNENHBXVVh2YkhZTklkTGFFOThOLWR4NXVyV1I1ZmJJUDN0cFdHb3B3dm1TSFRWUXZQb0dGM1l5aDFkek9ZLWVDWEI5dHFKUEM4Ny1YVkZ0VVlsRFBRSmpubXhNX0JQbmtycEc2bXFGaG4yNEE0eEZhQURhOTJnYVdlRFJlX2JaN2JwdEJpTGxhckhBWTBRb2NaS3BJQ0NIYWRUR0dkMWlTc1FHMDB6VTUzWXhIWW5BM1l4UnUtekpzOGJsTjNxbDRHSXIzQ2Z0SlFaSEFWVHk5dG_SAZwCQVVfeXFMTS12dWhqSWxQOXJXNl9EczB4cmgxMWNyUm8wTVNjTjZRLVZaYXp4UlkzOGR6dTluLXNQeG9Kbmp2YXF6MmJyc0Noa2tMMmlpbGZaaW00TWRTZlZ6NVdtdjlNZFVMWHczYk5qRXNZdlBwUk1pbmFBOGk2Z29YSmoxZkkwSjl1Y2ozM0RhTUZPb2tEMWs2ZUtEWU1aQmw5QkV2SDNESkU2eTV6MVk3RTNJaUhTbmdmV2ZTR1NzRzJjN3lnT093Vk93cHZaMDBPajgxWnpKZUhkWWJJV2tJcVpOeVduekxsLXFiRThSZGFFU0R1cHVuTnpDZkRPLWI4OWNoeHFFLTJKY3NyUEpnQ0FuQ2Rfbk1zRW5kbUNRSE8?oc=5",
+     "fecha": "15/11 08:21"
+    },
+    {
+     "titulo": "Bitcoin se detiene por debajo de $65,000 tras la venta del fin de semana mientras se avecinan los resultados de Nvidia",
+     "fuente": "CoinDesk",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN3FjazNrNHA1cXE2OUZFODcyTnhhWWJnNW9LMlJ2bE9zZFpob2VzT0JCMzE4OW9XeVZERzY2Uk9LNnBDR1Z5RDBiMTktUTE1NWk0YUp3cmhLeDctUHVLbzVjUUJkOWJTLUhJcDhFWjQxbmt2VVVXOXhONVVqWTNxU2hlTE5GczJBNDA2cmpZVEFTWV8zOV9zQzZlTDFmMnlxb1dYc1QyRWhZT1dmcnNrZlF5Unh4a0t0THVR?oc=5",
+     "fecha": "17/11 05:36"
     }
    ]
   },
   {
-   "titulo": "Profeco revela cuál es súper más barato de Jalisco HOY 9 de noviembre",
-   "tema": "inflacion",
-   "tema_nombre": "Inflación y precios",
-   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
-   "puntos": 7.76,
+   "titulo": "México ante el presupuesto 2027. Crecimiento moderado",
+   "tema": "finanzas_publicas",
+   "tema_nombre": "Gobierno, impuestos y deuda",
+   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
+   "puntos": 8.15,
    "oficial": false,
    "estado": "Nueva",
    "desde": null,
    "fuentes": [
-    "El Informador"
+    "El Sol de México",
+    "Imagen Radio",
+    "Meganoticias.mx",
+    "Revista Única"
    ],
    "formatos": [
+    "Largo",
     "Short"
    ],
    "notas": [
     {
-     "titulo": "Profeco revela cuál es súper más barato de Jalisco HOY 9 de noviembre",
-     "fuente": "El Informador",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd1hWV3BTdmhaVGJaRWdwaFRUMk03WmFPM1RyYlVpM2hHTy1PVmNhd2tsTjh1QUtSRU0xbUFFUzlwRWU1UDFuWnpOeXl1U1hsM05YMWFFUXEzSVM5ZnNlN3M2b1kydFh1d0VGczlBSmpJdFRUdUFHakRkckQwZ3NZeHBFS0VDeTI0WjJMdnFzOEZnMmp2TjBydVNUS181WUlPWXV5RnNKcVpKQUZGaDQ5dFZWbHBvMFBCZ1JZdnVaZ9IBxAFBVV95cUxPcXZJMzY1X0dDdmxpNnlvTWo3a2R0dHlPN1NuVWlzVlJWeDlWYW8zWEJyM0k1bVZwcEpyOC1tcmdZcXJWRjltSGp6MmtLTTIwWjBOT3EzVm9PdWlMNmkwWGhkVFR4ZXp0dEVjQTk2bllSVEo3Y00xZm1YcmJyX1VXVkN1UkJTZFh3by1YYjI0eU00Q0tXZTZiaURzNU5FdDdfQzNidldab2hRQzZkY0otTHdaenB4MENjUElSRE1RR18wNHRy?oc=5",
-     "fecha": "16/11 07:41"
-    }
-   ]
-  },
-  {
-   "titulo": "Hack Alert on Cryptocurrency Platform Lighter: Withdrawals Halted, Official Statement Released! - Hacker Buys Two Altcoins!",
-   "tema": "cripto",
-   "tema_nombre": "Cripto",
-   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
-   "puntos": 7.76,
-   "oficial": false,
-   "estado": "Nueva",
-   "desde": null,
-   "fuentes": [
-    "Bitcoin Sistemi"
-   ],
-   "formatos": [
-    "TikTok"
-   ],
-   "notas": [
+     "titulo": "Coparmex advierte que Presupuesto 2027 carece de cambios de fondo para impulsar el crecimiento",
+     "fuente": "Imagen Radio",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcWZjMEZFMTZ0T25NS3g4dzVJNm14SEJTX1d1UFNsMHBRMVJ6aG0yc3RWR29oOTExYU92SHgtNDdVZWN5NVVYUzJWemFsM2ZsY1U2TFFNbExmZ0VSV3pZQWZjXzd4MnM1RTRZZFdmVkcwTFh1d3VLRllWOWZLSndJa2dyeHlzdG5ibEo3cExNcHFTbmlyZjFxcUVZM0NFT2txU08xRG1YTjVYaDFPMzdoVkk2T1F4SUh2djg1cEk0djk1aDdF0gHEAUFVX3lxTFBxZmMwRkUxNnRPbk1LeDh3NUk2bXhIQlNfV3VQU2wwcFExUnpobTJzdFZHb2g5MTFhT3ZIeC00N1VlY3k1VVhTMlZ6YWwzZmxjVTZMUU1sTGZnRVJXellBZmNfN3gyczVFNFlkV2ZWRzBMWHV3dUtGWVY5ZktKd0lrZ3J4eXN0bmJsSjdwTE1wcVNuaXJmMXFxRVkzQ0VPa3FTTzFEbVhONVhoMU8zN2hWSTZPUXhJSHZ2ODVwSTR2OTVoN0U?oc=5",
+     "fecha": "16/11 08:00"
+    },
     {
-     "titulo": "Hack Alert on Cryptocurrency Platform Lighter: Withdrawals Halted, Official Statement Released! - Hacker Buys Two Altcoins!",
-     "fuente": "Bitcoin Sistemi",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcWRwOHlCTEpJU1JabnRxbHlQR3AzUlZsWDlyV3czY1FkRkxyeU5naGM3TkN3eVZSZi1MdXIxUk0xWTZJY1VpS1JDR25abS1mYkV2alg3UnZqUlFPNk0xNkZMTVN6OFZDSXU3eUtLX0xIRGs1Z2hzMkdPT2NqdDQ2TEprQWRpRDQydkdwOEkyTFFsQjdmU3d1N1Z5UEhQcWpwZ3RoVHZESnlfbGdwcjQ4VTA2d0RRZzg1cEo1dGVhOW5fQlY0bTZjMXFR?oc=5",
-     "fecha": "16/11 07:41"
+     "titulo": "Coparmex cuestiona Presupuesto 2027: \"se perdió oportunidad de impulsar el crecimiento\"",
+     "fuente": "Imagen Radio",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTG41dDYwclpuVmpEejVlRURsNmNWS2E1T25KUW1iQWNUbkh3cXh5MWVWTmNjQ3dTQW9lX0dmeldEMm1yVWRQOEVOZzJRMlg0LUpkendkNXA3MFpHWUs1SmhWd2FOdnpjLWdaWTVpMkd0WmVFZUo2d2N2RGNUUXVHYlRZVUVrLU8yZmlrSm5sakMyRmcyYTE5WFlfX0wyTDJta25PM05oemN5REpnOUxQU2hQem1tczhRcUVz0gG7AUFVX3lxTE1MbjV0NjByWm5WakR6NWVFRGw2Y1ZLYTVPbkpRbWJBY1RuSHdxeHkxZVZOY2NDd1NBb2VfR2Z6V0QybXJVZFA4RU5nMlEyWDQtSmR6d2Q1cDcwWkdZSzVKaFZ3YU52emMtZ1pZNWkyR3RaZUVlSjZ3Y3ZEY1RRdUdiVFlVRWstTzJmaWtKbmxqQzJGZzJhMTlYWV9fTDJMMm1rbk8zTmh6Y3lESmc5TFBTaFB6bW1zOFFxRXM?oc=5",
+     "fecha": "16/11 11:32"
+    },
+    {
+     "titulo": "2027: Un presupuesto que hipoteca el futuro de México",
+     "fuente": "El Sol de México",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDZSOUdZRnFmcktuOFNZYjJyaFhya281b0gtRzVSUDJmMlBkNG5oekxLaGJ4U1pUOXI0XzlPRGk3aEg5UDZjTmZ0LXFja3NCckN2OVlkTTJ1S3A2UjhXUENaUjdHUGVFYkFBbXpLbWNLVEk1T013RGl3aUVuNnUwdjZSaTN4Qk0xaV95eFdZdWt2c0JmYmc0SEdackJORzIwM1JrcExxOEpxSjNDQ1NiM01FYXNxUFhM?oc=5",
+     "fecha": "16/11 12:27"
+    },
+    {
+     "titulo": "Presupuesto México 2027: El reto del crecimiento del país",
+     "fuente": "Meganoticias.mx",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcC1QWkVwY1lHSW5YLWszdUJuY3VJbE5Pb2REbEo4OElybS03MUd0bzQwdEpOdUcySGk2NFhYTThKUmFXMGFGS290ejNPVHdlc3U4RTQ2VnRpa0lfSEFtTURsWW1hSTlmYkxCWlVSWHVUY3ZoWnV5akhsNTVYQ3JfdmlrbWw3emVZUkJOcUducE9kUzU2cm9HZUU3aE9nUHNlZVI3dGdQTS14MHc?oc=5",
+     "fecha": "16/11 19:00"
+    },
+    {
+     "titulo": "México ante el presupuesto 2027. Crecimiento moderado",
+     "fuente": "Revista Única",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnB0anFscmF6d245TEVkQU1RYmYzZWlZTlJXWUZva2pNcS0wNWhsNXRpWHV4SkNpTnJBZWhUM3RQQ0d5RDZhN1Z6ei1QaUVrX1NOMFdHTjdMUGNSTjB6VGFXMUNpUVJPWmMyU3p5VUhPUUFBZGl1LUlSMmJFSFRmMnNVeVdEYlV4?oc=5",
+     "fecha": "16/11 21:06"
     }
    ]
   }
