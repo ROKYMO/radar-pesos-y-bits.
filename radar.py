@@ -31,11 +31,6 @@ VACIAS = set("""a al ante bajo con contra de del desde durante e el en entre est
 mas más mientras o para pero por que qué se según sin sobre su sus tras un una uno y ya hoy es son fue
 será ha han hay le les como cómo cuánto cuanto cuál así asi tu tus te the of to in on for and is at by""".split())
 
-
-def sin_acentos(texto):
-    return "".join(c for c in unicodedata.normalize("NFD", texto) if unicodedata.category(c) != "Mn")
-
-
 SINONIMOS = {
     "indice nacional de precios al consumidor": "inflacion inpc",
     "tasa de interes": "tasa",
@@ -44,7 +39,13 @@ SINONIMOS = {
     "reserva federal": "fed",
     "federal reserve": "fed",
     "presupuesto de egresos": "presupuesto",
+    "oferta publica inicial": "ipo",
+    "initial public offering": "ipo",
 }
+
+
+def sin_acentos(texto):
+    return "".join(c for c in unicodedata.normalize("NFD", texto) if unicodedata.category(c) != "Mn")
 
 
 def fichas(titulo):
@@ -82,6 +83,9 @@ def lista_de_feeds():
             feeds.append({"nombre": f"Google Noticias: {c}", "url": url_google(c), "tema": clave})
         for c in tema.get("consultas_en", []):
             feeds.append({"nombre": f"Google News (EN): {c}", "url": url_google(c, "en"), "tema": clave})
+    for e in getattr(config, "EMPRESAS_SEGUIDAS", []):
+        feeds.append({"nombre": f"Empresa: {e}", "url": url_google(f'"{e}" acciones OR bolsa OR inversión'), "tema": "bolsa"})
+        feeds.append({"nombre": f"Empresa (EN): {e}", "url": url_google(f'"{e}" stock OR IPO OR valuation OR earnings', "en"), "tema": "bolsa"})
     feeds.extend(config.FEEDS_DIRECTOS)
     return feeds
 
@@ -118,6 +122,12 @@ def es_confiable(fuente):
     return any(o in f for o in config.FUENTES_CONFIABLES)
 
 
+def empresas_en(texto):
+    """Empresas seguidas que aparecen en un texto (sin acentos, en minúsculas)."""
+    return [e for e in getattr(config, "EMPRESAS_SEGUIDAS", [])
+            if re.search(r"\b" + re.escape(sin_acentos(e.lower())) + r"\b", texto)]
+
+
 def agrupar(notas):
     """Junta las notas que cuentan la misma historia."""
     grupos = []
@@ -146,6 +156,9 @@ def puntuar(g, ahora):
     p += math.log2(1 + len(fuentes)) * 2                      # cobertura: cuántos medios distintos
     gancho = sum(v for k, v in config.PALABRAS_GANCHO.items() if sin_acentos(k) in textos)
     p += min(gancho, 3)
+    empresas = empresas_en(textos)
+    if empresas:
+        p += 1.5
     if any(sin_acentos(k) in textos for k in config.PALABRAS_MEXICO):
         p += 1
     oficial = any(es_oficial(f) for f in fuentes)
@@ -157,7 +170,7 @@ def puntuar(g, ahora):
         p -= 3
     horas = (ahora - max(n["fecha"] for n in g["notas"])).total_seconds() / 3600
     p *= max(0.4, 1 - horas / (config.VENTANA_HORAS * 1.5))
-    return round(p, 2), tema, oficial, fuentes
+    return round(p, 2), tema, oficial, fuentes, empresas
 
 
 def formatos(g, tema, n_fuentes):
@@ -171,6 +184,22 @@ def formatos(g, tema, n_fuentes):
     if tema in ("proteccion", "cripto") or any(p in textos for p in ("fraude", "estafa", "hackeo", "quiebra", "alerta", "revoca")):
         f.append("TikTok")
     return f or ["Short"]
+
+
+def seleccionar(historias):
+    """Las mejores por puntos, pero cada tema tiene asegurados sus MIN_POR_TEMA mejores lugares."""
+    historias.sort(key=lambda h: h["puntos"], reverse=True)
+    minimo = getattr(config, "MIN_POR_TEMA", 0)
+    elegidas = []
+    for clave in config.TEMAS:
+        elegidas += [h for h in historias if h["tema"] == clave and h["puntos"] > 0][:minimo]
+    for h in historias:
+        if len(elegidas) >= config.MAX_HISTORIAS:
+            break
+        if h not in elegidas:
+            elegidas.append(h)
+    elegidas.sort(key=lambda h: h["puntos"], reverse=True)
+    return elegidas[: max(config.MAX_HISTORIAS, minimo * len(config.TEMAS))]
 
 
 def cargar_historial(ahora):
@@ -195,7 +224,7 @@ def main():
     historial = cargar_historial(ahora)
     historias = []
     for g in agrupar(notas):
-        puntos, tema, oficial, fuentes = puntuar(g, ahora)
+        puntos, tema, oficial, fuentes, empresas = puntuar(g, ahora)
         visto = next((h for h in historial if parecido(g["fichas"], set(h["fichas"])) >= 0.6), None)
         if visto:
             puntos -= 1
@@ -203,7 +232,7 @@ def main():
         historias.append({
             "titulo": g["notas"][0]["titulo"],
             "tema": tema,
-            "tema_nombre": config.TEMAS[tema]["nombre"],
+            "tema_nombre": config.TEMAS[tema]["nombre"] + (" · " + ", ".join(empresas) if empresas else ""),
             "angulo": config.TEMAS[tema]["angulo"],
             "puntos": round(puntos, 2),
             "oficial": oficial,
@@ -216,8 +245,7 @@ def main():
             "_fichas": sorted(g["fichas"]),
         })
 
-    historias.sort(key=lambda h: h["puntos"], reverse=True)
-    historias = historias[: config.MAX_HISTORIAS]
+    historias = seleccionar(historias)
 
     nuevos = [{"fichas": h["_fichas"], "visto": ahora.isoformat()} for h in historias if h["estado"] == "Nueva"]
     DATA.mkdir(exist_ok=True)

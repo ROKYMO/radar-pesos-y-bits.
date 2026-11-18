@@ -5,10 +5,20 @@
 VENTANA_HORAS = 48
 
 # Cuántas historias muestra la página.
-MAX_HISTORIAS = 25
+MAX_HISTORIAS = 30
+
+# Lugares asegurados por tema: aunque un tema tenga menos medios, sus 2 mejores historias siempre salen.
+MIN_POR_TEMA = 2
 
 # Días que recuerda una historia para marcarla como "Sigue" en vez de "Nueva".
 DIAS_MEMORIA = 7
+
+# EMPRESAS QUE SIGUES. Para agregar una, escribe su nombre entre comillas y una coma.
+# El bot la busca en español e inglés todos los días y sube la prioridad de sus noticias.
+EMPRESAS_SEGUIDAS = [
+    "Nvidia", "Anthropic", "OpenAI", "Apple", "Microsoft", "Tesla", "Amazon", "Google",
+    "Meta", "Walmex", "Banorte", "Femsa", "Cemex", "América Móvil", "Grupo México",
+]
 
 # peso: qué tanto le importa al canal (1 a 3).
 # consultas: búsquedas en Google Noticias México (español).
@@ -29,6 +39,13 @@ TEMAS = {
         "nombre": "Tu dinero protegido", "peso": 3,
         "consultas": ["SOFIPO", "CNBV revoca autorización", "CONDUSEF alerta fraude", "Afore CONSAR", "IPAB ahorradores"],
         "angulo": "¿Tu dinero está protegido y qué puedes revisar hoy?",
+    },
+    "bolsa": {
+        "nombre": "Bolsa y empresas", "peso": 2.5,
+        "consultas": ["Wall Street hoy", "Nasdaq S&P 500", "salida a bolsa", "Bolsa Mexicana de Valores",
+                      "resultados trimestrales empresa", "acciones inteligencia artificial", "concurso mercantil empresa"],
+        "consultas_en": ["IPO", "stock market", "earnings report", "AI stocks bubble"],
+        "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
     },
     "peso": {
         "nombre": "Peso y dólar", "peso": 2.5,
@@ -62,11 +79,6 @@ TEMAS = {
         "consultas_en": ["Federal Reserve rates decision", "global economy recession"],
         "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
     },
-    "empresas": {
-        "nombre": "Empresas y bolsa", "peso": 1.5,
-        "consultas": ["Bolsa Mexicana BMV", "concurso mercantil empresa", "resultados trimestrales empresa mexicana"],
-        "angulo": "Historia de empresa: ¿quién gana y quién pierde?",
-    },
 }
 
 # Feeds directos de fuentes oficiales (RSS). Si alguno deja de funcionar, la página lo avisa.
@@ -79,13 +91,14 @@ FUENTES_OFICIALES = [
     "banco de méxico", "banxico", "inegi", "gob.mx", "gobierno de méxico", "cnbv", "condusef",
     "hacienda", "shcp", "sat", "consar", "ipab", "federal reserve", "reserva federal",
     "imf", "fmi", "banco mundial", "world bank", "sec.gov", "u.s. securities and exchange commission",
+    "bmv", "bolsa mexicana de valores",
 ]
 
 # Medios con buena trayectoria en economía: suben un poco la prioridad.
 FUENTES_CONFIABLES = [
     "el economista", "el financiero", "expansión", "reuters", "bloomberg", "bloomberg línea",
     "associated press", "afp", "forbes méxico", "animal político", "la jornada", "milenio",
-    "financial times", "the wall street journal", "cnbc", "the economist",
+    "financial times", "the wall street journal", "cnbc", "the economist", "barron's", "marketwatch",
 ]
 
 # Palabras que suelen anunciar una historia con tensión (y buen gancho).
@@ -96,15 +109,21 @@ PALABRAS_GANCHO = {
     "recorte": 1.0, "recorta": 1.0, "dispara": 1.0, "desploma": 1.0,
     "ahorradores": 1.0, "tu dinero": 1.0, "aguinaldo": 1.0, "crédito": 0.5,
     "tarjeta": 0.5, "impuesto": 0.5, "comisión": 0.5,
+    "salida a bolsa": 1.5, "ipo": 1.5, "valuación": 1.0, "valuation": 1.0, "burbuja": 1.0, "bubble": 1.0,
+    "plunge": 1.0, "soar": 1.0, "record": 0.5,
 }
 
 # Señales de que la historia toca a México directamente.
 PALABRAS_MEXICO = ["méxico", "mexicano", "mexicana", "banxico", "peso", "inegi", "sat ", "cdmx",
-                   "sheinbaum", "hacienda", "pemex", "cfe", "t-mec"]
+                   "sheinbaum", "hacienda", "pemex", "cfe", "t-mec", "bmv"]
 
-# Notas de rutina que inflan resultados (la cotización diaria del dólar, etc.). Bajan la prioridad.
+# Notas de rutina que inflan resultados. Bajan la prioridad (no desaparecen).
 RUIDO = ["precio del dólar hoy", "tipo de cambio hoy", "así amanece", "dólar hoy", "a cuánto está el dólar",
-         "horóscopo", "lotería", "clima hoy", "cuánto cuesta el dólar"]
+         "horóscopo", "lotería", "clima hoy", "cuánto cuesta el dólar",
+         "predicción del precio", "predicción de precio", "price prediction", "pronóstico del precio",
+         "mejores criptomonedas para invertir", "criptomonedas para invertir", "cuánto vale bitcoin hoy",
+         "precio de bitcoin hoy", "bitcoin hoy",
+         "stock to buy", "stocks to buy", "should you buy", "is it a buy", "acciones para comprar"]
 
 # Temas que suelen dar para video largo (si hay buena cobertura).
-TEMAS_LARGO = {"tasas", "inflacion", "proteccion", "finanzas_publicas", "comercio", "mundo", "cripto"}
+TEMAS_LARGO = {"tasas", "inflacion", "proteccion", "finanzas_publicas", "comercio", "mundo", "cripto", "bolsa"}
