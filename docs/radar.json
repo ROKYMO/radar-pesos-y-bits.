@@ -1,53 +1,1579 @@
 {
- "generado": "2026-11-21 14:00",
+ "generado": "2026-11-22 14:14",
  "ventana_horas": 48,
- "notas_leidas": 2,
+ "notas_leidas": 2173,
  "historias": [
   {
-   "titulo": "Federal Reserve announces College Fed Challenge winners",
-   "tema": "mundo",
-   "tema_nombre": "Economía mundial",
-   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
-   "puntos": 5.13,
-   "oficial": true,
-   "estado": "Nueva",
-   "desde": null,
+   "titulo": "Las acciones de Anthropic empezaron a cotizar en Wall Street: subieron 17% después de una salida récord a la bolsa",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Nvidia, Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 19.85,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-15",
    "fuentes": [
-    "Reserva Federal"
+    "Bitfinanzas",
+    "Bloomberg Línea",
+    "CNN en Español",
+    "EL PAÍS",
+    "El Boletín",
+    "El Confidencial",
+    "El Destape",
+    "El Economista",
+    "El Ecosistema Startup",
+    "Emprendedor | El medio líder de Emprendimiento y Negocios",
+    "Estrategias de Inversión",
+    "Forbes España",
+    "Foro3D",
+    "France 24",
+    "La Jornada",
+    "La Opinión",
+    "La Razón de México",
+    "La Vanguardia",
+    "LaRepublica.co",
+    "LatinUS",
+    "Merca2.es",
+    "Metro Puerto Rico",
+    "Noticias24hrs.com.ve",
+    "Reconquista Radios",
+    "Revista Mercado",
+    "Univision",
+    "Vietnam.vn",
+    "Zócalo - Monclova",
+    "vanguardia.com.mx",
+    "www.cartademexico.com"
    ],
    "formatos": [
-    "Short"
+    "Largo",
+    "Short",
+    "TikTok"
    ],
    "notas": [
     {
-     "titulo": "Federal Reserve announces College Fed Challenge winners",
-     "fuente": "Reserva Federal",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
-     "fecha": "20/11 15:15"
+     "titulo": "Nvidia se desploma en Wall Street: sus acciones cayeron 14% tras informe sobre investigación de la SEC",
+     "fuente": "Bloomberg Línea",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmNvZFExSzJNRzdTVlpIZGJnTGt2WTRId2VGaTlVbEdnYkdnQjhKbkJ5bXdQYmFHOHFxZVhiY245TVB3NWVQZ2tZTU9uYmFKN1NHMEZ3d0x5N21OaEMzYk5jZEd4WWFxYm5JWXhDNk01TVVUanI0ZU5PdnBzQ2ppZklRX2VwZ1dmWERXTDFKMDZhSjRpTVc2cHBpYXpEenJFTUR2bVhDRVozWXlNWlVzRTlaMDZSSVNSOHFVTUQtSVhjd21qUkgzMGU0QWNMaTFVSmdvcDRVSUVVSHFI0gHwAUFVX3lxTFBqS05UMGNpLW1IVFk3YkNMb3FTSmUwbmtkcUZNcG5hVnRWbWJrUTFlX3I2SGxXd1MxNERTZ2VRMEpmR1JpZ0hIdF92OXQxRzByMjVPRk5ZRXBHdGVTYlExM21wazF6YnJBQWdVeHB3bEZnT1dJVXA3VUhOXy1WM1lIMnY5ZkNsTHM5LU5xWlczWXE4cC13eUwzRjg0SzMwaTRUQXQ5OW5uOTdleXhGWFItWEdPZ3hyMkYzWmhsbHNYWnlERWxZNnNabWpvZ3BlbU5rRVlYUGlHZHlsY3NFVkJSX1pSZDNsUzVvay01U2NfeA?oc=5",
+     "fecha": "20/11 15:23"
+    },
+    {
+     "titulo": "Anthropic: claves para inversionistas ante su salida a Bolsa",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnFyU2o1VEt4X1pxNVY4WElRN1lRUG5PeW9NN2Ezak9LZTV0VmtaUlRDWlQ0TnBxSEE5V1J6V09kTlJ3a3dzV0hOSC14S2x3N0RsaDRiQWxHTTVxUEtXbEF0V0RsQnB5SEtabHEySHZuTEhEaE83a0pacTNHTU96WUJHWkkxcVUyOHJpSVJqOVc3cFNsd3o1LXVrbDFwMWxNM0pydERobC1iR2kxaDVramxySWpMLU3SAbwBQVVfeXFMTnA3Zk9fQmVMdGh3VUxqYzFhaV9YTHdOdjhCQTlZSllreXNOc3lqLV8wendWUDRVMHVBXzZuOXgwNkFCSy1ER0t4dHI2YVhvNDZUMlAyQVVac1NxRFE3LVd5UGZVZmlmVjV3ZEtzcE9fTUQ3Zi1qSlM0ano5T255dzBVeHYzTTROR0RQUWpuNEdQek1HbndReFJYVmRfX3lkcEhTSnMtc0lFbWVfaVNKY1pPR1YxOWRBTXh5VWo?oc=5",
+     "fecha": "20/11 17:00"
+    },
+    {
+     "titulo": "Tropiezo de Anthropic, tras debut en la bolsa, arrastra a mercados globales ante temores de burbuja en la IA",
+     "fuente": "La Jornada",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNzVVSnhZQU5idnloY194RW9sblA2dWwzWE1uUWJqQkh3dGpLQ090Q0x6WXU4NlJ1YllTZmxqam1CQlpfZjhGUy1tMmd0d2JVMGhwclVRaFdZdzJMdXY4R3JCdExfendPUWNqcjlFcFRtNEpGcG9meVRFamQzb3BLa2RqS2lTaF9tbjVMdzRtWXMtbHpGa3ZMb2JNUVR4OGExeGhJN19HdjNEbmNqOUpqb1NYU1dBR1ZaVGVnTnBXWUhSS3BH?oc=5",
+     "fecha": "20/11 18:54"
+    },
+    {
+     "titulo": "Peso mexicano y BMV retroceden ante desplome de acciones de IA en Wall Street",
+     "fuente": "La Jornada",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSXZ1OW9oaEppUkRHNTRPRS1PREhoWmlBZ0IyeGJzUWNnRnJIeHRrNnU3S2h0WFZJYS03SjJKOEhkb0tvX1Fha0NBbTRYOXQ1RklOS3FCa1FrZTdNT0E4bXFfbkF5M3lLRnJONWdrU1BpVmFycDlUSjEwaGpIeVhHb1dfaWdsUXNPUFVBRFNUUjVQV0JFX0Fhd0UybHV4YWpyRnIyaE8xckdWeVRMdkdqMjhwN2drTUxLUk0yYnRWbkRIQ0hSSGpFSjY5R2s?oc=5",
+     "fecha": "20/11 19:51"
+    },
+    {
+     "titulo": "Qué esperar de Anthropic tras protagonizar la mayor salida a bolsa de la historia",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc3NJMXZjM0FqSWRfZml1THMybWxrOTNnUWNmSkJQeWNkSWVHYzJ2WUJRdnZqVmVOZXpDRGk0VEo5NWRvQW95VEpwMnd2YWJKd1Q1d3UxbmdXWG40SENXNDdqeGc1OWdZQ0R1SUdaMzlZM29PbndXMVU3bWZ1VUJCQUtsZWpta0NUcmMzeWZQYVZhdGtYSWRRODRDOExYQjdsTWhNWm1lR2o1eGROV1l3dldaY0hYTlpwSTdSQXppUHBSSEx2REtCM3ZtUTRCdWFCa0s0bzR2Y0c0ak0tQ3ZoT3FEOHdTYzduQmJrTzllckRSZ9IB3AFBVV95cUxPNi1rTlpMVlBFX3NweEpRcE9CaHM3NWY2YTlpcjVQRUJFMzk1cUU5UjFvaWQ1bTAtXzlYRlkwcE1JRjFCYjFWRFFGYWF5Y2UxQVBLc2lwcWNqR09McXNua2ZPM1ZmbUx4dG4tRHROSVlmQTFlWERLbWcySG5DRFA0Zm5lSFpfNU5xaEpLLXhVU0RILVNtSmpCSG1aOVljX2tZYTNPWUtlNURuRTN5ZjdTQmtMU2hOZ0pkZjhWMm1ZOVBIWHpoQ3BkaXJHZ0pqakJSWU1sWkZFRTJxT0wx?oc=5",
+     "fecha": "21/11 23:05"
+    },
+    {
+     "titulo": "Los empleados de Anthropic se hacen millonarios con la salida a bolsa: cuánto ganan y cuándo venden",
+     "fuente": "Revista Mercado",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHpzcm9xbnlMMklCelZOVUFOLTB1aFlPUlVnMUl4dkZzVGM5RU5lNU50R3B1cE9lSmNwVmVLY0poMVJfS0xxcDdheXlOV25nd19tajFUdm9KMVlZVVV5cFkxdXVYel9qU1Zkb0xTYVN6VVpDa3VRcGlCQ21USVlrZzI5azVNVzQ2aXVydVJabktfU0FvbHhaQUdNR1A3UkJ0Sm9PQUZ3ZWd0SHY4?oc=5",
+     "fecha": "20/11 14:16"
+    },
+    {
+     "titulo": "¿Empleados que ahora son millonarios?: Claves sobre la jornada de debut en bolsa de Anthropic",
+     "fuente": "Univision",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbk56dlBrclFyZFRYTjBaWUsxT21LX0hlYXhmUnJ4b2J5UUtIYkJsQnozTmxsSzJIWG5ORGVsOUdweERobVVsSHIzTjRjSmNCWTBtcjhNTVRxVUJ2YXBZa3hLZlZpQmgwUGlwQXFOX1NTLU5ZTXBSaWtuMTN0RGZEMVBQOWctN2N2dmNaSE5oQVNSU2YwVEw4cnRCaTUtZWttRzF0aU8wVV81MzdPZF9jbkFPSUVXbUxsVFdDMjZBdXEwOXVHVV9qM1RyQQ?oc=5",
+     "fecha": "20/11 14:26"
+    },
+    {
+     "titulo": "Anthropic eleva a 93 mil 500 millones de dólares su salida a bolsa tras la sobreasignación",
+     "fuente": "vanguardia.com.mx",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNFlCdjNfM1FQZnBSdWVWQVQ4ZHFLOW9OQmU5SV9DNEtjTGJPeWZ0TzJKT0VReTBqSzBMWkpsV2xIcVV2UV9WTjdWdEpyWlFJNXVucHhmQzUwbDhQTlo4RVFzRlhvbUhCMWxmUkFDaTBLNW01a3lQY1BWakZkYkdqdVV1XzZpanI3aHlqWExyY2Q4MXpQN0V5MWNMNzAtcW5MVzJvSFJQcWpWS1c0TUlqcHRNaXh3WUh5aXk2NGZpTVhad1cwQXNQWGVndjVpLUU?oc=5",
+     "fecha": "20/11 14:35"
     }
    ]
   },
   {
-   "titulo": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-   "tema": "mundo",
-   "tema_nombre": "Economía mundial",
-   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
-   "puntos": 4.48,
-   "oficial": true,
+   "titulo": "NFL en México: drones, helicóptero y 5,000 policías blindan el 49ers vs. Vikings en el Estadio Banorte",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Banorte",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 16.3,
+   "oficial": false,
    "estado": "Nueva",
    "desde": null,
    "fuentes": [
-    "Reserva Federal"
+    "24-horas",
+    "AS México",
+    "El Informador",
+    "Expansión Política",
+    "Infobae",
+    "N+",
+    "TV Azteca",
+    "https://opinionciudadana.com.mx/",
+    "sdpnoticias"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "NFL en México: drones, helicóptero y 5,000 policías blindan el 49ers vs. Vikings en el Estadio Banorte",
+     "fuente": "Expansión Política",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLVdsSWlIY3lYdktLTVpzcXVMdGR3cl9ZeTJuLWJqWkEwZGVQeGQ0aHRZT3dOSWZ4WWV0WnhVcENDUnZsX3hkSEk5WE9Yak94MUswOEQ5cWxFX0hzY1Y3NHI4d0dJYWRCUjVTbjdYbEZJNXdZWXA0MnBwZG1ZM3RkZ2FBYmRZaEJ4REpnUV9XbDgxYTjSAaABQVVfeXFMUHFCUjJUQ0tReXVkempxRXZjR1BSR3lMX3QyaFE2cWNSemdybV8xOGZ3YXRrT3YxVVprM0FnVGw4RlR0bDZRcW5RM3g3Zi1IdUlEWGhyYzJDcFVWdmdMOFh6QlJSWlBSZXk4TXgxREk4UzUzRW15eDA1Rm5HR2pGUDViS01Zc29tbm9vVGdmVVN2WGMydk1lb01rbDZXYTJicw?oc=5",
+     "fecha": "22/11 12:45"
+    },
+    {
+     "titulo": "NFL México 2026: Bolsas permitidas y medidas para entrar al Estadio Banorte al juego Vikings vs 49ers",
+     "fuente": "TV Azteca",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ24xcmppSDY0SHBBdWFBc1k1b3YtQWg2ZEtfQVdtbVpOSXJkWmpsejRQSGpYbDl1YVpYZWZINWVNWDlobTEwQWNnVGM5WmM3aUZnLXNHY3J0OTNSNE1UbkNGUi1tLU1HUWF4RUlLNDVXWVF6dTFJbGNmY3BnYUZselhVUWszbEFaS2djSXZDSWl1RUxWbFZWd0V5NjltdGR4Y3hfNVJZRXdyQWd6bmlLblZFenZqLXBHSFZQUzBYS1pLQ0Y0N1MwekN1VHVxd0JianB4NFoxdVlaVGdoVTl1N3lQdml4MTBzZFNtXw?oc=5",
+     "fecha": "20/11 18:29"
+    },
+    {
+     "titulo": "La artista que cantará el Himno Nacional en el 49ers vs Vikings de la NFL en México",
+     "fuente": "El Informador",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ0syWmllU2JpSG43RXhwXy1BNFJCa3kzS2J3azB5LXV4YmFoOTZLS3BvTUJDYUhHMFZPUXlHWFpTM2djOFBTa2VjaDFDTDlmaUVQTzVsdmdMQ1IwSm1JcEgzXzBDQkhqMFU0UXc1eW50MWFUdC1MRGk0YWthdUVnbUNiMVN4VlV0M1RoZTJBaF9xcUUzWVc2MmptVUs0OXhYWFo3UTFxcVBuaEwzZWF5b3g1RmRiVHY5TU5rbUFrVVNRRXFwSnQ2a3cyOXoyYmhhbFdV0gHYAUFVX3lxTE53UFlXdVZXakZQOGhIdU5yNkRaZnZQLUNDVVpFUzZxM0VuRmtvWmEzOGREMjBtS1dGaW9qNHE1bmpfcHZWeF8tWHBwQVJWYzdaWnRvT0toZ2dnYUNmYXlOWTI3aF9pWDh5bUpwY3hmbWhMMUZmVGJ4MHZCdVB0VFoya0JtXzVJdWQ4WmhfNldPRjBubFZqY3VWTFo0eFpaLVl1eUxBYlZLaTBoVmdEMUZDZmRrYXBCeUdGc0xrRWpTZTY1ZlB2ZUVZR21mUzg2bEd0YUhrVm04Zg?oc=5",
+     "fecha": "20/11 19:22"
+    },
+    {
+     "titulo": "Comisionado de la NFL alaba al estadio “Banorte”.",
+     "fuente": "https://opinionciudadana.com.mx/",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHV1ZHRhZm9zUkp3akJtTFc5NllEWEJfaU14M2hCb1Ywek9QWFVPdllHeG5UaVdmdHRTU2JnM2FiMFNKSk5YUFRUY084bGhLTWVSaW1mcHNhNTZfUmJHOHd4dmRvLUFfN3RBVHF5V1JGY2dFMVhydzc1QXpnMVdEVEhmOHVXSGYwQnloTjgtX0x1ek9CbEdiUGNKbFJQTHBtOHhES0RfQXBvLVVkcE5CNWtn?oc=5",
+     "fecha": "21/11 08:44"
+    },
+    {
+     "titulo": "49ers vs Vikings en México: Cómo llegar al Estadio Banorte y qué tipo de bolsas estarán permitidas",
+     "fuente": "24-horas",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTm1McDI4UUd2LUJ2ejZMWG9sZ0NtZkJLY0lpd3VqVlJGb3hpSFZtdWlDUnhhMUhtNFVCQ2ZLUVBvOUNNeEIyV2FRamJ3WTRPUVNWTnhaenk1S21qMW9VS0VCZ3k0YkFkYlpER0RkY0RGcng2eFFTTGhPSi1YOFVPVGVUb2lrMGxLZ0NubmhPNA?oc=5",
+     "fecha": "21/11 11:42"
+    },
+    {
+     "titulo": "Lo que dicen los momios para el partido entre 49ers vs Vikings en el Estadio Banorte",
+     "fuente": "AS México",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWF2bnVERzBWRUR5cEhIUEIxUW13VUZvWWhYdmJzdWRyQmRPak1jY3Y0RG5kNF9TNzJKOGYzb2tDX1g0LTVRYXQxdkcxdWUyZWN5QjVYVlltdkl6YTBuVFFKeUwtUHBLRmtqR2l3NmYxWlFuLXNhM1p2bEpwWGdMRXpZWFlpWnhWaEtmdmR1aFc2VzlMS0hmMG95SVFMakRXNlQ5bU5OcG1aTWZ4c2RsLTZySU5jakZoOXpVcWRrOHdiSGRjOUYyazlwNFZSemJiZmfSAdIBQVVfeXFMUC1hdm51REcwVkVEeXBISFBCMVFtd1VGb1loWHZic3VkckJkT2pNY2N2NERuZDRfUzcySjhmM29rQ19YNC01UWF0MXZHMXVlMmVjeUI1WFZZbXZJemEwblRRSnlMLVBwS0ZrakdpdzZmMVpRbi1zYTNadmxKcFhnTEV6WVhZaVp4VmhLZnZkdWhXNlc5TEtIZjBveUlRTGpEVzZUOW1OTnBtWk1meHNkbC02cklOY2pGaDl6VXFkazh3YkhkYzlGMms5cDRWUnpiYmZn?oc=5",
+     "fecha": "21/11 17:10"
+    },
+    {
+     "titulo": "Despliegan Más de 3 Mil Policías por Partido 49ers vs Vikings en CDMX: Alternativas Viales",
+     "fuente": "N+",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQekNlMkQxYkl0RFQ1dHFoNE5MeVg1YXZfY05vZTFhYzJhU2p2bGI4bHMtTkNIYlZnRGRLLWh6bHhIUE9pdnhJSmFQYWlVTHdrUWhWRDBqdGhiZmlsdW1xUjZvaDZ5REh5dFFQeVFIOTVNYU9LaE1GT1pwb05xcFB1bjl3OEkzSHJFXzBSUlVtdXNBeGhJekUxVXluNzBCdG1jZjJFcmNKV0prWktNVkZvSHZXQzdkWFFHeFRzU0FNLXFrMUNYWkE2aXhMZjZ2elUxaHhaMzBDaw?oc=5",
+     "fecha": "21/11 18:15"
+    },
+    {
+     "titulo": "Vikings vs 49ers: Hora y canal para ver el partido de la NFL en México desde el Estadio Banorte",
+     "fuente": "sdpnoticias",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdVZNdFpsbEVvR05nbmI5dnlXZEpqT2FfcUFyYnlzNHkzWnV3clBtQUZXc2paTkZMd2RjMnNIaVpmNjcya2l5c3hqbDJROWhsVHB0NHhnTlhDTTZmbVV0eDlEcVR3dzlPV1A1Yk1ydWExem4yelpCNUh0eGFUYWhtUUc0aHM2LVJLalRCUTlHTjNXR3BwZEF1eGdvVGFoemt2b2JGTDlCb1lMMU5xV1JTOVg2TnJvNWpGYXpvM19XcWt0M3ZjNGczLTVJS3o?oc=5",
+     "fecha": "21/11 19:00"
+    }
+   ]
+  },
+  {
+   "titulo": "Salario mínimo 2027: expertos revelan por qué el aumento no debería superar el 7 %",
+   "tema": "crecimiento",
+   "tema_nombre": "Economía y empleo",
+   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
+   "puntos": 15.94,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-16",
+   "fuentes": [
+    "Blu Radio",
+    "Cadena Politica",
+    "Candela",
+    "ContraRéplica",
+    "Criterio Hidalgo",
+    "Cuestiones Laborales",
+    "Debate",
+    "Diario CAMBIO22",
+    "Diario digital Nueva Tribuna",
+    "El Economista",
+    "El Español",
+    "El Heraldo de México",
+    "El Imparcial",
+    "El Sol de México",
+    "El Tiempo",
+    "Estrella Digital Colombia",
+    "Hassan KOHEN",
+    "IFM Noticias",
+    "Infobae",
+    "La FM",
+    "Mi bolsillo",
+    "Milenio",
+    "Misión Política",
+    "Nuestras Noticias Chihuahua",
+    "Oro Noticias",
+    "Portafolio.co",
+    "Página Central",
+    "Quadratín Michoacán",
+    "RED+ Noticias",
+    "Radio Fórmula",
+    "Revista Semana",
+    "Tribuna Económica",
+    "Vibra",
+    "Vietnam.vn",
+    "Yahoo",
+    "diario21.com.mx",
+    "laparadoja.com.mx"
    ],
    "formatos": [
     "Short"
    ],
    "notas": [
     {
-     "titulo": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
-     "fuente": "Reserva Federal",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
-     "fecha": "20/11 09:00"
+     "titulo": "Sector obrero exige alza de 15% al salario mínimo para 2027 y pide eliminar el MIR",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0pPcVZmMkwyU0hkdk92ZzdPcXNwRlF0MWdmaTNhWDdRWGNwM0cySl95dG8wWUhlMVpocFFTckFIWVcwZlNXSld6MkRtNGNQelNLRThESXQ2aHkzcHJOTUJadVU4bjNNUkFEUzZ1ZzFXUE9JOWtrNkkxdmlKVjhkdVJIVkNqWjZncE5veVBMTmJVaU1DSnhLR0plOHV5Ml9qV1BrVHVqZzFvenJTc0JnbVVGbmpKVHliMmQ0WmQzZmRGamRadGdXckVtMmJRUdIB0wFBVV95cUxPQTRPSlFfSDJpVlZVd0JHY0pfY29kQ0VUMFFhR2gzNXpnQjFVdnJaVENsZE56aXhLcmd3VEhadFB6RjVoOHNmRnJqSWNVTUdiOWw1czNqa0RDa2VzSURJdzhEeFRhMk44YXBNNWFMMDBCYnVNdl9aeFlEZzR1TGdXSThJWTlXc3VHSjA5SnpkYkpQREZVcVlpOG92M2JCbi02bmRXbEZJZ2dNaF9MM2J3ZF9RSXdGY2ZUT0p1MTRCSTlUMnVVWkZjcjF4dUY1blFaT1hj?oc=5",
+     "fecha": "20/11 18:02"
+    },
+    {
+     "titulo": "Aumento al salario mínimo en 2027 podría poner empleos en riesgo",
+     "fuente": "Milenio",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVWVhZDZLQ21vX3RqZ2YwQnQ4bzBsc09VR2U4LWdMY1R3eXd2Y2Vpd19DYkJrNUZPLU8ySVI1dHFLczczeWxxOC1oM19ITm42aE5jMERIeXpRRk5kSHhCelJVa2JXd09YUTRmRlNGbUNscTY0TS1EbUd2NzJNWlFfbmNRYlAzMXVhc18zUWQtTGNfRmxPNUw0c2U5ZkRPNVZxRjQ5cW93VXdFZzBwX0tKSl9DTjVzc2hoMzdsaUhNMjZxWmkyN2lNZ9IByAFBVV95cUxPMTI2NHRjWUs1amMxRWYxMm1DVTd2dElnX1hsUEd0c0N3bU14RVRNTzQ2UXk2dmQ2V2g4c1dYRGNqWVIxbTV3VWk2WExWUVB3SnlKbjVucTdnV2VPaEJJMzFIWVNyS3VFT3V2eUt2YlNVaXdETXNFMWJWVlhQOHBEc1hFXzY3MDg2b3BYWnFzdmJOOWxELUxxdllKN2ZZSVBMZjd6Y3RNRHBCRl9iVjlxd2tWODRKOElsQm16cHZaX2E3U1FpV3k4Vw?oc=5",
+     "fecha": "21/11 14:50"
+    },
+    {
+     "titulo": "Explicador: ¿Cómo se determina el aumento del salario mínimo en México?",
+     "fuente": "El Economista",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ0FxT003bkR2bUVENFRJMGpIRXRNRnBaT080ZkR6Vk9qczVDQmRvWmJUaDdJREZ3QmUzcDBIQWswTHNneTJ5UzN6bnZxSlpDUXEyMnJQdUlocVhHaU95Q0lURTJMbWJDRVNkTldRcWNEdFo1SUhEM19EdktBLThzYkFnSDRUa1F6NDlRUjJXWFQ4YXh3T1AySG93MmJOVWRnb2ZZQ0tKRk1kMnJBc3lvRzJkM1LSAbQBQVVfeXFMTWdBcU9NN25Edm1FRDRUSTBqSEV0TUZwWk9PNGZEelZPanM1Q0Jkb1piVGg3SURGd0JlM3AwSEFrMExzZ3kyeVMzem52cUpaQ1FxMjJyUHVJaHFYR2lPeUNJVEUyTG1iQ0VTZE5XUXFjRHRaNUlIRDNfRHZLQS04c2JBZ0g0VGtRejQ5UVIyV1hUOGF4d09QMkhvdzJiTlVkZ29mWUNLSkZNZDJyQXN5b0cyZDNS?oc=5",
+     "fecha": "21/11 15:49"
+    },
+    {
+     "titulo": "Salario mínimo 2027: empresarios y sindicatos discrepan; proponen ingresos de hasta 11 mil 300 pesos mensuales",
+     "fuente": "Misión Política",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONHBQOUxKbk82Y3ZSSTg1LWpvM0NDa09xdjdBZExFZXNMWXk2MXYwYUhvXzYxQmNyZFMyeTdKZUt4WmFNeG5oWXhyRGQ2M3RsXzZWbV9rcDlBQzNVVGs5UDE1cUNiTW5waVhVVXBwWURlX2ZrVTN2ZDhTX01TMjBVZ3JQZk1vS2k4elRwR1NUdUFHRW1YT0F4dzh6WEQ4aVMzbXRmT2VVZlNJQW44Y2RLY0xaX2Z2R1hOREZuYmdiVERTYldnODVkYUVoUmlxdkFwdnByRm1GQVhrNS15Y0hwTg?oc=5",
+     "fecha": "20/11 15:07"
+    },
+    {
+     "titulo": "Salario mínimo y jornada laboral cambiarán en 2027: así puedes denunciar incumplimientos",
+     "fuente": "Página Central",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSDEwcVBSUWkzQ3RpODdYSVR2MDZqeFVMazB5Ni1Bc2g3MTh4aXhfM3pnUEVWaVIzVFE4UWs1V1ZIVWJaS192T2dTMjhycGxpb2xSOHZWVGJPM281SjlkeDVCclV1Y3hXSGE5djBidUdaMzZtYTNOVkxGck1iLWJ2azQ1clZQaEp0WFFLZE5JQVJTb0FaUVhXOHE1ekhPczI0d1VaNms5ZUtVMDBfWk9DVDlTMmx4YWx6dmZ1cEFJSF9JT2hwZ3VmQV9ndjFwZGJsMTRoYUV2NURFblhpdTVhTEpGVWRRTE3SAewBQVVfeXFMTTZSUllWa0VJSS1DNzRiQ3JKRThQMWo5SHNmRFYwZnZWRTMzLXh5b2V0TS05NjVqNG5DQlJBR0tSMXlVbmdUMEtxdmdRNThRcmNRZkRraXBibllLcEIxeDF6YkJPaHFqdmE3NENrbnl1azRRWjJCaTZ1d0hJckZsanNfZFozRjVHd2dUUTkwTjFoaFJmbWl1b29Xc1NtZ0V5S04xcmxBTE9DSG03N2hQNkduWGpSenZWRnkwZ1ZpZHp4bU1uSk90R1Rta01yMXZDLU9USmJSVlYzNF9nYWNWMjQ2djJiQjVvUHNvZ3o?oc=5",
+     "fecha": "20/11 15:29"
+    },
+    {
+     "titulo": "Las propuestas del salario mínimo para 2027 se ubican entre 10,040 y 11,301 pesos mensuales en México mientras el aumento de 12% hasta 10,726 pesos toma ventaja antes de la decisión final de la Conasami",
+     "fuente": "El Imparcial",
+     "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNNVZYd21pbFZydUQ0VllMVjZZeldHZTRqV3dINjBuOG1pbTlEd1JmNnNTdU81NUxVWEdhMzJKcmNLQm1nNXpXNm5pSk5WZExvbnF3a1NtbDVHTWFGZkhON2ctc3BseGs3SURuNUdIVFotdG0tTzNkUlhKek5nQnZiX1pfYWRhRlRLQlNBWDNhNlR6TDlZX2pFbmJqejRDbzhDNnZXc1RqX0lLenY2TjJYamI2VHJpOW1oZklRMi1WWkM2MG1vMnBFX2RHRldRSG8wOFFkNFZjcWlYQ3NzNDJZM2ktQkFndklGcE9yb1dmZ3NyNXoyZV9sV3Nsd3RGb2ZjZzRoQnU5cTNZWUIzVUx2TXVRaUVJYlpwY2ltSWhBZUE0aktKZjIwVU1FMFBYRXh2bDFvazRPVmpocVhhWk9vTUQ5U0xlY0ZkS0thaVhFWjd5MVIzakwycXo5c0JaRkwzSnNR0gH-AkFVX3lxTFBtaktlU2xmcThWdmhZejE5SmdtODNfYl9xdTJsbXp1aW1oc0trNVp1U0NlVUtlWFprYmt2M0NQNUNzTWQ5Vlc5RDRra2h3UEczSmV2bk5xeVdrN3pBcVNTQzdfTWNLelJlMF95bl9hX1p0azQxRlZmNlNZTHVTVzNqdzR6ak1qUm5qOGtMQ1kxMUEteVQtSk1helJXYnV3YVRjZHg2TjZsZUZ5VEtYNi1zVHpnRnFadldLOHBsMGg4MEtKZE1YUkVKQjNvNDU0RnpUWUhwSjRYSnFDMnB3S2xYbTlZM21tSVpIVVJiOVZLRXJjbFVPcUVUbUZjVTNOTDByR1Q2WWJCOVpBME5xV2tVYkg2bEcxcVFaOXM1SFlSdEY0QjRnLWpoeEl5TDBEdWRRbDk1RWpuTXc2b0JUeHd4UHhjeXlJSm5IY3NzOFJsS3lzcDhfZHJSdl9SYk9UYzAtMGowd1FjMTNSWTdPVk9lbWs4ckdyTlFRczQ5VkE?oc=5",
+     "fecha": "20/11 16:11"
+    },
+    {
+     "titulo": "Conasami prevé alza de hasta 15% al salario mínimo en 2027 y evalúa el ajuste de jornada laboral",
+     "fuente": "Mi bolsillo",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ1RXM21objlXZi1OV2RialdtelUwdW4tMFpHRFNsZk90NG5EaDBxU1p1a2tibjRaVzZkOXFzdHlPdkNtcVp2VnFMSmlBUmlDSlJ4VDctajhsam90U1FvdVNYN1lqSkdzYzh5UEhkRGs2TTJuZk5jX1JwRnhvMHFacG04YjBfZjdWZVVuVGJLeHh0bGhPNkZ1WktsZElkbXVZR0pOOUszdUMwZ1pFZ1g2VElLUUxscUt3QjFLQTdiZW92NEJrZmF1VHlhek5jekpTUkZJaWo2YzZkNXgzd1dDOWdR?oc=5",
+     "fecha": "20/11 16:23"
+    },
+    {
+     "titulo": "Coparmex plantea ajustar el salario mínimo ante los costos de 2027",
+     "fuente": "Debate",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTA5VHh4XzdlbGtRMko4N2YzUXZ4eFJNR0hvRnZSSk15MTAwd092Sm1VM0pCVVZSbjNYNE1RUUp2dU13Mjh4YTFQcWtUMW12QlhObmJjeXdvY0FlWFR2Ynk2QnlSdl9KcDl1blZBMWtsSXcwSDFmLVFMVWRoUVI3Q0I0VnY3MlZYQXl6X2U4OWhXUFh0dTVDajM3UGtleDV6YkUydENEa0hhSk5DZktKVWZUV1VFSnRXNU1DZkthRVB0ZWw0UkE?oc=5",
+     "fecha": "20/11 16:54"
+    }
+   ]
+  },
+  {
+   "titulo": "Anthropic’s Record-Breaking IPO Comes With a $1 Trillion Financial Burden Wall Street Can’t Ignore",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Nvidia, Anthropic, OpenAI",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 15.48,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-19",
+   "fuentes": [
+    "BigGo Finance",
+    "CNBC",
+    "Crypto Briefing",
+    "Daily Tribune",
+    "El Ecosistema Startup",
+    "Hokanews",
+    "Morningstar",
+    "StoneX",
+    "The Korea Herald",
+    "The Weekly Times",
+    "Traders Union",
+    "WSJ",
+    "Yahoo Finance"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+     "fuente": "CNBC",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5",
+     "fecha": "21/11 07:00"
+    },
+    {
+     "titulo": "Anthropic cae 6% tras su IPO récord y sacude a las bolsas",
+     "fuente": "El Ecosistema Startup",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSFhGWUk1Z0Jud3J2Q3NfRkhnbXlsdnRkUTc1OVBDa2FRbXV2bUNqekhMWW9ZaTBhNzN2RnFxR3Vrel9paV9XdGxmcEhYZmdzSV9GaU1ZNTFaRW9MdHBCcm52T0kzMldxazJQeUVCY1RmaWV2VWNKN0oyM0xFaTdsbXMyTVoxZk9NZm8weE5jSks?oc=5",
+     "fecha": "20/11 15:24"
+    },
+    {
+     "titulo": "Anthropic raises record $81B in IPO, shares surge",
+     "fuente": "Daily Tribune",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmRZdTVvNVZfaHQ0N0NvVWNXYUJZdWc4X2VETFRDYzlnaFZQVzRfdU51cWtqanFOVkNZRkFpVW5JZ1g2c1kzZEF2UjRMN2NlaEN3QWVKaTFkejhCTHNqaVUwbHhWS2FBbndVc0hoWDFaTUMxMzNPbW5wOW1FRGh3UFlld2ZJQS1P?oc=5",
+     "fecha": "20/11 16:40"
+    },
+    {
+     "titulo": "Anthropic’s IPO Turmoil Caps $4 Trillion AI Wipeout on Wall Street",
+     "fuente": "WSJ",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlRWTmU1NlRGMjRnb2JGWUVrSTk4V3dTRWgyb2hlSXF6Y0FtVi1tREhvSUFPby1IVkphYVlXdGtpR2pvYmltRnpaUkI3RFBMeG05aExMWUs4Yi1rb05oTlBvNWpRUFhSNWc2NlRER205T1QzZU5PbVcwaTJEU1hpM1M2ZDFtd2RNamMtS2trTGtjWThBTXZ3MFJ6bEYxTTdxMmExQ1cwRXVTYk9OOENzTA?oc=5",
+     "fecha": "20/11 17:36"
+    },
+    {
+     "titulo": "Anthropic IPO success boosts hopes for OpenAI listing",
+     "fuente": "The Korea Herald",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jOWlobWR3OXFfRG01aFdidF9NREotQ3V2eThQdXFla3lScExpZVViZUI5V3BWRHI5V0ZXTHNYd3ItRl9Sejd6VmhMRDJveVk2VzAyY3E3WQ?oc=5",
+     "fecha": "21/11 02:00"
+    },
+    {
+     "titulo": "Investor Focus: Anthropic’s Record-Breaking IPO, Nvidia’s Earnings, and an Undervalued UK Defense Stock",
+     "fuente": "Morningstar",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa3U2SjhqNnZ3MG5UXzZIcmZGWjNXWjZHZks1SjRKYUF6enYxeWhxMml1SV9qTU50UVhFUExNQlRyeGlIdVRmaEN4ZEtjbkxuSXB5ZnhsLU40WEJpYTB6UVBIMzNhLW81aU5zemo1Q2l6RkJ6MHQwUFdTS3hRQ3JNXzJaS2Y3MHplYlZFdlRLYm13emY5UzluMDVrQlFQdVkz?oc=5",
+     "fecha": "21/11 02:16"
+    },
+    {
+     "titulo": "Anthropic Raises $81.3 Billion in Record IPO as OpenAI Faces Growing Pressure Ahead of Listing",
+     "fuente": "Hokanews",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWdVZEhucUI0RjF1ZklhbEQ1NzFVMTE4MU9LdDNJSGpZMldIeHVESGdUMzJjdW1tbk56ellyRTdmNmp6cGlRMkVubjhrSTE4akUxUW9zVnJoTFRBRWJXUlpoUzZTV1g0M21VUVI2cy04TjZRcUgwelZhM0xrQ2tVSEZiclUxOUpPSGZfenJ4SkxvQQ?oc=5",
+     "fecha": "21/11 21:21"
+    },
+    {
+     "titulo": "Anthropic's $93.5 Billion IPO Marks Record Debut, Then US Stocks Plunge; Nasdaq Drops 5.28% in a Single Day, Erasing Year-to-Date Gains",
+     "fuente": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YOXRQRW53T0VXZG5jNVpIb1RjUkZ6VlhIeWVhMC1IUEFOMXc2ME5ydHZZcWJuRTZCSXlBdTVscGQ0WmJ1dFVNVFlJa2VES1hCNXFBNzdMZFdmaVNoMW1lRGgxc0xsanNFWjNVTXhNVHZjbm5TVXc?oc=5",
+     "fecha": "22/11 00:25"
+    }
+   ]
+  },
+  {
+   "titulo": "ASX to slip as US tech falls push S&P 500, Dow also to ‘correction’",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Nvidia",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 14.76,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-18",
+   "fuentes": [
+    "Ambito",
+    "Benzinga",
+    "Bloomberg Línea",
+    "Bloomberg.com",
+    "CriptoTendencia",
+    "Crypto Briefing",
+    "Finanzas Digital",
+    "Investing.com España",
+    "MarketScreener España",
+    "Revista Economía",
+    "Scripps News",
+    "The Australian",
+    "Univision",
+    "Yahoo Finance",
+    "Yardeni QuickTakes"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Wall Street sufre ola de ventas: S&P 500 y Dow Jones entran en corrección y Nasdaq se desploma",
+     "fuente": "Bloomberg Línea",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUJ3RTJKdmFlNVBoS2ZoWmxhWlltQ041S01XSHVPMzUwTnJpUl9NX21BMmZycGpEU2tuU3hqMEptNmFJaW5kQmhDUTktaUxxWi1IR3hhbzgtVVJaUHdBcWxNZnFkd05JaGhfM3ctMkFxbDItS0hncVFjVTc4Yk51QU5xSEoyNnF3MWJQeWQtaU5XM2Y0WUx6Z0VEM1NHclJBdTNYc0hiVmJBXy13VE1yYkF1SmlzMXBhSFRzaERCUmJXWlo5R2dvalZmc9IB3wFBVV95cUxNTDhFT3draE5xNkZTdDJITVdxcGtlNGVNV1c5WTgxRXh4Zl9UdUN6ZmNMeXNOU3RFWm9JMmVpQ3g3eHBtTDNKaWpEcERLLXFUMVVIbHlKWTVwa0RrRWpNWTlMODdqOHBVbG1mYm44WmtuTnJrQm9FNWIzdFhEbWJRaTZCMFRoSmNvUHZaRllCRllTUE9oNnRqeFBFd2pycF92d2J0NS1zQzBEd0FhYlM5S09BMGxPZG9YTGxtYlZFbUVuYVNBTHNUSUtqd0MxOHdMaVhhcWFDYzR1by1mS2N3?oc=5",
+     "fecha": "20/11 15:06"
+    },
+    {
+     "titulo": "Yardeni Cuts S&P 500 Target Again, Says Bear Market Is Unlikely",
+     "fuente": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
+     "fecha": "22/11 09:18"
+    },
+    {
+     "titulo": "Wall Street se hunde por la caída de las acciones tecnológicas; el S&P 500 entra en corrección",
+     "fuente": "Univision",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSDM1Y2tJVXF1dXpLMUpwa2NyWGFyZjRCbFdvSjZuWHhkWExHTjdFTkRXYTh6RjJzSGlFUi1NRk5rSmdFWFVUUWwwZndqWDl1MllOTk1EMmpNLU5KT09ZOE9tejBhdFMtZnB2UXhWNHhuWHNZakdXVm9aX0ZUN2tzWGJzU1lKcWdjYU94RE1iVEhyQ2V2cXFjTzA2OVBaMzBWR2Rha1ppY0cxcDdjem1mZ0NxNnZiN0psOERtSmpwZGhzd0FDRXc?oc=5",
+     "fecha": "20/11 14:56"
+    },
+    {
+     "titulo": "La IA hunde a Wall Street y lleva al S&P 500 a corrección",
+     "fuente": "Finanzas Digital",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb2hpc3F6RHMyRDgtQVFmcUNSOEZhcnAybXdvXzBDVldpelFJeHhwZ3c0ZzlQcjItUTJwcmRiN0hldzhMRFJOUWxFT0dpRDlpSlNSTlVFRldySlBJdGRKeFp2YzZBbGJmX0lqZk1BdkhETVF4WnVPNllCNzAyNUpzUENR?oc=5",
+     "fecha": "20/11 15:38"
+    },
+    {
+     "titulo": "Fuerte desplome de Nvidia lleva al S&P 500 a corrección; Nasdaq borra alza de 2026",
+     "fuente": "Investing.com España",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGZwd2lwVjU0NG95YVNBeWFVQ1FMTXc2U1lKSVFsUXBWN1h1cDVjYzhQdkxBZTNvSlczZENwVDl0SjdXNkkwX1FZTnl0Mjh2OVo3NzFEWlM1djF2WUJtSUdSdnFBZlIwdE5PZE9uMmUwV2M1N3RYb1BzV09VT3JIMmJmZ05OTWVXUkF3blBwa3E5SWZGMmdlNFBGWS15cERiREZuZWVhcnlrM2ZSaFF5eVBzV0lOdGxzX2FrZkZIZFRMMXhuVk5VMF9ZWU9TNkpTN0E?oc=5",
+     "fecha": "20/11 15:40"
+    },
+    {
+     "titulo": "Bolsas mundiales profundizan sus caídas y el S&P 500 entra en corrección técnica",
+     "fuente": "Revista Economía",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUNTLXBrSFdLMk1xc2RvZTE0SFdBYU5hbk9YNG1hcmxpd1hsakNpZUVRSWlUTG1uZ1B5WDZRNWRqcXNNc1I3TlNuNDFGOXNZUmhtSkthZ0J5Q24yaHREUUQ5OG85NlFKc2F0eUgzUS12bC1QRzF0aUNjSWdQUHE2M3pjLVp5Z0M3YllPa1VIdkp0WlVPZ0M4OGx3WjhXZ0VCV0thdkx6YUR1c2pHQWw4RnJn?oc=5",
+     "fecha": "20/11 15:50"
+    },
+    {
+     "titulo": "La preocupación por la inteligencia artificial arrastra al S&P 500 a terreno de corrección y el Nasdaq entra en pérdidas anuales",
+     "fuente": "MarketScreener España",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOWV0Q2RHQy1tVmtnV3lKX1VoaFVLd2F0YV8wUEJwc1NLdlhFb21EOUhzVXVjb2FoVExhSlczZy10aDRNMUVSYTZ2eXdnaFQ1cVB3dGlOMWphd3BFa3N4bHVuekptUFAxMDF1enVqQlYwaXk3YnB1V0c2VUtyZTlpMm5fRjA4b3ZtbnllZmxkU0d3YzVhTEM0VnVrX0RadGdJWmR5ZTh2amJGNHczVm5zWHppQXJvNk9UeTZhd2tveXdtMzNINEJnY2ZBd0NOMW5oYkFjNVJOcmNtSGNJTFRHaXMzS0ZSQ1NHVDNQNQ?oc=5",
+     "fecha": "20/11 16:16"
+    },
+    {
+     "titulo": "Derrumbe en Wall Street: Nasdaq se hundió 5,2%, mientras S&P 500 y Dow Jones entraron en zona de corrección",
+     "fuente": "Ambito",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcWw1N2lZa3VrTmZSakEzSXpQdHpGZm5sZVdKMzh4U3duQ05KYmdYY3MzSGtzVkhIY1h4N2ZQampBMTByVG1pOEozWTQyVzBvY00tTWt5ZWRLaWRkaElLUy03UGtHWC1kQUdiRVNBUEdzSkk0ODRmZU9PdEw4WURnR0JqTTNSZUUzVURlTnFMMDNRdlpXZXJpNm9keWNWQ2lKNW1jZ3VReE55Vno2VjNJLVlNVGlOekdWZWk4VUViNNIBxAFBVV95cUxOcGF2Q1V2SzE3bEFTQ1hIcXcwQ3J1WnJPWGUyOUJSQzc3NjQxaGJaNkVwMlZJUnZtWGhxWWk2NU44M3hMWEZ1UDEtcWNkNnE5czlvVE9pTTR0VHZvTXRlc1lac2RVVkhUNFJza3lVTnRNdkJaZmhlNl9UTlZmWG03aXM5MlV6M2wwVG1tSkNZSG9Ga2cxVHh6TEdKUExlWHZ5eVhqR18tc09xdXg2ZWpHZ1YtTjFvNE9lcElYT2lNVjJ1b00y?oc=5",
+     "fecha": "20/11 18:28"
+    }
+   ]
+  },
+  {
+   "titulo": "Nasdaq 100 Forecast: NDX falls ahead of Nvidia’s earnings & Anthropic’s debut this week",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Nvidia, Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 14.75,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-17",
+   "fuentes": [
+    "Diario Estrategia",
+    "El Confidencial",
+    "El Ecosistema Startup",
+    "FOREX.com",
+    "FourWeekMBA",
+    "La Opinión | Pergamino",
+    "MONCLOA.COM",
+    "Mi bolsillo",
+    "StoneX"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Salida a bolsa de Anthropic: debuta en el Nasdaq, supera el billón y roza los dos billones",
+     "fuente": "MONCLOA.COM",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXRVS29WZG81dkprbDA3S2ZFY21LSVpDOXBkNFFqOFdMMzh3VFNNOUFLTXY0YlhvRG90S3BWZ216d1Vhak9Hd3VSUUV3S3JIZGVmRjhCaUNWamdaQlVLUVZuaWVPcXpRc3FTa1dvY2dyZnVuVUpZZWJGMHlTZEU4aUtPYk5LMjA?oc=5",
+     "fecha": "20/11 14:23"
+    },
+    {
+     "titulo": "La sorpresa de la bolsa: Anthropic aguó la fiesta a sus rivales en su debut en Wall Street",
+     "fuente": "La Opinión | Pergamino",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMlo5MWZWaDNnYmcwWGNOTzh2aHBzVUdEYUh0LTEzOFQ5TmRqNEVzR29tSXdMTHNpb3lFWGJ4QkpQTkpfSXo2aVpIZ0E1LU1kWE80Sk5hcGQwUE1yYmpJc2llaHRYVUluamRiTVZFYTl1Q29uN25uYTZDRWhLTFVQWlY4emRGYk9wbExFTVRMd2RrcWZWTWZjd2oxdUlmNlBxbzNYazlZcE5Bd2Z4R3hyZlNRMXRxc2RJUWdqdVRiQ1A?oc=5",
+     "fecha": "20/11 14:55"
+    },
+    {
+     "titulo": "Anthropic Fell to $83.05, 5 Cents Above IPO; Nvidia Down 14%",
+     "fuente": "FourWeekMBA",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2ZXX2EtQnh4bUIzTjJxRnc3d0xjX2dUOVBGWkdidjZjSkVScjQ3Z3F4Z1RqeURGMmNwaGZtSjBwaG5UcW0yS1BrQzMyUG5nOW80SGxzdlVCUWRqMHIySEdETmVBeHhabHlVX1J4VEVlMy1ULWRfel9IT1Y2eGRvaDFfVXA3NzJTX3RnWg?oc=5",
+     "fecha": "20/11 15:20"
+    },
+    {
+     "titulo": "Anthropic debuta en bolsa y cae 13% en Wall Street",
+     "fuente": "El Ecosistema Startup",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmJJUnFhd1U3NV9CVkZnWjdSanJ2YUxScG9KYS0yRDZ5d3oxNUNOaVdLR0V4a2hpY3hvMGhhQjhiM2ZnaVM5QzB3TFp3YW9vRHFKU3B3R2FBUmtGRmhRVnRjSGxKZi1Vb1Vsd05LcWJYRHU4THVxOEZIMExOSDEzY3l5TnB1WTQ?oc=5",
+     "fecha": "20/11 15:21"
+    },
+    {
+     "titulo": "Bolsa e Ibex 35 hoy, en directo | Colapso tecnológico en Wall Street: el Nasdaq se hunde un 5,28% con desplomes de Nvidia (-14%) y Anthropic (-9%)",
+     "fuente": "El Confidencial",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVklwOGNJT01Nb0lTYmViSVN0Z0ZhRS1uSUI0XzhRV2FNLUxUQ05KNGN2cXdTdFZIZGJUUW9WbDN0RnRZRjJLNU1YNVNmMjNqX2NnSFF3X3VCc1ZmZU5iN2NIRnNfVDFaOERyYmZMX3AtVkFzcGJPUXV1TDMxQXczUUVlRVF0M2VfVW9PMFRnVnNnTjYz?oc=5",
+     "fecha": "20/11 15:22"
+    },
+    {
+     "titulo": "​Anthropic baja un 10% en su segunda sesión en el Nasdaq",
+     "fuente": "Diario Estrategia",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOV83b3R4MHZMVWRZX004czdqbUVJbE95clJqSGlkTEZGUE1WQl9RMktUeEVIRWU2VmhKZUUtLW1qNTMyVUZSSHhIU2JuSWFIM2lKOW1OUmVuWXRzTXhYODNBMjBBQW9JNFpEbS1EVUJSSU10aXdPM0xqenZ1UWRaWlZsUFNwSnBrOWVwVkZOWDRiZDQ2UHV3LXdvSjFFS1hlWUE?oc=5",
+     "fecha": "20/11 21:20"
+    },
+    {
+     "titulo": "Nasdaq cae 5,28%: Anthropic se hunde tras su debut",
+     "fuente": "El Ecosistema Startup",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVjlvanVKRC1vUmpGMTFsZ2JGZkJzbzFXa002S09OZWdpLU5mUk83SFhfNE1uNWhXT1A4U19ZbEtFcnJBU25sWDhXV1gtRnlNWVNXcjRVQlhpbnFMSDgydDUxSFhieEVxY1BzLVZwNld5ZWNZVm1pUzlTSzYyNTB4VmFsSmM?oc=5",
+     "fecha": "21/11 00:21"
+    },
+    {
+     "titulo": "Nasdaq 100 Forecast: NDX rises ahead of Nvidia earnings",
+     "fuente": "StoneX",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHpCOWVPWjhjTF9vVlRjV21md3oxdFpyT3FRYUVUd3E0bU1tU2NhdHdGODJualNlTzZFdGh2SmRxY1pVdEdqOU1CYWRtZG9PakU2cElkbG00RGNUQ3Ytd00wUDlPeUh4X2piSUpEREV2Y29JcFhIODl1eWpyY2VROE5qQ01tWVFFdTFhVElWRjNWWW1UXzU0UzRzUDJEMFdnQVZKaQ?oc=5",
+     "fecha": "21/11 08:25"
+    }
+   ]
+  },
+  {
+   "titulo": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Nvidia, Anthropic, Tesla, Meta",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 14.15,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-18",
+   "fuentes": [
+    "Alto Nivel",
+    "Bloomberg.com",
+    "ETV Bharat",
+    "Fortune",
+    "TradingKey",
+    "TradingView",
+    "Yahoo Finance",
+    "Yahoo Finance UK"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Nasdaq 100 anota peor semana desde 2020 por drama sobre inteligencia artificial",
+     "fuente": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzA1Zmtkb1NvbHBkdjRFLTN5N1EzT2NZTm14UlZNRFhjdkRER0t6UFZYTElfUTFhUGswOGdyeERNZElkVXZsZFZxbjE5ek1kTTNvNkg0MXhGcUtHbzVmaEsxd0F1X21CV2lZbjJ1bnd5ZEVPN2dGVWJfZHUxUXBCOTNEdmcxRThnakhJSThaZy1vX2tyWGV0ZUJBQ1VRcEVoaXk4RVZPb0lSaWZMWXp4dy1yczM?oc=5",
+     "fecha": "20/11 15:35"
+    },
+    {
+     "titulo": "Nasdaq plummets more than -5% and the S&P 500 ends in correction territory",
+     "fuente": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONE5LTngtZHZ1Nkt3UzNtUGhtOF9vTW1Pa3dwYWp5amdUdWptbWJLbExTMF9WX0wxbVlYa3E5LXlBVTkxSWFDcURZeGwzM2Nhb1RRXzR4QnQ4THg5WjJwZWhYcU80aFpMbUhoZ2diUWh2WDdKbkMwbm8tM1VhXzJVcHhlTDMtSEpXandic3gzVGRONElYS2V3eW1KemZiOE1KRXpWNXlibkg4OFd2cGN0UzVoSmxKc0NfT1FEdGJTSmdZSXBHcGFyVWhqRlVoUGc?oc=5",
+     "fecha": "20/11 15:05"
+    },
+    {
+     "titulo": "Dow Jones y S&P 500 entran en corrección; Nasdaq baja 5.2% este viernes y ronda el bear market",
+     "fuente": "Alto Nivel",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakU0OHp2M3lPa3JPTGE0OUQ3ejVQcG5BdTVlQVBfUTBZeEFjTXFCc3QxeVBVSDZBRXpzVXN6OE9BenlOT0llZlpORTVlRFVfcTEtZHhRcm5VUkJQTmhEbERDMFF6REtvNUM3WjNsb29HZ05GcG1idG5CVjBfdkU0RTluWGFPTjFCd0h1SElKbDZRY1ZlV2tsWFpnU0hLT0JSNnJmQ2RZQ3FrSEZGMDV5Y2Fvdld3SDNlMkF0NHdn?oc=5",
+     "fecha": "20/11 15:19"
+    },
+    {
+     "titulo": "Wall St ends sharply lower on AI selloff, S&P 500, Dow in correction",
+     "fuente": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3dOZlc3N2c4UXkySVk4bUFjN3RFdy1ldjRKcXdJSlJYelZmU1RRN0NsNWVlQ0thZmxQOWhnMEg4c2RUcFJKTGYtU0JsMlRYN0k4QWRqakVPazBPSkJDWmxLNjIxSlJmSWdOMXhmUnhhZlpFQkNJendNb0VkRjJlTE5JRi1NSDZQV3FaRENSTXhkNXJqNWJRMkFJUQ?oc=5",
+     "fecha": "20/11 15:36"
+    },
+    {
+     "titulo": "Nasdaq 100 Ends Worst Week Since 2020, S&P 500 In Correction Territory As AI Rout Sours Sentiment — ANT, NVDA, TTWO, ZS, CRWD In Focus",
+     "fuente": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOT3BadjM4R2w1emU3aWVGOG1IZVlJQUQ5RzIxUjNIUXVES2g1RENUX2F6NjJqcmRUeTlrZHV0RnFMYVhKaTBrYkowLTFZS2l5VHFMT0dFT1dhaUprb2tjSV9hQlRwdTJGc2JPNDlnR19YQlh2MVpNLUV5NHVyNjh4V0s4QkN0SW1ENXFVVEktYzNpN1A4Wk1fUEdfRUxqMWJraENNeUhiNEtGSjhQM0h5MUd0QTM5TTNYOHA3ZEZyRnoyNlVRYVI0Z0JhaHg1SFBxdHByaGp6UEs3Z21jdmFuQkpzMWJtWVJwUkR4SldTdzFnZGp3NVFidnhqeXFFV2FqVDJXYkpsRWRTZFYwbG9PaE9Xejg4UQ?oc=5",
+     "fecha": "20/11 19:30"
+    },
+    {
+     "titulo": "US Stock Market Crash: Nasdaq, S&P 500 Tumble; Is the AI Bubble Finally Bursting?",
+     "fuente": "ETV Bharat",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcXJXYVN1a1gwSzRLQ2d6eHY1MUlVNUw4MExlWTl0b0s1NzZsTG1GdjRmdWwycTV2bzI5SXNCRllqUXBKYUNidlFXV043ZkNxQ1JZY3FPb3RvUWhaT1hqS3dZYzlhQXpXblV1NG5lc2E3OWktZXNfMUlDOUtWS0RsXzNPeC1jQkphRWhNWjJZendOTnpYOGUzbHdnVVpMM19TeXRyNTRFM3o5VXZDNjNSRkJ0MW1UMHdwSFRHeU1kRTg5cXV4U0FjZTdtY2FFNFB3T0pYZkF5T2doeVJQWFRiNV9iVdIB6AFBVV95cUxNakpyTC1xdlZVcjByVnkzQ2MxaTNLR1l0Z0MyVU1Db0NabkxqQmFhVFY2MmI2MkxFRWx0d1JuaU1iSjVZQzl3V25aZkJfdUdPbF9zVnpwSE9XTHZZaWJNdjNCZlhoSGluT091Z3JyUDg0MUMxOE9DRldvd0FLWU5zS0ZleWlnaGl4NElyUlplRUI2SS04S1BxbFo2RE5FRlRSRHpnN2dzSWxwVVIyQXQ4VURiY3QzY2RoMjRsOW5rZXJ4T25CUVpEMnVpRjJaak4yWVoxZzdrMndyXzduV3JPY0Zfb25xYmhz?oc=5",
+     "fecha": "20/11 22:29"
+    },
+    {
+     "titulo": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years",
+     "fuente": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3BCbERoTzYxME1TYjBmVjY3RUlLSXlUTUEzU3BCVXh2dzRIZWxUNEVnLTVXaTNZYnY5Z21aM3NlbkZtWExwM0otWTJkWUo2ajF2RUZWaEh1dUY3ZU4zV1YwVEhxOW9COFhCR25Bb2hvUXNZQmRDcmJhNWFHMkIzNDBxaDZvUV9EVFJsa3BtTEV6QkVjb1NtaHplSzl0dm9XZkpkZ2QtS3h1U3JEVnNqN2duMkNRZUFQeURUWmtaYzBYZTlvbjc0?oc=5",
+     "fecha": "21/11 06:27"
+    },
+    {
+     "titulo": "$1,000 in Anthropic Stock or XRP: Which Could Be Worth More in 5 Years?",
+     "fuente": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV2V3ZXdQR0YwNzAxYlNJal9fdmZmbklSWUZ6QVVzc05PRFhuVjhVM3dRM1BXdnhmOWdwOXA4MnNncDZwUmNpTENMUFRTSVlIckNZZXNLbWIzZDYyUS1mMkhscGY0bFRrdC1kclpvNU5SWlI1SDA2VHprWERuOGRYdE51R21WbkhrNTZuMlA5Z1RUYnk1?oc=5",
+     "fecha": "21/11 14:11"
+    }
+   ]
+  },
+  {
+   "titulo": "Anthropic capta 93.500 millones en su OPV y cae en bolsa",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 12.94,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-19",
+   "fuentes": [
+    "El Potosí",
+    "La Ecuación Digital",
+    "La Propuesta Digital",
+    "Revista Digital Minera REDIMIN",
+    "Rosario Finanzas",
+    "TradingView",
+    "Unite.AI",
+    "iProUP"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Anthropic cierra una OPI ampliada de 93.500 millones de dólares y una colocación privada de 26.000 millones",
+     "fuente": "Unite.AI",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmhvLTdjUnFSRTYwV0h4THBfVHNGbUJ3cUZKeGRoUUdqVHJlNTE2Vm9NS0J0bVR3bzNOeXlWOG5ZZUk1V2xSYldmUklvN2hGV042ajdNQWIyaUdBbE4zMGpQXzFReVZNR2ZkNnJzWjJaZ3hSYk1WdzdhVkRraUNFN3l5aGZGbUxUM2R1WU5NVQ?oc=5",
+     "fecha": "20/11 15:42"
+    },
+    {
+     "titulo": "Anthropic eleva a 93.500 millones de dólares su salida a bolsa tras la sobreasignació",
+     "fuente": "La Propuesta Digital",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUxHUlZncjhPN0F6a0FBZmYycGNYdU9OaUdEZ00yS1BKUlNOOTBLU3B1cV9QbW94UTNqb1FTY2JRMXdEb0hLaUxiTkJJYU1nRnhqdnFiVHhSU05yd1NrNTZvcHlGbG5OcFFGUWpURVZlQWUwNmRVeUZYcEpfWE01TUFZM0JETDhMOWxocklDZkl5ZGZkaE1ucU9rNVBHcXFPdS1mOC16Y2N6SERPMDdtdjlKUk91UQ?oc=5",
+     "fecha": "20/11 15:51"
+    },
+    {
+     "titulo": "Anthropic eleva a 93.500 millones de dólares su salida a bolsa tras la sobreasignación",
+     "fuente": "El Potosí",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOHppSjB1SDRWUlhqa2FZV0RLd0ljOFFheVdnM3pnSk55NkVhai11bzFRa3QyTUxrZWNTbl9LS2h2T3ZwRy1hd051R1dsMXdHOXRuTXJfbkdVUDE4MXo5OE5DbXBpcUZtcG41bHgycDV1Q3FwRVVHdkpPLWpwQ1M5ZEFObUpPelBqekV2bDJ0c3RSYUoteVptSUJxYkFHcnpWakhnQS14NUVWSHRjdGpnWWtTOXE0WmpZZXVGOUVuY0xkeHAzQmc?oc=5",
+     "fecha": "20/11 21:44"
+    },
+    {
+     "titulo": "Datos clave: SPCX arrienda chips; Anthropic pagará por capacidad de IA; salida a bolsa de $85.7 mil millones",
+     "fuente": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ndE9leWZHRWdRZTNaaGcwR1lUZjAwUEZ2czQ1TGQxY3AtbGh0SFNLdUl2Z0RoY1VyRnJmTzdOb0FaLWxTUExYWkR6aUVBTkg5emZLc0M4V2w4Ym8yLVBHclEwbGtUbEl5dURrTQ?oc=5",
+     "fecha": "21/11 02:00"
+    },
+    {
+     "titulo": "Cathie Wood invierte millones en Anthropic tras su salida a bolsa",
+     "fuente": "iProUP",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2Q2WXczdm5lMnl0TGktSUR3eDJLMmRpSUh5V3ZwZnI4RmNFOUw0VTFobkN5Y2dxUndwREZTNTVCTVUySHlZQjBnTWtwWmM4ZnV0a0I3LXdBZm95dnJFOFRzaHhKVUdncnNuOGRuZmJFRHV5dHdORGc0aW9Ma1RacGpRNWFidFJPME5DaVUtREROb3Fob3lmWGo4N1FwUEVYcDEwcmRR0gGrAUFVX3lxTE1lTkk2ZFRxX1pZeXAtbEEyZW13bDVzcENzVGJ6WGdTdzZycWlfOVA2M0g3NTVnTFg1eGhpeHpOUnFWNjdOT2dqUDRFSmgxcVZJTWQ1MTE3M21Lemx1d1NUdTRvYjNPZHp3WmFkLW9WZHRXUWVXNTVTZWtEOW1IRnl4VThQWU54UFZvdm1sR1o1bGNJVEx1Wkd1WFYzNDJSbDR1dlBKSHBRM0ItYw?oc=5",
+     "fecha": "21/11 04:58"
+    },
+    {
+     "titulo": "Cathie Wood apuesta u$s90 millones por Anthropic tras su salida a bolsa",
+     "fuente": "Rosario Finanzas",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV21PT3l0Y3k3NE8teTRNRGZwOXNyWGg2Q3J2Yno0QXYxM1BMTnVVaGhmRlJOakFSQVRWR3FnNXRlMXdwcjMydmZFYWhOYTQyMGtpcmVUNTF2YTR6YWRzemdGdXpRZW9Bb1RqbGV6V215SkZmWXlORXR4cWZzbTVhV3NfOUw1T2ZzTjRSakM4Tks2ZVRvU2E3Mi1fcHkxcHBsWkVxMFl2M3FXZUk?oc=5",
+     "fecha": "21/11 04:58"
+    },
+    {
+     "titulo": "Anthropic recauda US$81.000 millones en su salida a bolsa y eleva la operación a US$93.500 millones: la inteligencia artificial transforma Wall Street",
+     "fuente": "Revista Digital Minera REDIMIN",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUXZjZVF6RnVmSjNiSEY1dHV3OGozMV9OVEp1M1FOUDhSS2pxc01oV1pBcFljLVR0WTQtU1RDLTlSRzRmRUhWUlUwaDNSTXYtWExUb2FMbWZLUlFod1pFZHBHMVFNcVR1WThaeXJuRVZ0aGx3X2xicmZyZERSTmpfVHp5T3lyelFsSkN2M3dvTTVwV0RSalhmS2ZhTmhrclVDREVHbnNpTWplRWpNSVgtUE03NDRUWENwc0RJWW1mVDJUMFNLTnIxei1ZN1V0amZZZTM4dTNYRU5SRXRldE9Cc3M0ME5HajNiQ2ZlckpHejBjLUdUSmJJeWtKSjRWc1dPd0E?oc=5",
+     "fecha": "22/11 11:52"
+    },
+    {
+     "titulo": "Anthropic capta 93.500 millones en su OPV y cae en bolsa",
+     "fuente": "La Ecuación Digital",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU1BHVm0zSUU1SG9ISE5YbE9mSUZxckJwRGFzWU13VUpVbnVNZ1RLd29WaWpCcTM5eUs4UjZzNUt3ZGM5OGRYaHhDODFFYnNKR1ZIOUViNndyRm5PQ3BocnVPRHVlc3QxSks4eEprVEhqd3N3RzRFdExlaWp5RWxBb0ZsTzVyQjNZWlJkMVJFRWxjWDBXMXM0?oc=5",
+     "fecha": "22/11 12:13"
+    }
+   ]
+  },
+  {
+   "titulo": "Anthropic’s record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 12.44,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "MySA",
+    "The Seattle Times"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Anthropic's record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
+     "fuente": "MySA",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQR2VNbEt1ZGhGd3JJLTRCRkNyelVjUVBLMTE5czgwYV82S1JkZW1oN21TQ19lbzlIbG1TUENzTDBmMEtjdFhIUkJRc3dUZFpNOG55Vl9nTWRnQzBCdVRuT0QwaGlEQnFXZVphY0x0RHJ4eG1yeXppSjRZbFJmRm5KUE0tOVJ5eGljTFFnb1lQSEJlU3lJc0gzNC1IWUJ3ajd4aHc?oc=5",
+     "fecha": "22/11 07:28"
+    },
+    {
+     "titulo": "Anthropic’s record IPO raises hopes for a charitable windfall that has nonprofits preparing to scale",
+     "fuente": "The Seattle Times",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbTdFQ2JleWR3dE1iZzV1Nkt0LU5ybWtRMl90RndaUERMWUh2em1rajI4UGhXN0FFU0h4TjVSc1hqQ21OQjdLQjNoaVJ3MGdIdldYbUtGZ1VnbDBqbnlQZW1GWDNhMElzS2NwS3oyWFVId1dDMy1vSzNUY3R0SU14b2Z0b2JHX2h5UkJ6WUczVnlHb092YjdEZl9IMkVsTjBRVXNaTWVUYkRuZ2d1MmppS2xBSHNqRklEUkVsVmtRTGFZNzg2UmRHNEluTWZSMjB0cTFRVA?oc=5",
+     "fecha": "22/11 12:55"
+    }
+   ]
+  },
+  {
+   "titulo": "What Comes Next After Anthropic’s Historic IPO",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 12.35,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "BigGo Finance",
+    "Bloomberg.com",
+    "WSJ",
+    "Yahoo Finance"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "Watch Historic Market Selloff Deepens After Anthropic IPO",
+     "fuente": "Bloomberg.com",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWxyNnNiRzUzMmpabC1oV1Z3ZmxXVllzMk5HVWlYMHg3N3dEQUdtVW14LVBFTjl3Z3VXM2VUWWg1dHhtT0M4NlVidzJCZENfUGM1WGRoRDlYZ1NGVXlNenJtVW5vVnZzXzlscGRKbXIwVkJCZHNsNC00Y2pXSVhzcw?oc=5",
+     "fecha": "20/11 18:31"
+    },
+    {
+     "titulo": "Anthropic stock drops 8% after rip-roaring IPO",
+     "fuente": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5",
+     "fecha": "20/11 15:44"
+    },
+    {
+     "titulo": "Should You Really Buy Anthropic Stock After Its Historic IPO? History Offers a Clear Answer.",
+     "fuente": "Yahoo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPal9RU1JBdFN4ZDIteWhOQ29nSVBSY3pYZ3Y3VW1kRS16UVVfb1Nlb2d6b1NrOTgyMHdDUlc1X3VuQ05XMEJ2TExqNVowVDJtZUxEU19nQ0k2a3FPRi1FY3FZbFpqN1VkLTdIcDMzNUFmODY5WjJSaENvT3ljWWZVQjZqM0xfYnEyNnMwNG9rMjl2Y05Hb1ZXVXhFdXlHaUFzTXc?oc=5",
+     "fecha": "21/11 03:44"
+    },
+    {
+     "titulo": "Cerebras CEO Andrew Feldman: 1,000 Millionaires, an IPO, and What Comes Next",
+     "fuente": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vc2hpNXBsa2hYM21WUGVtZ1NWWU9NOHFaQTJKbXNaeGRldXNQc1RsVWRGcjFNWjRINlNQeHBPV0lkZU1nZnlGQWtDWjd0UzVmNjZtSUJKdk1TOFk?oc=5",
+     "fecha": "21/11 17:08"
+    },
+    {
+     "titulo": "What Comes Next After Anthropic’s Historic IPO",
+     "fuente": "WSJ",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGhQYy1TNTdJcnJDbUg5RFFZRl91OE1OZHNvdTFfYm81NTFTR1JGLXRsR1RFTnhnajZMT1ZjNEFIMjlJX2pfS092R2JGLUFZb2ZhVE5fRU5DUHhub1ZKb3VQUkJUSUpuX2wwZ2ZpdmR1M1BNcTVYb0pBQXlZMVFmNkNVbElaUEg0a2c?oc=5",
+     "fecha": "22/11 09:55"
+    }
+   ]
+  },
+  {
+   "titulo": "Like SpaceX, Anthropic ran an unusual IPO process, causing disquiet among many bankers",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 12.35,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Euronext Markets: Real-time Stock Market Data | live",
+    "Irish Examiner",
+    "Reuters",
+    "The Business Times"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "fuente": "Reuters",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+     "fecha": "22/11 07:29"
+    },
+    {
+     "titulo": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "fuente": "The Business Times",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeUtIbzZ0NWI4UjZLLXFLR3MyYUVCVlFiaUR2TWFnRU1iVDlXcFROdnpKRTFBQk81VWUwSGZ6WkthOFVOQzMtbkstQXcyLVNoUTFFNWs2WEZ3aC1YTUVYVERNOTNZNjQzVE5scGlOS2g3YzZXbUVSZUFwLUpMOTlCU1JiQjFia3ZnN3l5Y041a1ZkMnpuUkVISE5aMFltb0lWS1dzRFM4TkUweU5V?oc=5",
+     "fecha": "22/11 05:48"
+    },
+    {
+     "titulo": "Exclusive-Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
+     "fuente": "Euronext Markets: Real-time Stock Market Data | live",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTRUMGFnWjVJZF9BbzF5RnMwbVRPT3F0Q0RvdXFZUnVHMmZaemtiZzAyNzBJRUh4Vk1kOWpHUVA2TjREWG9wTkU3ZDdPbEhJYk9ReEd3eVF0dERhc09ncnVLaHlCZEh0QlRmTDVmM01TdmpSUjJhWlVseTZHQ1NhX2lER2dPcC1CX0QtZ1pBenluTXJQV2pMR2RCWFUtMEhjLW5IM0xyNTAxR2lsaHJST1NoOWRjUQ?oc=5",
+     "fecha": "22/11 06:54"
+    },
+    {
+     "titulo": "Like SpaceX, Anthropic ran an unusual IPO process, causing disquiet among many bankers",
+     "fuente": "Irish Examiner",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1TG1KMWRQVU5kUFRRVkNQS1RRLVZVNzVvdlVULXlabzhXc01LU1ZJWXFlcWhnOEk5WHhuTjQzMVZ4NUxFTmV1cm5KeWZzZkd6SWNjam5XRDNsUDAwcS0zMEpCc1VHSERFSmJyU0JBWUVlWDI0dmc?oc=5",
+     "fecha": "22/11 09:54"
+    }
+   ]
+  },
+  {
+   "titulo": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic, Amazon, Google",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 11.86,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Expansión",
+    "RamaOnHealthcare",
+    "TIKR.com"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "La gran jugada de Amazon y Google con Anthropic",
+     "fuente": "Expansión",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDJOZVo4OGlYanFhSkFqOS1QNmpLRlJ1TFhjeVdOM1kxaHVjVmJ2Vml0WldmOWRJZnhVdVhfeldjTEJKaGxsclRxaWNnTFV5X3R4QjYxMTRSXzM1OFU5RG5CM3lrTnlOVVo5bzVvOVduTHlNU0ttdlEyVGM0RUJYdG95WDM4ZmMwOUhVOU9ZTkZPQdIBkgFBVV95cUxOeWp5OFVwQkRMQnZMMHFMVzhnZGE5OU1EeUQ2d0wyNHAzLU04SWZpRzZLSGF4azJGYllMaG9ZcG9QZEJwY0NhUXJxWXhQR213RHV3QnU4Vm1hV0NpbDhOZlN6SFJrN0hRX0p4ZnRnT0ZmS1RKcjRsS3pMU0ZPMmsxVlFadUtZWEc2d3RkU1lRV2Nidw?oc=5",
+     "fecha": "20/11 17:13"
+    },
+    {
+     "titulo": "Anthropic IPO: Amazon, Google And The Art Of The AI Cloud Deal",
+     "fuente": "RamaOnHealthcare",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcm5ub0syaXN4OVdTTjlZTG9IVkdyZ1NMTlJFTlo1UG5MaXl0NmpGSFlqZ3V3THFSVDNtSjZtcWZ4V1N6RFMzVExqcDRzcnVyQTdzOVFOWkdZMWNNWlM4NmFfeVFJMjZCRVlabkhmYlRybFlDSVZudkRrUzBWY1BuLV9UYmxuZFZlUmFCUFBtRVVtMEVJ?oc=5",
+     "fecha": "21/11 06:57"
+    },
+    {
+     "titulo": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+     "fuente": "TIKR.com",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNLU0zc3FlLUVnMWxsRVBVYnJJOUNTcWUyTzFMcE5uQl82Ym5ZVU9BSm84dEphR0twU1hLaE8tM1JrTmJJYUlGczliNUJHWWlxQURudm1TN0hwYWJvQzROcVoyb2ZVVnhSMU5vdWRnVUEzYUZzcE5IdVFudU44ZTYzZHNPQjNPZlJ5b2hBTzNfaXZuNUR6MjBxcncySlY5Q2JZRW1KbXNOWUNiZ0pXTzdoWkRZSE5xSktvamlSOWRwZlZCTTBXaXZ1cXNyXzZzOTlabTQ5ai16OERPSlZ1VXpmdTZn?oc=5",
+     "fecha": "22/11 10:32"
+    }
+   ]
+  },
+  {
+   "titulo": "Precio del dólar hoy 22 de noviembre: así cotiza antes del Black Friday 2026",
+   "tema": "peso",
+   "tema_nombre": "Peso y dólar",
+   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
+   "puntos": 11.77,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-16",
+   "fuentes": [
+    "Ambito",
+    "Azteca Veracruz",
+    "Binance",
+    "Clarin.com",
+    "ContraRéplica",
+    "Diario del Yaqui",
+    "EL CEO",
+    "El Mañana de Nuevo Laredo",
+    "Heraldo Binario",
+    "Heraldo USA",
+    "Imagen de Veracruz",
+    "Infobae",
+    "La Razón de México",
+    "MARCA",
+    "Mi bolsillo",
+    "N+",
+    "PalabrasClaras.mx",
+    "Periódico Zócalo",
+    "Revista Espejo",
+    "TV Azteca",
+    "TV Azteca Jalisco",
+    "TV Azteca Puebla"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "¿Cuál es el precio por litro de la Gasolina en Puebla hoy 21 de noviembre de 2026?",
+     "fuente": "TV Azteca Puebla",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHprZmp3TW1KVG1RY0ZVQzlzejZhZXBINnJmb2tGX2RzZkp3MGNVMm50RV9UMWRQZGZjVlFEbnNzTnFxekJXSUk4TUlralZJejRYTXVGWV9GcDAxVXFIZ3VxcDlHUWZndFFYaU1PZXJIVWJMRXdaZl9zTzA2VWpicFR6MFVnZ3o3R2ctek9zaUV2bUlBZUl1VU5rQmNjUUREbVoxcmtVMC1jWm5CWlRGUVhZM25ORXo3UDhZ?oc=5",
+     "fecha": "20/11 14:16"
+    },
+    {
+     "titulo": "Precio del dólar hoy 20 de noviembre de 2026: peso mexicano registra su peor semana desde agosto de 2024",
+     "fuente": "EL CEO",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTZoY0NZODZ6aFlncDVsOU9UTHdrNVhzSGZHU3NMTzhLTmxRNy1IbFNqU3BEaTlOeW16QnV6RnlpU1daV09BbEV1ZGpmdm9laER5cTJ2aHc4TlRwQUEyZVZ2enBHckNaZl9xTzdYUzZHb2U2LWxLTFhIN3k3b3pUUlRXMzBubExK?oc=5",
+     "fecha": "20/11 15:25"
+    },
+    {
+     "titulo": "USD/MXN: así cerró la cotización del dólar en México hoy, viernes 20 de noviembre 2026",
+     "fuente": "Ambito",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFpkNHRNMkktbzBYaXFLZXNHRE81WHFIbm1pZkxDaGNvVW8ybkxTZ2VEc2Jfa2FWaENXVUIwWW45TTBkamF4UXUtM09FaXVQcTFJaHNVTUZTMkU1R21tc1hsZHpDNVUxMFRqeW04OUpLTmVIaDZTSmVaODNFczhNU2lPeDAtYk1EYWVta2ZEVERiV0JjektuYncxQ3MzazM5S0w3RkdWWFpud1V6cVBxWTVmTFk2RDZjQUk0VGE0b2xTYTDSAcgBQVVfeXFMTU9GdmhuTFQxc200OUt3RzhzekF3ckxCb0ZmU1cybFZLNDV4REtqcGloZmtlcUtoZV9TVGtkNTJsOEZ5cGxBTjRJbWJLUlhKMVZOZ1FfSmF5N2Q2ZzNKc3RmX19yZlB6a2U1T3BjbzVaN3YxLUtIS1ppejlfQVMwdk1JTUJhZXRJTm1qaVBObTQ5SlJBRVlnTGtBUVN4dmdadUFrdkp3RFNOMUpSQm9iMDF4a3dxdXpxRzA2OVRGMDJpSjhkSnM5QTc?oc=5",
+     "fecha": "20/11 15:50"
+    },
+    {
+     "titulo": "Precio dólar: Peso cierra con ligera depreciación este viernes 20 de noviembre",
+     "fuente": "Heraldo Binario",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSGs4QVBZWjBwNzExQXhsWDUzZVFkMjNDVXU5Tk9PbFFwaXZqSk1xcjV1TmNMaUZVb1NYX3ZnZ0psLWg2RWdmdXppOWdMVUFzdlFlSVFQeHdmT19lUllhVTB6M0xjQTZlV2hRaXhIQXZfQU9zdVVQdjYwTmY4OG9QcURQYVFCVnFFa3VJZnBzdGdLcGtjZnRFaTJiZVM3MlU0Ny1JTHBxQzBuazRpOEx4ZEpRWU04dDF3SGVVcW56WjdWaGtxRjNrUmZqeFdSTDlWS194U1lEa3RrRjZF?oc=5",
+     "fecha": "20/11 16:30"
+    },
+    {
+     "titulo": "Precio del Bitcoin a NZD (BTC/NZD) hoy | Tasa 1 BTC a NZD",
+     "fuente": "Binance",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2UTdrNjVfTVZOc3JUTUozVjhZRmxIZ2ZRUHNlQjBuWTJzdTd4SVNmQ2xSaExsNXotQzZfNDl6eEVCRTZFQ25QM2lrVGdhVDN2UXpReDlmMWNzb0E?oc=5",
+     "fecha": "20/11 16:41"
+    },
+    {
+     "titulo": "Peso Cierra la Semana Con Pérdidas: ¿Cómo Cotiza el Dólar Este Sábado?",
+     "fuente": "N+",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3UwblhheDRORmlXMVh6NDBGdjZNMnFvaDFUM1lyUDAwb2hYUG81RGNkWHBrd2JqWWtITDVqb1N1NjdKaHlOQTA3RmR0Vy1vVFFIMU96TE41RTRXWVFRMkhWc2ZEU0tiQXY3YkVwaFdNWVEteHhtUmk4ZUtEMmFCNDhpd3F3cTA2MVpCYzNYWXNwUElQd0RSU2RJQmpkYThuV0NoWjVSVTZUeVF6dWpWNzV5bTJNdDZjb2pvbFVYT01rcjA?oc=5",
+     "fecha": "21/11 00:41"
+    },
+    {
+     "titulo": "¿Cuál es el precio de la gasolina hoy viernes 20 de noviembre en Ciudad de México?",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1o5aElDMjR5QlM5V1RUbkJoU0djdFZfMFZUM3VXa3NmemhQUW85VFhVM2cwaDItY21wbGNUM0JDLVlfejducGtPejZGMTE1cmJiU2VtV3NuT2FuaUdCYmpKODBTZjBsb1ZxOW9tZ2F0ai1FTnRrWmg2amxWMmxPd3RIQkhmdzRva096cFRkU0dPaV95QTZsQ0FlbEhnWFduMHZObk9ZLWxtOHBiWUFDbGMxek02X1JmeFZITUpfMXnSAdsBQVVfeXFMTzFlZTJRdXdOTTNaNEtGNmphSGNQeUdINTdzYzRRY1FNbjJNR3FxOVN0OUxrZWRmV3lUcWRxVWZBS2lYWkwtdWFZdTk0MFpDYi1RdG02WXZkc3RFSVdoenJ3bDVZVEpQM0I0OFQ4RUtrZUctaWRDR0ZSaGtuX1lwaVBoZkhGMmtwMDdyaWRRUlNsU3V3OFFWREY1VzJ4MGpMOU9fd3Nzd0M3NFh1S19SUEtlQnFacXZ0LVI2M3VvT2EzYnBaZV8wNUg4VnFXZFM2aU9qNDJWbm9lMTQ4?oc=5",
+     "fecha": "21/11 04:20"
+    },
+    {
+     "titulo": "Precio de la gasolina en México este 20 de noviembre",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSUgxTkl3LTZiZ1U0NkdDa3h4VnQwQ3prcUEtSmtzQllaVlo0X1JZbHdMUUpnQ0hkZktWSk9ZVU5UcUNWQWpVOUJ0OEhjTUQzLVhUY2lkejhDUDR0ZDByRHo5azRpZWU4Qng2c1M2ZXl5dlJOc1JBblQyb2NCMS1jUjRFNk5UZkMyN0xnYnRXR1FuNFFBcEoyem9RY9IBtgFBVV95cUxPeC1JMXE5Y0dvV0hXUEk0RkpOalh3dzZJNm5WdDRYRjRjWVNLbUJ3aXBrZ3NQZmd6QlY3bUxnZFVhajFqZnoydjBsVlctRVVvMGdtR3V6V1BHa1pveUhEZWpJRWtGdlVCZ21pQTRxYjlhcGFGN1NUdlN4MlNQMzM4MVpWTWpYQ2RqNWZ0UHR6U2lqZThUZExSeUNLVzlpTzQ1RzBoUmt6QkhPcEdfbWFEWWpmdmd0dw?oc=5",
+     "fecha": "21/11 04:20"
+    }
+   ]
+  },
+  {
+   "titulo": "😺 Who really wins from Anthropic’s IPO?",
+   "tema": "bolsa",
+   "tema_nombre": "Bolsa y empresas · Anthropic",
+   "angulo": "¿Quién gana, quién pierde y qué significa para alguien que invierte poco a poco?",
+   "puntos": 11.71,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Finimize",
+    "Fortune",
+    "The Neuron"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Here’s who’s getting the richest from Anthropic’s $81 billion IPO",
+     "fuente": "Fortune",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWd2VzBFUVRkbWFBSDdCTkZMUERPYzZnQV9TMmI1MEtRYl91OW5NNGg2aFBNRnJxX1NSeEJqT2E3LWlFdk1KTGJHU0JmNmdWdmdUQkxXVUxmSU0za05sQnFrcW1KaVNpbmFXNGs0LWxiOTZXUVBnOFlPVEhrSGhRSkVsN1Z6YlBKMHYwODBlXzFoZFU4WHZVd2lHZ2FjZWZ0TnA5SHVkNHZVRGZFcUZNSVJSZ0t5RzB5eDQtT0NHTzFEdnBBcHAxd2Y1ejM4ajZfM0E?oc=5",
+     "fecha": "20/11 14:42"
+    },
+    {
+     "titulo": "Anthropic’s IPO Showed Wall Street Who’s Really In Charge",
+     "fuente": "Finimize",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSkdvYzJWOFktSGVPbFdDOEpJOGFPLWhkdTM1LVlRVlRMdVNJUjdsOFM0elZScUNxaHBMUmxDYVY1SUhQOUJ0TTBjVkwxRG9Fc09zUE9ZbENjb3R1cGlYWUpYMTZXVUdGM3BxMFNMd3U5eHZSbDM3dVJLS3daXzNDcHdGZWpZRWtYUHV1bg?oc=5",
+     "fecha": "22/11 05:16"
+    },
+    {
+     "titulo": "😺 Who really wins from Anthropic’s IPO?",
+     "fuente": "The Neuron",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ScjA3Tm9JeXl4R21BaGlFVUFJYURpaTNVLV9WbENtYVhzRm9wQTVPdVZrS1Y5dW9HVFFqWU1FYUVoamlqRnNvWU92MkpqdnpGRnBRT3ZHcF9iRXhoSGQzRUxfaWlzaTN6QzlOb0VFM1I4Q0JLdWc5WQ?oc=5",
+     "fecha": "22/11 12:30"
+    }
+   ]
+  },
+  {
+   "titulo": "SEC charges eight fake crypto firms it says took more than $37 million from investors",
+   "tema": "cripto",
+   "tema_nombre": "Cripto",
+   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
+   "puntos": 10.33,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Bitcoinist.com",
+    "BlockTelegraph",
+    "Crypto Economy",
+    "CryptoRank",
+    "InsuranceNewsNet",
+    "InvestmentNews",
+    "MLQ.ai",
+    "SSBCrack",
+    "Wealth Management",
+    "shattered.io"
+   ],
+   "formatos": [
+    "Largo",
+    "Short",
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "SEC Charges Eight Firms in $37M Crypto Scam Using Fake Trading Platforms",
+     "fuente": "Bitcoinist.com",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNenpQdjVwSkFrM3U3UGMtQTZTckFUUEVHcURFSnhCSWtFMFVpTk1tdW5HcGhsYWlJTnNRek03ZlZHTG5pU05fQkpsdGVYbkpRcXpCcTFLTzlGVEpRd1hQX0l2SXJZM3Bkc1JjRTFjMUlaZ0xhSlFjYmJLOTZHUDdtUDdtUGhlTU16R1BEVG0zYjAwWVdtSl80S2xsZ9IBoAFBVV95cUxOQ01ZZmt2TDVSa2xIdzFNLVhYNG9JOHctU2RiSXlPWFZqRW5Fa3dJUVhTWWo0Z1Z3UWs4SDFQdVFhVHktTFd1MkJiRS1RYWhEMjhnS2JnbGFOeGRTTUgwbTM2Zzk1REx5MjVna3BLRjBNdy1ZWWk4bjNwbnBIOVE2ZjFZRGZfaElMNEZKTXRvdDJQaTgxS1lpek9nN25tUUEt?oc=5",
+     "fecha": "20/11 14:28"
+    },
+    {
+     "titulo": "SEC Alleges Eight Firms Stole $37M in Rotating Crypto Scheme",
+     "fuente": "BlockTelegraph",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HRy1xal9PVHZjUG1pMDktcGppRl9vWThHYnB1SDc0MmJsTFQ2bWp0WVBrZTlRbkNWTDRheDVCbTVNVEY1QVEyTXFfZ3ZGanhNdFM1dmk3M2F4WWdCMmlabE1lcjJ4ZXIyajQ4NUZrQVJZaHM?oc=5",
+     "fecha": "20/11 15:49"
+    },
+    {
+     "titulo": "SEC Charges Eight Entities Over Alleged $37M Crypto Investment Fraud",
+     "fuente": "Crypto Economy",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LdncyaGI0cEZTUTFuSDdqM0JvYjBUUXNvLUY0Q1dtODBvbGxjQXIwR3pud1NHUEQyNEtjR3Vnb0lOenpzLVQ1UWg2S0Jfb0JvSEZKaDV1cjFaTklxTGpsOFoydXp1azFqakRON09vZkp5cjg?oc=5",
+     "fecha": "20/11 18:02"
+    },
+    {
+     "titulo": "SEC says eight Colorado shell firms ran a $37m crypto scam, using WhatsApp stock tips to steer investors to fake exchanges",
+     "fuente": "InsuranceNewsNet",
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUm1yVUl3cnVxNFl0RUM1MmVpSFFKbzdmQzI2WlRxZjhQVHgwVzFzeExHM0JlS2ZReGlIMGFIOU1PQVFrMHdFMUM1TktTWVdDdjRJLWdCWklRWFBjUENDdktVcjM3d1VYU2x0emdnaFloQlZUbmJud3d4YUZyOWpZTUtrVi04LVJjTjJ6SXk4aXFnTUxrU1FxWXpobXF0XzFNVG5LLWtUTFhtSGtpc2RPOGxZRjZvV1FCOWlqbldRUFM1bThmcGVoOGJZRm1oNjhuTnJyNmEzaTdvQktackVjUHMxVy10aU1oNThYbktQYw?oc=5",
+     "fecha": "20/11 18:22"
+    },
+    {
+     "titulo": "SEC sues eight fake advisor firms over $37m rotating crypto scheme",
+     "fuente": "InvestmentNews",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSDZSQ3U3MGdFS1psN25PaUpqemxubXpvUkFHYTZES2VkWFI1bFFDNVk2bEtLM3VNUkM5SFV6bUxwSm91endCSjJqVFNCVVNoYjhCXzYyQmtSRF8wWlh6TlV6UFlfeC1jQjRJbTBuc2lLNFM4T2FkbXFQYThBTnc5d3J5WE5VYWl4aWY1UGJsRWI1MENYYVU4VGJhRDg3OGdGcHFfWVV1VWUxXzdqU01IYjlFenA2YmlxRHo0OUoxaVl5V3k4VEllODBBaw?oc=5",
+     "fecha": "20/11 18:31"
+    },
+    {
+     "titulo": "SEC Charges Eight Fake Crypto Platforms in $37M Fraud Targeting U.S. Investors",
+     "fuente": "CryptoRank",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdl9XNjhjSkQ3U0FvbXZTdnlMVk9TYXl5c09qZHlESVQ1Y21xSDZFNngyTmh3U2tyUElwSGZYTnRRRHVZRU5iVzZ1SjRSMzQ3a21PQ0c1ZGhtakk1cnkwRlJaemJhbG9zVVpKM3VyWFJUbXdQOVpKV3ExUHRIMjRrejRHT3RTUDNRbDVRaU92YmdlLWRfQmdUYklLckpSYU5keWxsNi1RSGNiNWxvcExCZmhZanU4UQ?oc=5",
+     "fecha": "21/11 10:28"
+    },
+    {
+     "titulo": "SEC Charges 8 Firms Over Fake Crypto Advisors",
+     "fuente": "Wealth Management",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVG9sVk14dUdwWGQyWDJqdkJPZm1zZWhxcWNLMWxFWTZHQjlQd1VveU9aX2tVVEtNa0hjTk54MkhyRUFtUlhGUVEwcHVuWlg5cWRyYXRWMlFibzdLakN4dzd2ekRHSkQtS25SSWczampieThtbzJlZ0V4b1hyVXhldncyWW5xTTNUWUloOGRzcDRVUTVDeDFyVng2UXRaZHV1SUlDQks1TTlUWG5v?oc=5",
+     "fecha": "21/11 13:20"
+    },
+    {
+     "titulo": "SEC Charges Eight Entities in $37 Million Fake Crypto Investment Scheme",
+     "fuente": "SSBCrack",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOX2xsaVRVcTdDNGE4WDF6OTZncEtURFZxbk1FX1Y0ZnpxUkdzLUlvdlJ3a1dVdEtzNktiM3FrUXJURmNucFhrcXQ3OXlMdUZnR0I1X2ZqM3ZDRGZpUGpuWWI2TGp2VDVjcVJCZURTR0FwVkdaVjBBeUh3TGZ4eU42cmVuVU9TcmdyMGx4S1VzWXR1U0lSQU94OTBQYWJ5UQ?oc=5",
+     "fecha": "21/11 15:07"
+    }
+   ]
+  },
+  {
+   "titulo": "Bitcoin: este es su valor en el mercado este día",
+   "tema": "cripto",
+   "tema_nombre": "Cripto · Anthropic",
+   "angulo": "¿Cuál es el riesgo real y cuál es puro ruido?",
+   "puntos": 10.24,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Alto Nivel",
+    "Infobae"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Anthropic borra 109,000 mdd en valor de mercado en un día tras su histórica salida a bolsa",
+     "fuente": "Alto Nivel",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTVZxVHNQc0xkMGhxcHl1Sm14ZjZ6TDhLcjdqc3B5TllRNTNDY0N2ZHZ5TG00aHU1ZGFJVFBzR3ZUWWdPQWJPOHFEVk9NSzl4eDF3UkR1Q1FsUzNTU0puSXhEYXFpS0c2QWdVZFJLeTRNTlJydjNmVzFzUTVMNHNwX3NHX1E3YU5EblRJRm1kaV9INGJKbmh0dGNaMTBrN3FKWXdvOU5VaWdOMnlXZlgzS0Zwd1ZmbjVhRFZr?oc=5",
+     "fecha": "20/11 15:54"
+    },
+    {
+     "titulo": "Bitcoin: este es su valor en el mercado este día",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcW5Vbl9DNWlLeDlyaTdrS05TOGRPUnN0RXNOTFZxTXdqLVN1NGFiWXg2NEdoOTRBMFlhN1N1SFNOTU9Bd2JRM2x2VlhPak1FaGZwWHhYTkNIQ20yY3dwWExyU3IwNG9XdGN0bC15T0pHM1JkbTRkcFdBWk1SQ1l0T3cxWV9vOEtrN2J5Wkh3eG13N0nSAa4BQVVfeXFMT1dReVhfREtKRWRvcklIa0FveG9OTW9KNWJ1Z3ZQTlhZVUNzMlhfMmYxcHF2Sk5hY1hGbmYwNUJTYVo2aEhDZ0VCNUExSDd4bVNITFNqZ3kxWThRLUUwSjhtcTF3eDV2TS1MU3AyengtTlF0X05od08zMlVQZUZHeUpvN2tCZmxucW9HZTNOSjh6amJ2dkpOYnprbUFHRmRiZGRSb0pfZFV0WXZzV3lR?oc=5",
+     "fecha": "22/11 08:16"
+    }
+   ]
+  },
+  {
+   "titulo": "Aplaude Damon Albarn vuelo comercial de Sheinbaum a China",
+   "tema": "mundo",
+   "tema_nombre": "Economía mundial",
+   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
+   "puntos": 9.42,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Campeche HOY",
+    "MVS Noticias",
+    "Noventa Grados",
+    "julioastillero.com"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "FMI reconoce desempeño económico de México en gestión de Sheinbaum",
+     "fuente": "Noventa Grados",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNXloTEQxS2hNTE42alF5TzFBYXYzckdoU1RjNkdTNnRaSjNtaGVKUkF3UjI3al8wMmVYTmNuaGdiZnAtRjZqR1hxd0hXTzVQVFpqc3F5aXZiaHczc1hoVG01NG1RZEh2aDRubURVSlNNU0xrSGZtbEdYaURSNGlkcy1Cb003MUdJclU0MmJHQTA3ejdlWWczbExYZEtydkhOeERTMDAwdDV2X3ZaUG5HSV9R?oc=5",
+     "fecha": "20/11 14:24"
+    },
+    {
+     "titulo": "Aplaude FMI a Sheinbaum",
+     "fuente": "Campeche HOY",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LVFkxWl9JTVNCM0pyWGg0dzFkUm9VdUEwM2NGaXY4YnpOT0tIT1JueDcxeTd6XzhXcEFGZmhyVF9QVjVFcHBRdkI4UndlWUF5NHFPWmgxZG5fNnJ2aVdsYXRTV2xIeFhs?oc=5",
+     "fecha": "20/11 16:26"
+    },
+    {
+     "titulo": "“Es una declaración importante”: Damon Albarn, de Gorillaz, elogia a Sheinbaum por viajar en clase económica a China (Redacción Astillero Informa)",
+     "fuente": "julioastillero.com",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1JNSkYzR3M3bUhPWG54cHpoN2xTWkRVa09QbmlLdjNmb3Y2UHhWdHdiSElJNXV4WkF5S3pnWlFxRzI4dGhJdlpIaWE4dWFIT3FMU0lCenVIN1NoQnVKTFprbm9CZGI0aF9TSWdNTUQ4WXR3YlduQXBvM3dpVEF2VW91U1F0M1pSNnBwYnNNSjNGTnFKeEUyU2twcTZ2MWlncV9Sd3ZjdTMyY0lBRWF2NEVyVUJjdlZ5N2lSa3pYMHBUNlc3N1E0Q0tCMXN4YmlFbjFKSTRR?oc=5",
+     "fecha": "21/11 12:25"
+    },
+    {
+     "titulo": "Aplaude Damon Albarn vuelo comercial de Sheinbaum a China",
+     "fuente": "MVS Noticias",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUdhUEZmYkZmeXVsWjFKRHJCUDBfQ3RsbFhHQlZ1R3dGYUs2NHd5N25idzItRUNCRDVuaDBZajlUaC1TY3dqRjE2OVQwdTl1MWlZUlIyMFZoV05QWE5tb1N5VXA4eDhUWWpGZk5nWWFSelZGdERQNS1qaEx4TkM2U0plNEN3c1VsQk92b2ljWm1LNWR6NUc0VDdQQ1BlOW5TOWxVVUhPX21IZ2h4ZTBBb041alZJMV91enVMcA?oc=5",
+     "fecha": "22/11 12:32"
+    }
+   ]
+  },
+  {
+   "titulo": "Alerta Policía Cibernética contra llamadas de fraude y extorsión",
+   "tema": "proteccion",
+   "tema_nombre": "Tu dinero protegido",
+   "angulo": "¿Tu dinero está protegido y qué puedes revisar hoy?",
+   "puntos": 9.34,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Amexi"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Alerta Policía Cibernética contra llamadas de fraude y extorsión",
+     "fuente": "Amexi",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRDQtU1pnVmtJWkFmaXRQWDRtMkZrbHVMVFpKeXJfMXd3WUFRNHcxN1BiS0hzeTFHY05hODQyWVgzZS1LSk93QkFmYS14UldoSlYwckY2M1kxZmd2SFZpLVA4VEFDaFZLTHlMWmVYWHl3SGk3TlBnWFJJTGR6WHp3UFJSLXBLRGdOeWlVMGx2cXFCU0Y4QlB0Y3Q4WQ?oc=5",
+     "fecha": "22/11 13:02"
+    }
+   ]
+  },
+  {
+   "titulo": "Crédito bancario a empresas: solo 14.1% usó uno nuevo, revela Banxico",
+   "tema": "tasas",
+   "tema_nombre": "Tasas y Banxico",
+   "angulo": "¿Qué cambia para tus Cetes, tu tarjeta y tu crédito?",
+   "puntos": 9.15,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Maya Comunicación"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Crédito bancario a empresas: solo 14.1% usó uno nuevo, revela Banxico",
+     "fuente": "Maya Comunicación",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40VVh3ZlJpVDNteUx3WWpYTll5Q0VWa0s1ZmR6MlRVMVRfelQ3X2hDYUF6MDBuMk81bHA0UDdMQURnRk14dmg4eGRxYmdGM2duTzQ4dXlCOFlaaElOZ0s3Y082YVRtYmVmcmdKWHplX0dLWmRM?oc=5",
+     "fecha": "22/11 11:33"
+    }
+   ]
+  },
+  {
+   "titulo": "Peso mexicano registra su peor caída semanal desde agosto de 2024",
+   "tema": "peso",
+   "tema_nombre": "Peso y dólar",
+   "angulo": "¿Qué significa para quien gana, gasta o recibe en dólares?",
+   "puntos": 8.96,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Debate",
+    "Diario El Mundo",
+    "Diario de Yucatán",
+    "El Informador",
+    "El Porvenir - Portada",
+    "Forbes México",
+    "Tabasco HOY"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Bolsa Mexicana de Valores tiene mayor caída semanal desde agosto • Mercados",
+     "fuente": "Forbes México",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVjlxVERlY1hCcnBSbUhoMUJ5Snl0S0NWRkZPclYwY0VFdzlBOVgwOVA3Xy1vQnV5cHl5S2NMQlIwSUpfWk90SGtxMEdqajF1YklGQkFFZ21IY0pLdjdiQVJpUWdtWDhNOFNlZTZSS0lZUm1BbU1IVFNxMnpjVWkwcFRfUkd6ekdRZGY4QVhDdGE?oc=5",
+     "fecha": "20/11 17:01"
+    },
+    {
+     "titulo": "El peso mexicano registra su mayor caída desde agosto de 2024",
+     "fuente": "Diario El Mundo",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLUVGeENhS01vQzR0aDVidE1sNDlzU0xvTDl6dlMzQXJQbkVDWkMzQTBERC1BcmNYQmJnOG9zTlZJSHI5QmdlWlBFYlZqejZRV1gwSHJ0eFE4aVNRVVY3b0M3eXBsY3JKbUZkS19iXzFkSUVUTzFwQzZ0elk1R3JLeVpNNl95OGtlcmFGV19XMDhBZk81TnAyTnk2MDDSAacBQVVfeXFMTlVnOU5QV2FoU2x2THI2TjZzd1M5R3ZkUEIxWHFLZEhMRnp2ZGN2T05VUEZNNlIzN2xmSlFURlNqb0lrYW1SY08zTDdHRThyR3l0NFV6UW93UXJhUG1zZWJhZzluYlN1UGtCdzNERWhMakxPTEc1b2VSTlRJSXBiTU9obUVxTTZpWlhaLWhIS21xTDVvanVaTHBDTU1EUjEwNVBUWnBZV00?oc=5",
+     "fecha": "20/11 19:12"
+    },
+    {
+     "titulo": "El dólar presiona al peso: la moneda mexicana tiene su peor caída semanal desde agosto de 2024",
+     "fuente": "Diario de Yucatán",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWlobEpOY1QyNGJsakpTcHUtMjkzQ19ETnVMeDFNNGlhMTB3bGdWVURUT2l1OE9iY1ZzcmxRRTkwNVBXbHVYRWxYOW96R3dqTjBaOUVqRk9UM3B6ZEhhX0JsQnd3YUpheC00X0tDamxHOUw4LU9nWDROd0ZvQ2xCZVptYTBMWlFHWHhLQXh4U2I5RUJrVVU2RDJfRU9iMVY4aGN1Z0d1eldjamRvQk1KMQ?oc=5",
+     "fecha": "20/11 20:08"
+    },
+    {
+     "titulo": "Sufre peso mexicano su peor caída semanal en meses",
+     "fuente": "El Porvenir - Portada",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQck5FSUF6ZDg5WF9MdEhOV0ZtN29yV0ZpYmlFOG53T1drQ1NTWlFfSE42OVhBOUZlSXJLRmhpc1g2WFVJSTZLYU5ELTQtRkVTQUNqNGdzS3FlWGtCdE9Kc2NsRzJITGVZVEF1TnlZSVNJNXpkMmxzX0tCRXB1bFVMY254XzFKMkFBSzNPUzFoazd5NjU2?oc=5",
+     "fecha": "20/11 20:48"
+    },
+    {
+     "titulo": "Peso mexicano registra su mayor depreciación semanal desde agosto de 2024",
+     "fuente": "El Informador",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOFZ6RDZXd3NKRHlGV3hSUTJyV3JKbFdoQWNoOGFDZm9jUUZ5RHdZdk16WHdCNFRvcnJvUDhtdFlUV2c1LXBiQVdHU1BOcldQQ1BoSTBhRHZPdkMzQVJfM2hjSUZCQjBma3phd2ZoN0FoWEpNVjFoMjZVbXRrSzNVRmVvS25kZGdEWXE3d1JNQkc4X2g3amk4dTkyM3piUUFkbW9GbEU1RzlQbURtQ0s0WlltUjRyQWpDZ0dXMkZPenRpbTlqVW1pMHhrY9IBywFBVV95cUxQOFZ6RDZXd3NKRHlGV3hSUTJyV3JKbFdoQWNoOGFDZm9jUUZ5RHdZdk16WHdCNFRvcnJvUDhtdFlUV2c1LXBiQVdHU1BOcldQQ1BoSTBhRHZPdkMzQVJfM2hjSUZCQjBma3phd2ZoN0FoWEpNVjFoMjZVbXRrSzNVRmVvS25kZGdEWXE3d1JNQkc4X2g3amk4dTkyM3piUUFkbW9GbEU1RzlQbURtQ0s0WlltUjRyQWpDZ0dXMkZPenRpbTlqVW1pMHhrYw?oc=5",
+     "fecha": "20/11 21:40"
+    },
+    {
+     "titulo": "El peso mexicano registra su mayor retroceso semanal desde agosto de 2024 y cruza un nivel clave",
+     "fuente": "Debate",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWFIwZmNyZXg3UVFKWVVEYi1vS3pnY21IS1lER09EY1RodEgzTzJ2dWx1VUo3LXNUdlBiNXJtV3pTYVAtVzhRVEJ1ZjE4a0NKa2xhRVpRQ2FSbFZ4a2xfdmo0Y0RMcHlSWFZTMDE0X2dXNGgwZG4zdHVDUGpTYXktOXd1cjczVUw1TjFoNGpiWG1Ib20zbllKV2RXNjNmREJla1FaS1RldU9yUURjSVo2U0pwdmtYWlZvLTBjYWY1aVZ4cTVCZ2VpbC05VTU1czJPYy16dVA2Y1FDeGJFWndmZU9DR3A?oc=5",
+     "fecha": "21/11 14:21"
+    },
+    {
+     "titulo": "Peso mexicano registra su peor caída semanal desde agosto de 2024",
+     "fuente": "Tabasco HOY",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2k4amhUcXpOdFM4bGZrbmFiX1QxWFdDemswN2ozVF94RWtsV0FTdExnVTlBSHBlREhWWmhTQ0g1NXZKd1FHeC1hQnBWb3V5MDV3TlczRjBOTmlTNlBjVUIzYXRvaDhRUGVweUtXOVFEalNpM19ZSnFFcEVUTmc2MXBhS2lVUzdyeDBkVWlsZzZBM3U2U2FmMg?oc=5",
+     "fecha": "21/11 17:51"
+    }
+   ]
+  },
+  {
+   "titulo": "Alertan a jóvenes por fraude en cajeros de Temixco; así roban tarjetas bancarias y vacían cuentas",
+   "tema": "proteccion",
+   "tema_nombre": "Tu dinero protegido",
+   "angulo": "¿Tu dinero está protegido y qué puedes revisar hoy?",
+   "puntos": 8.79,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Diario de Morelos"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Alertan a jóvenes por fraude en cajeros de Temixco; así roban tarjetas bancarias y vacían cuentas",
+     "fuente": "Diario de Morelos",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUJ0UlZYczlOS2h5M0JfVTlMd2ZSNkpRTlJZSWxoY0p6ZTNpMGFZZ3oxLWpLRWRjY2VhSEsxTFhWWUM3WFA2YjhXcXN2QkRIUDNUR0Y5TXJ5VG5CSEVzLUhudjFia1NIUFVSTkN1aHQwUEt6Uk1oV0tuZGFHRm9MNzRHZG5leDMtSUJReG9PMElvZnVmUDZ1WGhHRDZCd01fSFlrMWltd3BXYmFzb2xOcFU0X3lmUEQ1M3plb1BjVXRGeEtw0gHKAUFVX3lxTE9XS0tGbmhCcFFFdmVNRW9LblNYVjZwSGwwUWM1Zjhod29Fb0tpQU42NFNmYW56R3pxaVVWZjAwMDVZMFNIWGdTYU5lNmMzUklRNkhNTGgweVdYQXgtUFdsNnV4b1F5Zk9sdU5oQnh0cEF5eXVydTg1cjlrSWRWNDdEUlN2b2xDZXJnc3laYVd5NjFYQ3BueUNGcVcxbkczMjBaZ0lNRDJwQ3l6b1dMYUY3YnFCaW53YUFTYkc0Vjg5bTdTNi1hZ2lyX1E?oc=5",
+     "fecha": "22/11 05:30"
+    }
+   ]
+  },
+  {
+   "titulo": "Hyundai Elantra 2027: qué cambia en la nueva generación y cuándo llega a México",
+   "tema": "inflacion",
+   "tema_nombre": "Inflación y precios",
+   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
+   "puntos": 8.59,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "WebAdictos"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Hyundai Elantra 2027: qué cambia en la nueva generación y cuándo llega a México",
+     "fuente": "WebAdictos",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLV3ZlRGZZNU1JVTNnNl9ISkhJOFlhU3h2bENDaVVnanIxdlM4SkVQYkZhN21iMjVJdDhZYW1IanlwbVQ2R3M2d1VUVG9lck5EM3ZXcWYzbw?oc=5",
+     "fecha": "22/11 11:00"
+    }
+   ]
+  },
+  {
+   "titulo": "EU y México cerca de acuerdo comercial, pero Trump exige a Sheinbaum: ni superávit ni narcos",
+   "tema": "comercio",
+   "tema_nombre": "T-MEC y aranceles",
+   "angulo": "¿Qué productos y empleos se juegan aquí?",
+   "puntos": 8.51,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "ABC Noticias",
+    "Diario Puntual",
+    "Diario de Confianza",
+    "El Diario de Ciudad Victoria",
+    "El Imparcial",
+    "Facebook",
+    "Notisistema",
+    "Peninsular Digital",
+    "Periódico AM",
+    "Periódico El Orbe.",
+    "Pulso Diario San Luis",
+    "Sociedad Noticias",
+    "Tabasco HOY",
+    "Yahoo",
+    "anews",
+    "www.cartademexico.com"
+   ],
+   "formatos": [
+    "Largo"
+   ],
+   "notas": [
+    {
+     "titulo": "Trump alardea, pero admite que está próximo un acuerdo con México",
+     "fuente": "Pulso Diario San Luis",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1FWFFjaHB6VDlSWndBaDJLd3VHRHRtVkZyZXpwdUlfak91bFBVLW1PRGFWWnh1dXlYdVRtR2xSeEtjSWRGaEs1UVJSSTNJRjBNcDBMZ1BMdUU2ODFEMzlxY00tbDl6SmR6OWtNSkV4cE5QNXJWU3RiRjVfWUxBR2ZlRlFRejEzbTlVaUhNdy1jWThGY3Z30gGcAUFVX3lxTE0zQW5uY2poWlctSjNsR0ZMZG9RTzNBclFNcWx4ZWN3Wm45c3h2NENJelZKY3NnR0hfQ0JnUl9XLWVDalhUQkpXSzgzSVF2MVRJTEVYY0RaZzhVRHFzczFNTldtSlVvVXZuNWZ6dHpKQ212T2Z1LUxLdEktaERJUW5nOHRuTkdGYjJVTHJDWUx2aHVJSDltV0FMVHFHUQ?oc=5",
+     "fecha": "20/11 14:24"
+    },
+    {
+     "titulo": "Trump afirma que resaltó a Sheinbaum que los cárteles “gobiernan México” y exige reducir el superávit comercial para alcanzar un acuerdo: “Es nuestro vecino”, dice",
+     "fuente": "El Imparcial",
+     "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNeHg1QzhZd2lkQmVzbXZlQ2FWbERLNGh3cWstREpObnpMOFJad0VGOEwwMUlGUzNsaWtBbUJDV0pqeGNCMFRMV0JUbW1ycE9QQTFVOXNQclNaNU1mOXE2UWxFQ1N6d0U4SHJYNkxfWm9BdzhNalVGUmlFTFJpdDhVR3FPZnBLS2FSYkRoSFBDUWVVVGIwX3RzOTBrQmV3N0xCWDg5MG12d04wYlJXTnh3c1FVN2VyUjR0T2cxUVprNmNEaVYweW1qbjBxclVJNjMweEJLNmtRNXNWOGNobVRDX0ZpbldlX2ZJemF4RkRBRHhMYk9LN2JMNkZpRXJ5UkZrem5ieEwzTnN4OFJnR3ZNNktabXNrX3d2emVCMlJWMk1MQmJqNGdKZUdB0gGjAkFVX3lxTE9tRGRvM1dHVlE5UHFva1E1azI3b3lYWmJYN1NMRDQ4NWJ5bUdtZkR3c3d3bUhESjhTekkzMzAzQXlRSG4zOERVdkotUDhsSlFmZzMteUZQM1RTaTlEZzFpa0RVYWZRUUpzSElJVlJkSjNYM3hJQzg0anBvbmEtOW1IbTYxVkkwaUI5NlhsV1J1ZVp1eVA5UFhnTEl3SFdaODN3VWNrZlZISUFHdnlMX2VKZEFWTVA3d0FkcFNDV2N1MVlUaHJVa2ZPOFM4OXhhU0lnM3pxcFJqWTQzUFRDUS0xU2xpWm1yaER6QklHcTNjeXJOTExWTDZ3WE90YlRmSlRfMko4WlFhYXhENUJ3dWdBNDdrcUw4dWFiTXFVZHV6LUpNZw?oc=5",
+     "fecha": "20/11 14:39"
+    },
+    {
+     "titulo": "Donald Trump ve cerca un acuerdo comercial con México",
+     "fuente": "ABC Noticias",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV29RdGk1aTB3U0h1amtLelRDVzNPUjdDS1JPNl9XdFlWamxmSWVqV01zUjh2Z2VCdlZGN0xuU1IwS1YwWGdCdjZBZjhyN1hUR1hOTjFhODBLTWIwajU2S0lQNV9vTUpYdzhRVzl5dWM2SFFXNWtxR2c5RlhxTXh1RkpZdXZSMjB5ZWtTeElLS00ydXdMS0JtU1UzS3RDNWRMWktqNjh0UThNZw?oc=5",
+     "fecha": "20/11 14:40"
+    },
+    {
+     "titulo": "EU está cerca de acuerdo comercial con México: Trump",
+     "fuente": "Notisistema",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMXVZSjdWd3I5Rm9pY0hNN1VwQnJjWnBPSklmUTk4UXF6MWIyNVZpZlhRTFp0aVpJRHcwNUd3MGUwbVR3aFNlMXowdVAzM1huSHhoRWpPaXQ0bVFSSFRkdTVMVjZwQnpCZXFmeXZkQ01ybVA1VE5YOXdsOEhEcFdvRWtUbi1CMHQyc2NfdUROREk1ZHM?oc=5",
+     "fecha": "20/11 14:44"
+    },
+    {
+     "titulo": "Trump afirma que se aproxima acuerdo comercial con México",
+     "fuente": "Diario Puntual",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUFdjYTZobHMyRXNnckRNVWtPRFZQYjNvMmljUE9lRFhtOWlIc05ndmpUcndRdnRxeGE3VXRJSWhZa1Q1VHNsN3VJSlhUdVRPUUE4SVI3R2ZiWUwzTEswR3dPWXVQWnNJRXZZS213THEwQVNSSnRKMnVxdG9JSGtaYUc2Z05nNkZKcm9aVko4NWQtUVdIcTNDb3d3RVplejB4X25KMTRtV0I1dllmQUE?oc=5",
+     "fecha": "20/11 14:44"
+    },
+    {
+     "titulo": "🔴 TRAS REUNIÓN CON SHEINBAUM, TRUMP DICE QUE EL ACUERDO COMERCIAL CON MÉXICO ESTA \"CERCA\" El presidente de Estados Unidos, Donald Trump, dijo este viernes 20 de noviembre que estaba a punto de llegar un acuerdo comercial co",
+     "fuente": "Facebook",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQc3M4U3dzOVYwal9fcG9ERzNma3hTeG1NMHZ6a0RJamYzaXNCQUJnWXhkOXM4M1Z6dFhhbTRDNW9tNVpVZ2VFNFhxMzVsZHZ1NkJHQ0lUeExadmRreFdJSERuaXpySVJTcXRPUDZGRmctdjhhS1MwaFdiVUJtRkpvMDhZSEhJckxVZU5adkRVY2lvd2NLblluTHVpWHdXXy1xaUI2LTlPYWNaY3l4d0pzUGxoSTBIcm5uTDROMkxxdnF3R296THk2Q2cyY2ZBY2FYa3IzU0M3Z3BkYlVoN01TSDcyaHExOWg1bVE?oc=5",
+     "fecha": "20/11 15:02"
+    },
+    {
+     "titulo": "Trump afirma EU está cerca de un acuerdo comercial; pese a que México sigue gobernada por narcos",
+     "fuente": "Sociedad Noticias",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMDF2VF9kNTdiLW1aVU4yMWFKU2JGbEFfSkdEdWRmQnppaGpvTlhZQzBiRkxLa2RyQ2RMbms3enFLajNyQnlmN2lYYVBrSEp2ZXlTRld3OVZubzBUTUxyNWZhSFJZT0o0NXlJRzBpVVJxZWFxcFRBNHd3eFRZakdiTlpNMEI4RFdYRk1YNVpEaWNBTWp4R3VWQ0dvTF9oVGRoWVdRVUdham1LVTBQY2U0OGZzeU54bzJGVU55VmNXaG9qVEI3MTVEdFVLWWtGNHlBTTg4?oc=5",
+     "fecha": "20/11 15:30"
+    },
+    {
+     "titulo": "Trump ve cerca acuerdo comercial con México",
+     "fuente": "Diario de Confianza",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tb3RnLU4yRVFCOGcwaFdERUFfSVZGbUQtSURhN2FTd05YODU5Nm1KdjRya1k4UEFBTkVyamxhMnVvdVBpdzd1WUVIdUs5eENyRmtLa0k0UHY1MWFUZGFGeDRVOWxyTW1tQUk0RVlBa1Q3RV96aEpUal9ZOXBtdw?oc=5",
+     "fecha": "20/11 15:37"
+    }
+   ]
+  },
+  {
+   "titulo": "Transporte urbano: 270.6 millones de pasajeros, dice INEGI",
+   "tema": "inflacion",
+   "tema_nombre": "Inflación y precios",
+   "angulo": "¿Cuánto vale menos tu quincena? Cuéntalo con un producto concreto.",
+   "puntos": 8.46,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Novedades de Campeche"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Transporte urbano: 270.6 millones de pasajeros, dice INEGI",
+     "fuente": "Novedades de Campeche",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1dBdFhCVWdhTk16bU9NZ2ZHR3ZqTTk4SHNtcWRhTGd2MjZGcnRDb081TzRFNk9KZDZMc2l4SlBOVUE0Z3FROTFuLXdGUlUwVG5ONkFKbXVQcnV3eFlxX0ZOWFkxNGdJNDFtVEdsRnNDc25RLThHaXlSdG5qMmg5NQ?oc=5",
+     "fecha": "22/11 09:54"
+    }
+   ]
+  },
+  {
+   "titulo": "Programas de empleo en el sur de México buscan frenar caravanas migrantes hacia EEUU",
+   "tema": "comercio",
+   "tema_nombre": "T-MEC y aranceles",
+   "angulo": "¿Qué productos y empleos se juegan aquí?",
+   "puntos": 8.11,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "ABC",
+    "Proceso Digital"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Programas de empleo en el sur de México buscan frenar caravanas migrantes hacia EE.UU.",
+     "fuente": "ABC",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzVUUTlhRW9DZ1FjYlpuVU4wNGNGYnlQb05NTjRLbUJQRmdfMWIzTkhDYWJuU0dLeFZWam1ELVdNcl9GWUVNWVBVTnVEMjVfOW5pNUpCV0hsVDg5VlRZRXlVbEg1aHdNWnNmWlBqVFNuQlhQVnIxUzczTDFTU0VhQ2txVHlrRFJTZzdyakp2dEt5UUpnY19MSTVRdGQ0NzhZZVBFedIBqgFBVV95cUxPSU51bExHQzlYRm54Q09UMWp4XzJFSThGYnFGMGVTRVlVMG1NT3RXcklpajNYYlZ5ZVlTSDFZQkZndkJ4cVN6U3BjU0VfVFVwdFlLQnVpMjN1UlNQdDlLcDFzRDVqeDduN0NKUmxGRzk3UU1hRUp5TkEwYkM3MnA5WGFySWxnM3BVMV9GNDVLWjdoa0ctWnJxM3ExLTdjcUktYVhiREYyY1k3dw?oc=5",
+     "fecha": "22/11 11:39"
+    },
+    {
+     "titulo": "Programas de empleo en el sur de México buscan detener caravanas migrantes hacia EE.UU.",
+     "fuente": "ABC",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY1NmakdjOExZNGR0Qm1TWURCS1RRT1Roc2VCWnR6NVBDZFhOT0IxaXM3RklTNHFiSGl4WFk2TjdLa1Q3enZCVmpiUlJraU5jQzBtODJqS1NjbjdJejNxYW83YXZzTE9DdEZNYWpacDQ5SloxTTFaV2NLZndqZF91R2dFd3QyQ1NrcXp6aHJ1Z3ZxdG1mWl9aTHZhVkhQcE1MSUZlVXln0gGrAUFVX3lxTE9wdmZMOXZ4RmtsUXhZSWJtRE42SXdOMUFwS0d1WmdWY0UzLXBIR0p4RENnZFNhVS1yZ3V5bGJ1RnhtMGlpM2RuT0FNRHVMR2c4RkhrUHlyYnVxQUx3Y0RTaV9OUzBPcExWM3R2LW9mZk1JTkNwQ041RndDM0p3R2dkVzl6N0I3eXczT1cxUTFnUG52SG1EMVVvZ2E5Y0ZGanN6Y1pyM0ZTVHFmWQ?oc=5",
+     "fecha": "22/11 12:21"
+    },
+    {
+     "titulo": "Programas de empleo en el sur de México buscan frenar caravanas migrantes hacia EEUU",
+     "fuente": "Proceso Digital",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlBPdEtZek1BVzhQbll2VW14djRWVnRBZnJfLUw1QXFGSkhSRzhQbDZLRUd1Q01VR2RRVWlWMDRpRjRoWUlFeF8tb01Sd3pIdlVIZmZvaktod255S3BUeWJZdVJRRDNyRF9HV25uV1VaaTdOd3BhNWlOcHhMVTk5VTlDYmJyQ0JfQ2l5aFNYVG9OSjZDYnl6SzBOQjBfMmJGeEs5dXRoMA?oc=5",
+     "fecha": "22/11 13:42"
+    }
+   ]
+  },
+  {
+   "titulo": "Trump procura pacto bipartidista para limitar al 10% las tasas de tarjetas de crédito ante deuda récord",
+   "tema": "mundo",
+   "tema_nombre": "Economía mundial",
+   "angulo": "¿Por dónde llega esto a México y a tu bolsillo?",
+   "puntos": 7.94,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Banca y Negocios"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Trump procura pacto bipartidista para limitar al 10% las tasas de tarjetas de crédito ante deuda récord",
+     "fuente": "Banca y Negocios",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdW9jYnJJekY5MzBYTjN0QWZUZXRmQVptSzlRSlduVG9IcVUwR08zZDlYUGZNM2lzb0dUdFhKb3RKVnRfYzJXelFwUGNvMnU5RkxpVzN5QW84N015WW5taTFQdjI3ZEFYMlhmT0ZmOExUZEt2MHVQdFBIRGo2ZFlhdFd2VnR0ZkFJSzVtUlpKbXV2cmZVOXA0UVJMaUtfV3JLOHptTUdFM1hBeFJvbUwxZDRRQmxwWjVyaHo3UVVWa182T3hnaF9XcFhNSmYzS2FFNzZWQkoxNVFkSk5C?oc=5",
+     "fecha": "22/11 09:31"
+    }
+   ]
+  },
+  {
+   "titulo": "Salarios mínimos profesionales podrían cambiar en 2027 porque la diferencia con el salario general cayó de 42.7% a 14% tras años de aumentos desiguales y la Conasami revisará posibles ajustes",
+   "tema": "crecimiento",
+   "tema_nombre": "Economía y empleo",
+   "angulo": "¿Qué significa para tu trabajo y tu sueldo?",
+   "puntos": 7.85,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "El Imparcial",
+    "Infobae"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Conasami revisará los salarios mínimos profesionales ante el rezago histórico que presentan",
+     "fuente": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmxBR0xoWWktSkVSYkoyTkRyaHNXeTdrd2lGU2tPRC1ITmJZeGlTM0k3cFI4N2VNM1RDMmtLWHNfMVVFY0prVTM1aDZSN3RIcFIxTVBURXZXc1lXRzluRHA0d0tNUjhORUk5R0tISWh1WjloNlkyTnFEcGxNX0lvY1hISnNpLTRkaWVIVkdmRDRKelM0YkUwWDVCakNIOVlJUjdXdmNrREc2NzdFdjZvNDgtRFprVFF1aHQwRWdqWlVWTXZXUGkwc2JYZ3kwYTDSAeoBQVVfeXFMTWZtTG1rc3dydzVERTVVVHR6c3NzcmlMRHRXdENhdW15ZkhDMm1aOTkxSEFyZFVmbF85Zk1FMkRvU1d1UkZWWlp1Mjl0Vkhqek41M3Z4NUdlVG4yT25KVmRhSEVCYTdYdVVraXdwWW9SNWhoamJkVmI3aEpOY21POEEtT0FxYnhtaVh0TnR0R3diN3ZOcjRpSmNyOUdDTENuWktnR01iLVRlT2RCcEdiSXRYLXp3VE1vVVE1ZEhYaGRNVkRKeHQ2Q21CVXlEX0M5NnlIOXc3VlBQTTQyNGFHNmt0OFFRSzZvT1N3?oc=5",
+     "fecha": "20/11 16:41"
+    },
+    {
+     "titulo": "Salarios mínimos profesionales podrían cambiar en 2027 porque la diferencia con el salario general cayó de 42.7% a 14% tras años de aumentos desiguales y la Conasami revisará posibles ajustes",
+     "fuente": "El Imparcial",
+     "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNZjNMTjItYkZobWYtaGJ4emZ0MmZlLUlUV1pxdTd3TXIyQnpYRUNSbTNSMXgxUlYtN0xpbUY4ZFc5VENTMHlOUHV6ajd1SGFvRVNCMkFOWFdrNWpBaHhsaFZYOGdjSUk3Q3lic213RnFUNUhJamhMNVhKdzczbGlaYzVSYmN0Z0pINHp1QmZFTVVsV3VaN0JaUm5xcEVtdmdlZlFtY0NFQl94YnBzSTNydEw0RGUyamFkUloySEZTYjczLXhOZFFUMThyQnRZLTAxY2MtZDA1M2VlM3RnbU1ubUdSX05zdmpQWUhlZlZKUUdFRk9rcExDRlBhWXcwVzZGaFJGX0hTSVhfR2RWRUxhbXJrOFJUR0E0MHpFN0ltamIwd0hBaXNZWS1KbEFfMHZNSnQzQ3hYa19PS0d3Q3Z4V2pCOUlUVUxMQ0k3Y1dEbk9xVjQxaUHSAfACQVVfeXFMTkdHajdWdDktVHJQWUNoMmFGLXZQN1BQdWFJekx5TDVWOVZuVVY4eTlEUGFlV25XUDkwZk9kaW9naFMzX3kzTUluRWgzMHhRcnVkQ2p2VDJ0X2w0Y2ZmMkNzMjhkVER0Qkg1cUduSVF5ZjlqXzk2R0MyVEp4VzJIeGxtc05ZTG0tSnZlcG16b0U3ZW5EZlJLOUZ6UERzelR4dXEtc1JEb0FFRUMwQ1AwZzNEVF9EbmtKY2hUZmlTZkE1MTFOTnRlWVgteDJxX0huOWUwVTQzQzM5MF84Znl5aXFndVFva1dURVdPSDN0WTcwZzlTYWtKMlpPNXRmb1dlSzh4aUViMzRrTjFYUlBnaU54a3pTRTZ5VmsxVVB2bmpfQ2pjTlAwN0hkMzk4aXBsUHIwZmI4SGRzV25XTWpjMVZxQnNfTi1ocnFUMHJDbUF1OUt2VmtkUE9XLThKNXY2ZDBzWndQRzRUazFTMDFILVQ?oc=5",
+     "fecha": "22/11 11:24"
+    }
+   ]
+  },
+  {
+   "titulo": "¿Cuánto puedes comprar en Estados Unidos sin pagar impuestos al regresar a México? 👉 Principales",
+   "tema": "finanzas_publicas",
+   "tema_nombre": "Gobierno, impuestos y deuda",
+   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
+   "puntos": 6.99,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "En blanco y Negro | Noticias de Chihuahua"
+   ],
+   "formatos": [
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "¿Cuánto puedes comprar en Estados Unidos sin pagar impuestos al regresar a México? 👉 Principales",
+     "fuente": "En blanco y Negro | Noticias de Chihuahua",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRVVJb01aeTdicW01OFZvMFVTWmpId042Zml5bTVUX2phUlN5TU5RTDFYbnRTeU0yTGJSSkh0dVlTQU9KRlhlMXV6cnFxUkdRbDAxdDdkbkxhZ2o2aWRRRUlieFJqTVktOUFfWTlQRHlsNWlDbmdmWFB4Nmt2TThmeG5PUjRRQzhqR3VXZGc1ajVZQk1lMUphNGtUdmM4OGNrWU1oQ3JYdzRMa3FOemhhWUhPMjY5TDlVZlU3ZTQxQQ?oc=5",
+     "fecha": "22/11 09:23"
+    }
+   ]
+  },
+  {
+   "titulo": "Nuevo León prepara presupuesto 2027 sin nuevos impuestos, adelanta Ulises Carlín",
+   "tema": "finanzas_publicas",
+   "tema_nombre": "Gobierno, impuestos y deuda",
+   "angulo": "¿De dónde sale y a dónde va el dinero? Divídelo por persona.",
+   "puntos": 6.9,
+   "oficial": false,
+   "estado": "Sigue",
+   "desde": "2026-11-19",
+   "fuentes": [
+    "Diario CAMBIO22",
+    "Nayarit Noticias",
+    "Noticaribe",
+    "PostaMx",
+    "XEVA"
+   ],
+   "formatos": [
+    "Largo",
+    "Short"
+   ],
+   "notas": [
+    {
+     "titulo": "Tabasco proyecta presupuesto de 72 mil 300 millones de pesos para 2027; descartan nuevos impuestos",
+     "fuente": "XEVA",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTkRoVnpVZEprbURpbEMzb1lqZHhRamtfTWt2XzBEaDdJdzhqNDRPZS1BOTNaTXMzZF8tRTlsaTluRG5pRGFHME5nd3AwMUxNWF8tdnVGWUdrZmZkOWNLMGpVOEV0NzM4VFFRNVBoYzdoYXJRR2hEem43TkxVZmxFYlZZZFdBcDVMOUQ4TmZKU2JmajhSS3NQZndqcDJBTmxvUUxOd21BU0t0T0tkS0ZpaEVjN2FRZWphNnJkX3YwaWw4MzdrQk9Qbjl2bEk?oc=5",
+     "fecha": "20/11 17:09"
+    },
+    {
+     "titulo": "PAQUETE FISCAL 2027: Asegura Mara Lezama que buscan mejorar la recaudación, pero no habrá aumento de impuestos; los ingresos que se obtengan serán canalizados a sectores prioritarios, dice",
+     "fuente": "Noticaribe",
+     "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNalhtU1NPVG9aVkk1dU9maGstRXZuRTYwQVc2MDZISHd1aHhBUFRSVGQzN1VuRHRRWXBMcERTN1hjNWwxWW15NGNNOGd6R0lULW9BX01ITGZzTEdEUzhSS2d1TzZfVFRVdGk0WFBoOExncHZQT3Exb3hPeVZob24zNkZtSnJjVjdkd19aZmdnVjdvbVYzdEhQR2tBVFZzRGNpVHUxTkJrRGh6YzNQWWY3bk9NUTRHRHF3MzNQWjcxZzhvUkxBZ1ZqbVVIWmFtTmNwNE1MVFNWUldrd3k3c290S2l0N3NWa2xzdU41a1d3cHFnSjkxV2NHdDlwbkg5X1dNSVlmLTdvZ0ZpWFJKTDh4aXJNQWF0WG00Sm1BNXh2aW80N3BZWmV6UEtGQkhhYTlYY2NHRmNNb0tuR2pvRENkbE03eXU?oc=5",
+     "fecha": "20/11 18:17"
+    },
+    {
+     "titulo": "Miscelánea Fiscal 2027 Contempla Mejorar la Captación de Ingresos sin Crear Nuevos Impuestos: Mara Lezama",
+     "fuente": "Diario CAMBIO22",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOTEwdnRFekRkVzY1dGNMOVcwdF91cTFxSFZ1ZDF6WERMN2xtaWttZEZQODJCMTdOa2gwdjFrYnpEMGhSWUZLU3hZWl9wa2ZUS0drR3Q0WWFYM2NSY0hYQWFfS1JMVzhFc3l4aUh6WnZCczJQd3Q0M1dZbS1DT3RZSy1lSDZVUXduZjlmYkExdVJUUzZlUXZKVzVZOElVVzhENzI0UW9KRmRBMmRGc3RqU1ZyVEJiM24yTkxKR0hJTmZnQkw0X3Bub05IOA?oc=5",
+     "fecha": "20/11 18:45"
+    },
+    {
+     "titulo": "Presupuesto 2027 no contempla nuevos impuestos: Finanzas",
+     "fuente": "Nayarit Noticias",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjZkbWNySGZyZXZDTmpodnU4eGFLdDdhMDRBY1ZBQURTbGN2d1dVRmlhWmxEdm1XQm8zUWVJb2VRZVAxdjYxeDVHNnRvdl9UeUttMzhiVnQxT0VwY1JnTGotdVF3ZHFVT3FOcTRZaWNUeTdXbjJEeGphUTVIWXMwNkdnMFBYQ0hqWmtaQUVqTW1jMkJybDFFWlprcw?oc=5",
+     "fecha": "20/11 19:15"
+    },
+    {
+     "titulo": "Nuevo León prepara presupuesto 2027 sin nuevos impuestos, adelanta Ulises Carlín",
+     "fuente": "PostaMx",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWldxYXd1bTE4QzhDUWQ4dVo0bUpDWHhJdjNfWElTRnpMV29KWEY0MG5hYlFBOWlkcWYyTVkyeTlDOGtnUUZRVnROdmd6ZDIzWlFPVHMycFZBM0I4aWd5WC1HemRMejJVaFdreVhqVFJvYTFza1VET1h4MzU4RE1jU1BtUXlOZVY3X3EwaHFxc0dyWEowU1FuLVFIWVNNN3JNNmF2NExYanN6VTlpczZ5NlRIQXc0TGxwbFp1YlNKTGphM03SAcgBQVVfeXFMT1pmbDNuTUFiNndGVzRNRkx5bFhOOXVVbElja1lYMFhHSHBkZk0wcnFpU2xvR2JQMnp6alhhYkV0YnhyQkFROXpyNjF1TVI4SkRlWWJNNGpNc1paRmVwOHFZRW9sQ3NwWkU4amE1c3o2U0lWWjBmRnd4OWtjYm5fY09nZWNrVEk0YnhCQmdpQ0NHUFl3Q3VzS005Qlh2UDl1T0RwOWtqNjZBeGV4TXBta1R0anNmS01ZZUdTMFB2Q2N3bGtjbGh1SkM?oc=5",
+     "fecha": "21/11 19:33"
+    }
+   ]
+  },
+  {
+   "titulo": "Dólar sube, escuelas alertas y cae el empleo en servicios",
+   "tema": "tasas",
+   "tema_nombre": "Tasas y Banxico",
+   "angulo": "¿Qué cambia para tus Cetes, tu tarjeta y tu crédito?",
+   "puntos": 6.72,
+   "oficial": false,
+   "estado": "Nueva",
+   "desde": null,
+   "fuentes": [
+    "Fortuna y Poder",
+    "La Tarde de Reynosa",
+    "www.cartademexico.com"
+   ],
+   "formatos": [
+    "TikTok"
+   ],
+   "notas": [
+    {
+     "titulo": "Peso cayó 3.40% en la semana ante fortaleza del dólar y señales de Banxico",
+     "fuente": "Fortuna y Poder",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNckFjeVpkc25fVzRDbDJOMmQ0OVRFUUpmREVyczkyMm1XQ1N2bzZJZ2ZMV0UtaXdVbWNIeXAwa0V5VEhVRVVLb2x4dTBmWW8tN0VQdGl2M2ZLaGhLLXYyRnlOYTJmcjdiOWhXQmUwUzAtbVJaQXNKRlpxMzIxaWFGdlZjdGhZRkJSRk1NcDZXUk5GVG02LWJhYmNmM1Jlcm5WZzcyaFFqeVl1enVG?oc=5",
+     "fecha": "20/11 14:30"
+    },
+    {
+     "titulo": "Dólar sube por Banxico",
+     "fuente": "www.cartademexico.com",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE42QzdvbXFxU2FmV1hoMUt6QmZsMlN3Mm9OcTlnc1V3QUdtckdPWlpoVGs4MHl5Nlk1T29OQlFaNGItc285WUtpS2NkckN2VEthYVlSc2g1UUk5ZzJPTFRfT2J1c0FrVXVm?oc=5",
+     "fecha": "21/11 09:38"
+    },
+    {
+     "titulo": "Dólar sube, escuelas alertas y cae el empleo en servicios",
+     "fuente": "La Tarde de Reynosa",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWlreGtGUkdYZFFQU3VGTFk1WEI3VlVES2R6Q2V6MmNRb1lJSVZFOWI0ZzZ1M0E1cllZclh5RUxxWGRYSFNWTUw1R2dZMUJnOU1DT0NDSlFaOU5aNHpqc1NST2dGNFJvc29RMFJ0eVRCU2FCRTVUcVd1QmpnVDBuY0swc1ZleUQ4NkNTbEFCLTJhdkNYazE3VGNaQjdSUdIBowFBVV95cUxPWl9TbEZzRFA2WnQ5WVBrMFBObVhacmdQR3pXekdVOHZaMnByYVcwZDh2YTNIS2ZHRGtjUWJMaXROMmxOV3dUbTJuWEN6clpva3I3OUR2eUhCX2ZsUlhJOE5CZS1Vc21NQUx4R0hzb2F4QmZWNlZ5VTJ0TFlnSVF1STVpWW9xVGRfUFkxb3BHYmhCU2lJeExrNzZ3c0M1VTc5a2tv?oc=5",
+     "fecha": "21/11 10:12"
     }
    ]
   }
@@ -66,308 +1592,16 @@
  },
  "fallas": [
   {
-   "feed": "Google Noticias: Banxico tasa de interés",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Cetes subasta tasa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Banxico minuta",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: inflación México INEGI",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: canasta básica precio México",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: precio gasolina México",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: SOFIPO",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: CNBV revoca autorización",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: CONDUSEF alerta fraude",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Afore CONSAR",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: IPAB ahorradores",
-   "error": "HTTP 429"
-  },
-  {
-   "feed": "Google Noticias: Wall Street hoy",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Nasdaq S&P 500",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: salida a bolsa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Bolsa Mexicana de Valores",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: resultados trimestrales empresa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: acciones inteligencia artificial",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: concurso mercantil empresa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): IPO",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): stock market",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): earnings report",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): AI stocks bubble",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: peso mexicano dólar semana",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: remesas México Banxico",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: bitcoin precio",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: stablecoin regulación",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: exchange cripto hackeo",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: criptomonedas México regulación",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): SEC crypto",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): crypto exchange hack",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Presupuesto de Egresos",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Hacienda deuda pública México",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: SAT recaudación",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: impuestos México 2027",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: PIB México INEGI",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: empleo formal IMSS",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: salario mínimo 2027",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: T-MEC revisión",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: aranceles México Estados Unidos",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: nearshoring inversión México",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: Reserva Federal tasas",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: FMI economía mundial",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: petróleo precio OPEP",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google Noticias: China economía",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): Federal Reserve rates decision",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Google News (EN): global economy recession",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Nvidia",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Nvidia",
-   "error": "HTTP 429"
-  },
-  {
-   "feed": "Empresa: Anthropic",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Anthropic",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: OpenAI",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): OpenAI",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Apple",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Apple",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Microsoft",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Microsoft",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Tesla",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Tesla",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Amazon",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Amazon",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Google",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Google",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Meta",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Meta",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Walmex",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Walmex",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Banorte",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Banorte",
-   "error": "HTTP 503"
-  },
-  {
    "feed": "Empresa: Femsa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Femsa",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: Cemex",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): Cemex",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa: América Móvil",
-   "error": "HTTP 503"
-  },
-  {
-   "feed": "Empresa (EN): América Móvil",
-   "error": "HTTP 503"
+   "error": "HTTP 429"
   },
   {
    "feed": "Empresa: Grupo México",
-   "error": "HTTP 503"
+   "error": "HTTP 429"
   },
   {
-   "feed": "Empresa (EN): Grupo México",
-   "error": "HTTP 503"
+   "feed": "Reserva Federal (comunicados)",
+   "error": "HTTP 404"
   }
  ]
 }
